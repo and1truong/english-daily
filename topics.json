@@ -114,5 +114,12 @@
 {"day":113,"slug":"mi-trung-quoc","vi":"Đi tiệm mì Trung Quốc","en":"Chinese noodle shop","scenario":"Ghé tiệm mì nhỏ: mì kéo tay Lan Châu, vịt quay, wonton — quán ăn bình dân ngon rẻ."},
 {"day":114,"slug":"di-san-bay","vi":"Đường ra sân bay","en":"Getting to the airport","scenario":"Sáng sớm đi sân bay: gọi Uber, chống hành lý, kẹt xe, đến cửa departures đúng giờ."},
 {"day":115,"slug":"thue-khach-san","vi":"Đặt & thuê khách sạn","en":"Booking a hotel","scenario":"Bạn lên kế hoạch chuyến đi: so giá trên app, hỏi loại phòng, chính sách hủy, ăn sáng gồm chưa, gọi điện đặt phòng."},
-{"day":116,"slug":"checkout-khach-san","vi":"Checkout khách sạn","en":"Hotel checkout","scenario":"Sáng cuối ở khách sạn: kiểm hoá đơn, phí minibar, trả phòng, gửi hành lý ở concierge, gọi xe ra sân bay."}
+{"day":116,"slug":"checkout-khach-san","vi":"Checkout khách sạn","en":"Hotel checkout","scenario":"Sáng cuối ở khách sạn: kiểm hoá đơn, phí minibar, trả phòng, gửi hành lý ở concierge, gọi xe ra sân bay."},
+{"day":117,"slug":"lac-bac-kinh","vi":"Đi lạc ở Bắc Kinh","en":"Lost in Beijing","scenario":"Đi lạc trong hutong Bắc Kinh: không Google Maps, hỏi đường bằng ảnh chữ Hán, tìm được trạm metro."},
+{"day":118,"slug":"mat-giay-to-thuy-si","vi":"Mất giấy tờ ở Thuỵ Sĩ","en":"Lost documents in Switzerland","scenario":"Mất hộ chiếu ở Thuỵ Sĩ: về ga tìm, báo cảnh sát lấy giấy chứng nhận, gọi đại sứ quán làm hộ chiếu tạm."},
+{"day":119,"slug":"mat-dien-thoai-paris","vi":"Mất điện thoại ở Paris","en":"Lost phone in Paris","scenario":"Quên điện thoại ở quán cà phê Paris: gọi lại thấy tắt nguồn, dùng Find My, bật Lost Mode, mua máy tạm."},
+{"day":120,"slug":"bi-giat-tui-milan","vi":"Bị giật túi ở Milan","en":"Bag snatched in Milan","scenario":"Bị scooter giật túi ở Milan: khóa thẻ ngay trên phố, báo cảnh sát làm denuncia, claim bảo hiểm."},
+{"day":121,"slug":"lanh-xiu-helsinki","vi":"Lạnh xĩu ở Helsinki","en":"Freezing in Helsinki","scenario":"Âm hai mươi độ ở Helsinki: gần xĩu vì lạnh, vào siêu thị trú, mua đồ lông vũ thật, chữa bằng sauna."},
+{"day":122,"slug":"da-bong-barcelona","vi":"Xem đá bóng ở Barcelona","en":"Watching Barça live","scenario":"Đi xem trận Barça: săn vé, metro đông nghẹt áo đỏ xanh, hát theo khán đài, VAR hủy bàn, quán xá sau trận."},
+{"day":123,"slug":"tennis-melbourne","vi":"Xem tennis ở Melbourne","en":"Australian Open","scenario":"Ngày ở Australian Open: ground pass, sân ngoài, nắng gắt, hô 'Aussie Aussie Aussie', đêm ở Rod Laver Arena."}
 ]
