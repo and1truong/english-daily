@@ -33,7 +33,8 @@
 {"vi":"Giá này đã gồm ăn sáng chưa hay tính riêng?","en":"Does this rate include breakfast or is that extra?","ipa":"/dʌz ðɪs reɪt ɪnˈklud ˈbrɛkfəst ɔr ɪz ðæt ˈɛkstrə/"},
 {"vi":"Chính sách hủy là gì — hủy trước mấy ngày được hoàn?","en":"What's the cancellation policy — how many days out can I cancel for a refund?","ipa":"/wʌts ðə ˌkænsəˈleɪʃən ˈpɑlɪsi, haʊ ˈmɛni deɪz aʊt kæn aɪ ˈkænsəl fər ə ˈrifʌnd/"},
 {"vi":"Phòng twin hay double — hai đứa mình nên lấy twin.","en":"Twin or double — we should get the twin since we're not a couple.","ipa":"/twɪn ɔr ˈdʌbəl, wi ʃʊd ɡɛt ðə twɪn sɪns wɪr nɑt ə ˈkʌpəl/","actor":"Tùng"},
-{"vi":"Check-in mấy giờ — đến sớm có được vào không?","en":"What time is check-in — can we get in early if we arrive before?","ipa":"/wʌt taɪm ɪz ˈtʃɛk ɪn, kæn wi ɡɛt ɪn ˈɜrli ɪf wi əˈraɪv bɪˈfɔr/"}]},
+{"vi":"Check-in mấy giờ — đến sớm có được vào không?","en":"What time is check-in — can we get in early if we arrive before?","ipa":"/wʌt taɪm ɪz ˈtʃɛk ɪn, kæn wi ɡɛt ɪn ˈɜrli ɪf wi əˈraɪv bɪˈfɔr/"},
+{"vi":"Có phí resort ẩn nào ngoài giá niêm yết không?","en":"Any hidden resort fees on top of the listed rate?","ipa":"/ˈɛni ˈhɪdən riˈzɔrt fiz ɑn tɑp əv ðə ˈlɪstɪd reɪt/"}]},
 {"vi":"Gọi điện đặt","en":"Calling to book","sentences":[
 {"vi":"Chào chị, em muốn đặt phòng cho hai đêm cuối tuần.","en":"Hi, I'd like to book a room for two nights this weekend.","ipa":"/haɪ, aɪd laɪk tə bʊk ə rum fər tu naɪts ðɪs ˈwikˌɛnd/"},
 {"vi":"Còn phòng nào tầng cao yên tĩnh không chị?","en":"Do you have anything on a higher floor, somewhere quiet?","ipa":"/du ju hæv ˈɛniˌθɪŋ ɑn ə ˈhaɪər flɔr, ˈsʌmˌwɛr ˈkwaɪət/"},
@@ -59,7 +60,8 @@
 {"vi":"Gửi hành lý & hẹn xe","en":"Bags & pickup","sentences":[
 {"vi":"Bay chiều, gửi vali ở concierge mấy tiếng được không?","en":"Our flight's this afternoon — can we leave our bags with concierge for a few hours?","ipa":"/ˈaʊər flaɪts ðɪs ˌæftərˈnun, kæn wi liv ˈaʊər bæɡz wɪð ˌkɑnsiˈɛrʒ fər ə fju ˈaʊərz/"},
 {"vi":"Dạ được ạ, anh giữ thẻ này khi quay lại lấy.","en":"Of course — keep this tag to collect them later.","ipa":"/əv kɔrs, kip ðɪs tæɡ tə kəˈlɛkt ðɛm ˈleɪtər/","actor":"concierge"},
-{"vi":"Đặt xe ba giờ ra sân bay là vừa.","en":"A three o'clock pickup to the airport should do it.","ipa":"/ə θri əˈklɑk ˈpɪkˌʌp tə ði ˈɛrˌpɔrt ʃʊd du ɪt/"}]},
+{"vi":"Đặt xe ba giờ ra sân bay là vừa.","en":"A three o'clock pickup to the airport should do it.","ipa":"/ə θri əˈklɑk ˈpɪkˌʌp tə ði ˈɛrˌpɔrt ʃʊd du ɪt/"},
+{"vi":"Giữa checkout và giờ bay, đi dạo phố lần cuối.","en":"Between checkout and the flight, one last wander around town.","ipa":"/bɪˈtwin ˈtʃɛkˌaʊt ænd ðə flaɪt, wʌn lɑst ˈwɑndər əˈraʊnd taʊn/"}]},
 {"vi":"Tạm biệt","en":"Saying goodbye","sentences":[
 {"vi":"Cảm ơn nhé, phòng đẹp dịch vụ tốt — sẽ quay lại.","en":"Thanks for everything — great room, great service — we'll be back.","ipa":"/θæŋks fər ˈɛvriˌθɪŋ, ɡreɪt rum, ɡreɪt ˈsɜrvɪs, wil bi bæk/"},
 {"vi":"Chuyến đi trọn vẹn từ đầu tới cuối.","en":"That trip went smoothly start to finish.","ipa":"/ðæt trɪp wɛnt ˈsmuðli stɑrt tə ˈfɪnɪʃ/"},
