@@ -1,0 +1,187 @@
+{"days":[
+{"day":53,"slug":"phong-van","emoji":"🎯","scenes":[
+{"vi":"Vào phỏng vấn","en":"Walking into the interview","sentences":[
+{"vi":"Chào anh, em đến phỏng vấn vị trí marketing.","en":"Hi, I'm here for the marketing position interview.","ipa":"/haɪ, aɪm hɪr fər ðə ˈmɑrkɪtɪŋ pəˈzɪʃən ˈɪntərˌvju/"},
+{"vi":"Em có mang theo bản in CV như hẹn.","en":"I've brought printed copies of my CV as requested.","ipa":"/aɪv brɔt ˈprɪntɪd ˈkɑpiz əv maɪ si vi æz rɪˈkwɛstɪd/"},
+{"vi":"Rất vui được gặp anh hôm nay.","en":"It's great to meet you — thanks for having me in.","ipa":"/ɪts ɡreɪt tə mit ju, θæŋks fər ˈhævɪŋ mi ɪn/"}]},
+{"vi":"Giới thiệu bản thân","en":"Telling your story","sentences":[
+{"vi":"Em có năm năm kinh nghiệm trong ngành bán lẻ.","en":"I've got five years of experience in retail.","ipa":"/aɪv ɡɑt faɪv jɪrz əv ɪkˈspɪriəns ɪn ˈriteɪl/"},
+{"vi":"Ở công ty cũ, em phụ trách đội bốn người.","en":"In my last role, I managed a team of four.","ipa":"/ɪn maɪ læst roʊl, aɪ ˈmænɪʤd ə tim əv fɔr/"},
+{"vi":"Điểm mạnh của em là giải quyết vấn đề và chịu áp lực.","en":"My strengths are problem-solving and staying calm under pressure.","ipa":"/maɪ strɛŋθs ɑr ˈprɑbləm ˈsɑlvɪŋ ænd ˈsteɪɪŋ kɑm ˈʌndər ˈprɛʃər/"},
+{"vi":"Em từng tăng doanh số hai mươi phần trăm trong một năm.","en":"I increased sales by twenty percent in one year.","ipa":"/aɪ ɪnˈkrist seɪlz baɪ ˈtwɛnti pərˈsɛnt ɪn wʌn jɪr/"}]},
+{"vi":"Trả lời câu hỏi khó","en":"The tricky questions","sentences":[
+{"vi":"Điểm yếu của em là hơi cầu toàn, em đang sửa dần.","en":"My weakness is I can be a perfectionist — I'm working on it.","ipa":"/maɪ ˈwiknəs ɪz aɪ kæn bi ə pərˈfɛkʃənɪst, aɪm ˈwɜrkɪŋ ɑn ɪt/"},
+{"vi":"Em nghỉ việc cũ vì muốn phát triển hơn.","en":"I left my last job to find better growth opportunities.","ipa":"/aɪ lɛft maɪ læst ʤɑb tə faɪnd ˈbɛtər ɡroʊθ ˌɑpərˈtunətiz/"},
+{"vi":"Em xử lý áp lực bằng cách lên danh sách ưu tiên.","en":"I handle pressure by prioritising my tasks and staying organised.","ipa":"/aɪ ˈhændəl ˈprɛʃər baɪ praɪˈɔrəˌtaɪzɪŋ maɪ tæsks ænd ˈsteɪɪŋ ˈɔrɡəˌnaɪzd/"}]},
+{"vi":"Hỏi lại & kết thúc","en":"Your questions & the wrap-up","sentences":[
+{"vi":"Team em sẽ làm việc cùng gồm bao nhiêu người?","en":"How big is the team I'd be working with?","ipa":"/haʊ bɪɡ ɪz ðə tim aɪd bi ˈwɜrkɪŋ wɪð/"},
+{"vi":"Công ty có cơ hội đào tạo thêm không?","en":"Are there opportunities for further training?","ipa":"/ɑr ðɛr ˌɑpərˈtunətiz fər ˈfɜrðər ˈtreɪnɪŋ/"},
+{"vi":"Khi nào công ty dự định có quyết định?","en":"When do you expect to make a decision?","ipa":"/wɛn du ju ɪkˈspɛkt tə meɪk ə dɪˈsɪʒən/"},
+{"vi":"Cảm ơn anh chị, em rất mong được hợp tác.","en":"Thanks for your time — I'd really love to join the team.","ipa":"/θæŋks fər jʊr taɪm, aɪd ˈrili lʌv tə ʤɔɪn ðə tim/"},
+{"vi":"Em sẽ gửi email cảm ơn trong hôm nay.","en":"I'll send a thank-you email today.","ipa":"/aɪl sɛnd ə θæŋk ju ˈimeɪl təˈdeɪ/"}]}],
+"practice":["Tự giới thiệu bản thân phỏng vấn bằng 4 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: ứng viên trả lời — nhà tuyển dụng hỏi.","Ôn lại 5 câu khó nhất của Ngày 52 trước khi bắt đầu."],
+"checks":["Đọc to 18 câu","Giới thiệu bản thân","Ôn lại Ngày 52"]},
+
+{"day":54,"slug":"tang-luong","emoji":"💰","scenes":[
+{"vi":"Chuẩn bị đề nghị","en":"Preparing to ask","sentences":[
+{"vi":"Em làm việc ở đây được hai năm rồi.","en":"I've been with the company for two years now.","ipa":"/aɪv bɪn wɪð ðə ˈkʌmpəni fər tu jɪrz naʊ/"},
+{"vi":"Em nghĩ đây là lúc nên bàn về lương.","en":"I think it's time we talked about my salary.","ipa":"/aɪ θɪŋk ɪts taɪm wi tɔkt əˈbaʊt maɪ ˈsæləri/"},
+{"vi":"Sếp có rảnh mười phút tuần này không ạ?","en":"Do you have ten minutes this week for a quick chat?","ipa":"/du ju hæv tɛn ˈmɪnɪts ðɪs wik fər ə kwɪk tʃæt/"}]},
+{"vi":"Nêu lý do","en":"Making your case","sentences":[
+{"vi":"Năm qua em vượt chỉ tiêu ba kỳ liên tiếp.","en":"I've exceeded my targets three quarters in a row.","ipa":"/aɪv ɪkˈsidɪd maɪ ˈtɑrɡɪts θri ˈkwɔrtərz ɪn ə roʊ/"},
+{"vi":"Em đảm nhận thêm nhiệm vụ của người đã nghỉ.","en":"I've taken on extra responsibilities since Tom left.","ipa":"/aɪv ˈteɪkən ɑn ˈɛkstrə rɪˌspɑnsəˈbɪlətiz sɪns tɑm lɛft/"},
+{"vi":"Mức lương thị trường cho vị trí này cao hơn em đang nhận.","en":"The market rate for this role is higher than what I'm on.","ipa":"/ðə ˈmɑrkɪt reɪt fər ðɪs roʊl ɪz ˈhaɪər ðæn wʌt aɪm ɑn/"},
+{"vi":"Em có offer bên ngoài nhưng em muốn ở lại.","en":"I've had an outside offer, but I'd rather stay here.","ipa":"/aɪv hæd ən ˈaʊtˌsaɪd ˈɔfər, bət aɪd ˈræðər steɪ hɪr/"}]},
+{"vi":"Nghe phản hồi","en":"Hearing the response","sentences":[
+{"vi":"Budget năm nay khó, nhưng sếp sẽ xem lại.","en":"The budget's tight this year, but let me see what I can do.","ipa":"/ðə ˈbʌʤɪts taɪt ðɪs jɪr, bət lɛt mi si wʌt aɪ kæn du/", "actor": "sếp"},
+{"vi":"Em hiểu, vậy có thể tăng theo cách khác không?","en":"I understand — are there other ways we could make it work?","ipa":"/aɪ ˌʌndərˈstænd, ɑr ðɛr ˈʌðər weɪz wi kʊd meɪk ɪt wɜrk/"},
+{"vi":"Ví dụ thêm ngày phép hoặc work from home?","en":"For instance, extra leave days or more work from home?","ipa":"/fər ˈɪnstəns, ˈɛkstrə liv deɪz ɔr mɔr wɜrk frʌm hoʊm/"},
+{"vi":"Khi nào em biết được câu trả lời?","en":"When would I hear back about this?","ipa":"/wɛn wʊd aɪ hɪr bæk əˈbaʊt ðɪs/"}]},
+{"vi":"Sau cuộc nói chuyện","en":"After the talk","sentences":[
+{"vi":"Sếp đồng ý tăng tám phần trăm từ tháng sau.","en":"The boss agreed to an eight percent raise from next month.","ipa":"/ðə bɔs əˈɡrid tə ən eɪt pərˈsɛnt reɪz frʌm nɛkst mʌnθ/"},
+{"vi":"Mình vui vì đã dám mở lời.","en":"I'm glad I worked up the nerve to ask.","ipa":"/aɪm ɡlæd aɪ wɜrkt ʌp ðə nɜrv tə æsk/", "note":"work up the nerve = lấy hết can đảm"},
+{"vi":"Lần sau mình sẽ chuẩn bị số liệu kỹ hơn nữa.","en":"Next time I'll prepare even more concrete numbers.","ipa":"/nɛkst taɪm aɪl prɪˈpɛr ˈivən mɔr ˈkɑnkrit ˈnʌmbərz/"},
+{"vi":"Bài học lớn nhất là phải biết giá trị mình.","en":"The biggest lesson is knowing your worth.","ipa":"/ðə ˈbɪɡɪst ˈlɛsən ɪz ˈnoʊɪŋ jʊr wɜrθ/"}]}],
+"practice":["Tự nêu lý do xin tăng lương bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: nhân viên xin tăng lương — sếp phản hồi.","Ôn lại 5 câu khó nhất của Ngày 53 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Nêu lý do tăng lương","Ôn lại Ngày 53"]},
+
+{"day":55,"slug":"networking","emoji":"🤝","scenes":[
+{"vi":"Đến sự kiện networking","en":"Arriving at the event","sentences":[
+{"vi":"Mình đến sự kiện networking một mình, hơi ngại.","en":"I've come to this networking event alone — bit nervous.","ipa":"/aɪv kʌm tə ðɪs ˈnɛtˌwɜrkɪŋ ɪˈvɛnt əˈloʊn, bɪt ˈnɜrvəs/"},
+{"vi":"Cố gắng bắt chuyện với ít nhất ba người tối nay.","en":"My goal is to introduce myself to at least three people tonight.","ipa":"/maɪ ɡoʊl ɪz tə ˌɪntrəˈdus maɪˈsɛlf tə æt list θri ˈpipəl təˈnaɪt/"},
+{"vi":"Chọn nhóm đang nói chuyện vui vẻ để xen vào.","en":"I'll find a friendly-looking group and join the conversation.","ipa":"/aɪl faɪnd ə ˈfrɛndli ˈlʊkɪŋ ɡrup ænd ʤɔɪn ðə ˌkɑnvərˈseɪʃən/"}]},
+{"vi":"Bắt chuyện","en":"Breaking the ice","sentences":[
+{"vi":"Xin lỗi, mình ngồi chung được không?","en":"Sorry to interrupt — mind if I join you?","ipa":"/ˈsɑri tə ˌɪntəˈrʌpt, maɪnd ɪf aɪ ʤɔɪn ju/"},
+{"vi":"Mình là Khoa, làm bên software. Còn bạn?","en":"I'm Khoa — I'm in software. How about you?","ipa":"/aɪm kwɑ, aɪm ɪn ˈsɔftˌwɛr, haʊ əˈbaʊt ju/"},
+{"vi":"Bạn đến event này lần đầu à?","en":"Is this your first time at one of these events?","ipa":"/ɪz ðɪs jʊr fɜrst taɪm æt wʌn əv ðiz ɪˈvɛnts/"},
+{"vi":"Bạn làm bên mảng nào vậy?","en":"What area do you work in?","ipa":"/wʌt ˈɛriə du ju wɜrk ɪn/"}]},
+{"vi":"Giữ cho hội thoại tiếp tục","en":"Keeping it going","sentences":[
+{"vi":"Nghe thú vị đấy, kể thêm cho mình nghe đi.","en":"That sounds fascinating — tell me more.","ipa":"/ðæt saʊndz ˈfæsəˌneɪtɪŋ, tɛl mi mɔr/"},
+{"vi":"Công ty bạn đang tuyển người không?","en":"Is your company hiring at the moment?","ipa":"/ɪz jʊr ˈkʌmpəni ˈhaɪərɪŋ æt ðə ˈmoʊmənt/"},
+{"vi":"Mình cũng đang muốn chuyển sang mảng đó.","en":"I'm actually looking to move into that field myself.","ipa":"/aɪm ˈækʃuəli ˈlʊkɪŋ tə muv ˈɪntu ðæt fild maɪˈsɛlf/"},
+{"vi":"Công việc của bạn nghe hấp dẫn, nhất là phần travel.","en":"Your job sounds amazing — especially the travel side.","ipa":"/jʊr ʤɑb saʊndz əˈmeɪzɪŋ, ɪˈspɛʃəli ðə ˈtrævəl saɪd/"}]},
+{"vi":"Xin liên hệ & chào tạm biệt","en":"Exchanging details","sentences":[
+{"vi":"Kết nối LinkedIn nhé, mình gửi invite cho bạn.","en":"Let's connect on LinkedIn — I'll send you an invite.","ipa":"/lɛts kəˈnɛkt ɑn ˈlɪŋkdɪn, aɪl sɛnd ju ən ˈɪnvaɪt/"},
+{"vi":"Bạn có card không, mình lưu lại liên hệ.","en":"Do you have a card? I'd love to stay in touch.","ipa":"/du ju hæv ə kɑrd, aɪd lʌv tə steɪ ɪn tʌtʃ/"},
+{"vi":"Hẹn cà phê một bữa nói chuyện thêm nhé.","en":"We should grab a coffee sometime and chat more.","ipa":"/wi ʃʊd ɡræb ə ˈkɔfi ˈsʌmtaɪm ænd tʃæt mɔr/"},
+{"vi":"Rất vui được gặp bạn tối nay.","en":"It was lovely meeting you — have a great night.","ipa":"/ɪt wʌz ˈlʌvli ˈmitɪŋ ju, hæv ə ɡreɪt naɪt/"}]}],
+"practice":["Tự giới thiệu bản thân trong sự kiện networking bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: hai người lạ bắt chuyện ở sự kiện.","Ôn lại 5 câu khó nhất của Ngày 54 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Giới thiệu networking","Ôn lại Ngày 54"]},
+
+{"day":56,"slug":"customer-service","emoji":"🎧","scenes":[
+{"vi":"Gọi hotline","en":"Calling customer service","sentences":[
+{"vi":"Mình gọi về hoá đơn tháng này bị tính sai.","en":"I'm calling about a mistake on this month's bill.","ipa":"/aɪm ˈkɔlɪŋ əˈbaʊt ə mɪˈsteɪk ɑn ðɪs mʌnθs bɪl/"},
+{"vi":"Mình bị trừ tiền hai lần cho một lần mua.","en":"I've been charged twice for the same purchase.","ipa":"/aɪv bɪn tʃɑrʤd twaɪs fər ðə seɪm ˈpɜrtʃəs/"},
+{"vi":"Mã giao dịch là mười hai ba bốn, ngày mười lăm.","en":"The transaction ID is twelve thirty-four, dated the fifteenth.","ipa":"/ðə trænˈzækʃən aɪ di ɪz twɛlv ˈθɜrti fɔr, ˈdeɪtɪd ðə ˌfɪfˈtinθ/"}]},
+{"vi":"Giải thích vấn đề","en":"Explaining the issue","sentences":[
+{"vi":"Lần đầu mình mua online, trừ một lần rồi lại trừ thêm.","en":"I made one online purchase, but the money came out twice.","ipa":"/aɪ meɪd wʌn ˈɑnlaɪn ˈpɜrtʃəs, bət ðə ˈmʌni keɪm aʊt twaɪs/"},
+{"vi":"Mình đã chờ ba ngày mà vẫn chưa được hoàn.","en":"I've waited three days and it still hasn't been refunded.","ipa":"/aɪv weɪtɪd θri deɪz ænd ɪt stɪl ˈhæzənt bɪn riˈfʌndɪd/"},
+{"vi":"Bạn xem giúp mình chuyện này được không?","en":"Could you look into it for me?","ipa":"/kʊd ju lʊk ˈɪntu ɪt fər mi/", "note":"look into = điều tra/xem xét"},
+{"vi":"Mình giữ máy chờ được bao lâu?","en":"How long will I be on hold?","ipa":"/haʊ lɔŋ wɪl aɪ bi ɑn hoʊld/"}]},
+{"vi":"Leo thang & kiên nhẫn","en":"Escalating politely","sentences":[
+{"vi":"Mình muốn nói chuyện với supervisor được không?","en":"Could I speak to a supervisor, please?","ipa":"/kʊd aɪ spik tə ə ˈsupərˌvaɪzər pliz/"},
+{"vi":"Mình hiểu bạn đang cố, nhưng vấn đề kéo dài quá rồi.","en":"I appreciate your help, but this has dragged on too long.","ipa":"/aɪ əˈpriʃieɪt jʊr hɛlp, bət ðɪs hæz dræɡd ɑn tu lɔŋ/"},
+{"vi":"Mình cần câu trả lời cụ thể hôm nay.","en":"I need a definite answer today.","ipa":"/aɪ nid ə ˈdɛfənət ˈænsər təˈdeɪ/"},
+{"vi":"Nếu không giải quyết được, mình sẽ khiếu nại chính thức.","en":"If it can't be resolved, I'll lodge a formal complaint.","ipa":"/ɪf ɪt kænt bi rɪˈzɑlvd, aɪl lɑʤ ə ˈfɔrməl kəmˈpleɪnt/"}]},
+{"vi":"Kết thúc cuộc gọi","en":"Resolution","sentences":[
+{"vi":"Tiền sẽ hoàn về trong ba đến năm ngày làm việc.","en":"The refund will hit your account in three to five business days.","ipa":"/ðə ˈrifʌnd wɪl hɪt jʊr əˈkaʊnt ɪn θri tə faɪv ˈbɪznəs deɪz/", "actor": "nhân viên"},
+{"vi":"Bạn cho mình số tham chiếu vụ việc nhé.","en":"Could I get a reference number for this?","ipa":"/kʊd aɪ ɡɛt ə ˈrɛfrəns ˈnʌmbər fər ðɪs/"},
+{"vi":"Nếu không thấy tiền, mình gọi lại bằng số này nhé.","en":"If it doesn't show up, I'll call back quoting that number.","ipa":"/ɪf ɪt ˈdʌzənt ʃoʊ ʌp, aɪl kɔl bæk ˈkwoʊtɪŋ ðæt ˈnʌmbər/"},
+{"vi":"Cảm ơn bạn đã kiên nhẫn giúp mình.","en":"Thanks for your patience in sorting this out.","ipa":"/θæŋks fər jʊr ˈpeɪʃəns ɪn ˈsɔrtɪŋ ðɪs aʊt/"}]}],
+"practice":["Tự trình bày một khiếu nại bằng 3 câu lịch sự.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: khách khiếu nại — nhân viên hỗ trợ.","Ôn lại 5 câu khó nhất của Ngày 55 trước khi bắt đầu."],
+"checks":["Đọc to 20 câu","Trình bày khiếu nại","Ôn lại Ngày 55"]},
+
+{"day":57,"slug":"san-bay","emoji":"✈️","scenes":[
+{"vi":"Check-in","en":"Checking in","sentences":[
+{"vi":"Em check-in cho chuyến QF123 đi Sydney.","en":"I'm checking in for flight QF one two three to Sydney.","ipa":"/aɪm ˈtʃɛkɪŋ ɪn fər flaɪt kju ɛf wʌn tu θri tə ˈsɪdni/"},
+{"vi":"Em có một vali ký gửi và một túi xách tay.","en":"I've got one checked bag and one carry-on.","ipa":"/aɪv ɡɑt wʌn tʃɛkt bæɡ ænd wʌn ˈkæri ɑn/"},
+{"vi":"Vali em nặng hai mươi cân, có quá không?","en":"My bag's twenty kilos — is that within the limit?","ipa":"/maɪ bæɡz ˈtwɛnti ˈkiloʊz, ɪz ðæt wɪˈðɪn ðə ˈlɪmɪt/"},
+{"vi":"Em xin ghế cửa sổ được không ạ?","en":"Could I get a window seat, please?","ipa":"/kʊd aɪ ɡɛt ə ˈwɪndoʊ sit pliz/"}]},
+{"vi":"Qua an ninh","en":"Going through security","sentences":[
+{"vi":"Laptop với chất lỏng bỏ ra khay riêng.","en":"Laptops and liquids go in a separate tray.","ipa":"/ˈlæpˌtɑps ænd ˈlɪkwɪdz ɡoʊ ɪn ə ˈsɛprət treɪ/", "actor": "nhân viên"},
+{"vi":"Em có mang chai nước, để em bỏ đi.","en":"I've got a water bottle — I'll just throw it out.","ipa":"/aɪv ɡɑt ə ˈwɔtər ˈbɑtəl, aɪl ʤʌst θroʊ ɪt aʊt/"},
+{"vi":"Đi qua cửa từ, hai tay để lên đầu.","en":"Step through the scanner with your arms raised.","ipa":"/stɛp θru ðə ˈskænər wɪð jʊr ɑrmz reɪzd/", "actor": "nhân viên"},
+{"vi":"Xong rồi, cảm ơn anh.","en":"All done — thanks, mate.","ipa":"/ɔl dʌn, θæŋks meɪt/"}]},
+{"vi":"Tìm cổng & chờ","en":"Finding the gate","sentences":[
+{"vi":"Cổng số mười hai ở hướng nào vậy?","en":"Which way is gate twelve?","ipa":"/wɪtʃ weɪ ɪz ɡeɪt twɛlv/"},
+{"vi":"Chuyến bay có delay không anh?","en":"Is the flight on time, or is there a delay?","ipa":"/ɪz ðə flaɪt ɑn taɪm, ɔr ɪz ðɛr ə dɪˈleɪ/"},
+{"vi":"Boarding bắt đầu lúc chín giờ rưỡi.","en":"Boarding starts at nine thirty.","ipa":"/ˈbɔrdɪŋ stɑrts æt naɪn ˈθɜrti/"},
+{"vi":"Mình mua nước với sandwich trước khi lên máy bay.","en":"I'll grab some water and a sandwich before boarding.","ipa":"/aɪl ɡræb sʌm ˈwɔtər ænd ə ˈsænwɪtʃ bɪˈfɔr ˈbɔrdɪŋ/"}]},
+{"vi":"Trên máy bay","en":"On board","sentences":[
+{"vi":"Ghế em 24C ở đây phải không?","en":"Is this seat twenty-four C?","ipa":"/ɪz ðɪs sit ˈtwɛnti fɔr si/"},
+{"vi":"Cho em một ly nước cam được không?","en":"Could I get an orange juice, please?","ipa":"/kʊd aɪ ɡɛt ən ˈɔrɪnʤ ʤus pliz/"},
+{"vi":"Chuyến bay bao lâu tới Sydney?","en":"How long's the flight to Sydney?","ipa":"/haʊ lɔŋz ðə flaɪt tə ˈsɪdni/"},
+{"vi":"Tiếp viên ơi, cho em thêm một cái chăn.","en":"Excuse me, could I get an extra blanket?","ipa":"/ɪkˈskjuz mi, kʊd aɪ ɡɛt ən ˈɛkstrə ˈblæŋkɪt/"}]}],
+"practice":["Tự kể quy trình đi máy bay bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: hành khách check-in — nhân viên sân bay.","Ôn lại 5 câu khó nhất của Ngày 56 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Kể quy trình sân bay","Ôn lại Ngày 56"]},
+
+{"day":58,"slug":"hai-quan","emoji":"🛃","scenes":[
+{"vi":"Khai hải quan","en":"At customs declaration","sentences":[
+{"vi":"Em có mang theo thuốc và đồ ăn khô.","en":"I'm carrying some medication and some dried food.","ipa":"/aɪm ˈkæriɪŋ sʌm ˌmɛdɪˈkeɪʃən ænd sʌm draɪd fud/"},
+{"vi":"Thuốc em có đơn bác sĩ kèm theo.","en":"I've got a doctor's prescription for the medication.","ipa":"/aɪv ɡɑt ə ˈdɑktərz prɪˈskrɪpʃən fər ðə ˌmɛdɪˈkeɪʃən/"},
+{"vi":"Đồ ăn em khai báo đầy đủ trên form.","en":"I've declared all the food items on the form.","ipa":"/aɪv dɪˈklɛrd ɔl ðə fud ˈaɪtəmz ɑn ðə fɔrm/"}]},
+{"vi":"Trả lời cán bộ","en":"Answering the officer","sentences":[
+{"vi":"Em đến thăm gia đình hai tuần.","en":"I'm here for two weeks to visit family.","ipa":"/aɪm hɪr fər tu wiks tə ˈvɪzɪt ˈfæmɪli/"},
+{"vi":"Em sẽ ở nhà anh trai ở Melbourne.","en":"I'll be staying with my brother in Melbourne.","ipa":"/aɪl bi ˈsteɪɪŋ wɪð maɪ ˈbrʌðər ɪn ˈmɛlbərn/"},
+{"vi":"Mục đích chuyến đi của anh/chị là gì?","en":"What's the purpose of your visit?","ipa":"/wʌts ðə ˈpɜrpəs əv jʊr ˈvɪzɪt/", "actor": "cán bộ"},
+{"vi":"Em có mang số tiền mặt dưới mười nghìn đô.","en":"I'm carrying less than ten thousand dollars cash.","ipa":"/aɪm ˈkæriɪŋ lɛs ðæn tɛn ˈθaʊzənd ˈdɑlərz kæʃ/", "note":"trên $10,000 phải khai báo"}]},
+{"vi":"Kiểm tra hành lý","en":"Bag inspection","sentences":[
+{"vi":"Mở vali cho em xem phần này được không?","en":"Could you open your bag for me, please?","ipa":"/kʊd ju ˈoʊpən jʊr bæɡ fər mi pliz/", "actor": "cán bộ"},
+{"vi":"Đây là quà tặng cho người thân, không phải bán.","en":"These are gifts for family — nothing for sale.","ipa":"/ðiz ɑr ɡɪfts fər ˈfæmɪli, ˈnʌθɪŋ fər seɪl/"},
+{"vi":"Cái này có được phép mang vào không anh?","en":"Is this item allowed in?","ipa":"/ɪz ðɪs ˈaɪtəm əˈlaʊd ɪn/"},
+{"vi":"Nếu không được, em bỏ lại cũng được.","en":"If it's not allowed, I'm happy to throw it out.","ipa":"/ɪf ɪts nɑt əˈlaʊd, aɪm ˈhæpi tə θroʊ ɪt aʊt/"}]},
+{"vi":"Xong & vào nước","en":"All clear","sentences":[
+{"vi":"Em qua được rồi, cảm ơn anh.","en":"All clear — thank you for your help.","ipa":"/ɔl klɪr, θæŋk ju fər jʊr hɛlp/"},
+{"vi":"Lần sau mình sẽ khai kỹ hơn từ đầu.","en":"Next time I'll declare everything up front.","ipa":"/nɛkst taɪm aɪl dɪˈklɛr ˈɛvriθɪŋ ʌp frʌnt/", "note":"up front = ngay từ đầu, trung thực"},
+{"vi":"Hải quan Úc nghiêm nhưng nhanh hơn mình tưởng.","en":"Australian customs are strict but quicker than I expected.","ipa":"/ɔˈstreɪljən ˈkʌstəmz ɑr strɪkt bət ˈkwɪkər ðæn aɪ ɪkˈspɛktɪd/"},
+{"vi":"Khai báo trung thực luôn là cách an toàn nhất.","en":"Honest declarations are always the safest way through.","ipa":"/ˈɑnɪst ˌdɛkləˈreɪʃənz ɑr ˈɔlweɪz ðə ˈseɪfəst weɪ θru/"}]}],
+"practice":["Tự trả lời câu hỏi hải quan cơ bản bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: hành khách — cán bộ hải quan.","Ôn lại 5 câu khó nhất của Ngày 57 trước khi bắt đầu."],
+"checks":["Đọc to 18 câu","Trả lời hải quan","Ôn lại Ngày 57"]},
+
+{"day":59,"slug":"khach-san","emoji":"🏨","scenes":[
+{"vi":"Check-in khách sạn","en":"Checking in","sentences":[
+{"vi":"Em đặt phòng qua mạng, họ Tran.","en":"I have a reservation under the name Tran.","ipa":"/aɪ hæv ə ˌrɛzərˈveɪʃən ˈʌndər ðə neɪm træn/"},
+{"vi":"Em đặt phòng đôi hai đêm, có bữa sáng.","en":"I booked a double room for two nights with breakfast.","ipa":"/aɪ bʊkt ə ˈdʌbəl rum fər tu naɪts wɪð ˈbrɛkfəst/"},
+{"vi":"Check-in sớm được không, em đến trước giờ.","en":"Is early check-in possible? I've arrived a bit early.","ipa":"/ɪz ˈɜrli ˈtʃɛk ɪn ˈpɑsəbəl, aɪv əˈraɪvd ə bɪt ˈɜrli/"}]},
+{"vi":"Hỏi về phòng & tiện ích","en":"Room & facilities","sentences":[
+{"vi":"Phòng có wifi miễn phí không?","en":"Is there free wifi in the room?","ipa":"/ɪz ðɛr fri ˈwaɪfaɪ ɪn ðə rum/"},
+{"vi":"Bữa sáng phục vụ mấy giờ, ở đâu?","en":"What time's breakfast, and where's it served?","ipa":"/wʌt taɪmz ˈbrɛkfəst, ænd wɛrz ɪt sɜrvd/"},
+{"vi":"Khách sạn có chỗ đậu xe không, phí bao nhiêu?","en":"Does the hotel have parking, and how much is it?","ipa":"/dʌz ðə hoʊˈtɛl hæv ˈpɑrkɪŋ, ænd haʊ mʌtʃ ɪz ɪt/"},
+{"vi":"Có phòng gym hay hồ bơi không?","en":"Is there a gym or a pool on site?","ipa":"/ɪz ðɛr ə ʤɪm ɔr ə pul ɑn saɪt/"}]},
+{"vi":"Vấn đề trong phòng","en":"Room issues","sentences":[
+{"vi":"Máy điều hòa phòng em không chạy.","en":"The air conditioner in my room isn't working.","ipa":"/ði ɛr kənˈdɪʃənər ɪn maɪ rum ˈɪzənt ˈwɜrkɪŋ/"},
+{"vi":"Phòng em hơi ồn vì gần thang máy.","en":"My room's a bit noisy — it's right by the lift.","ipa":"/maɪ rumz ə bɪt ˈnɔɪzi, ɪts raɪt baɪ ðə lɪft/"},
+{"vi":"Có thể đổi sang phòng khác yên hơn không?","en":"Could I be moved to a quieter room?","ipa":"/kʊd aɪ bi muvd tə ə ˈkwaɪətər rum/"},
+{"vi":"Có thể gửi thêm khăn tắm lên phòng giúp em?","en":"Could you send up some extra towels, please?","ipa":"/kʊd ju sɛnd ʌp sʌm ˈɛkstrə taʊəlz pliz/"}]},
+{"vi":"Check-out","en":"Checking out","sentences":[
+{"vi":"Em check-out sớm hơn, khoảng mười giờ.","en":"I'll be checking out a bit earlier, around ten.","ipa":"/aɪl bi ˈtʃɛkɪŋ aʊt ə bɪt ˈɜrliər, əˈraʊnd tɛn/"},
+{"vi":"Hóa đơn gồm những gì, có phụ thu không?","en":"What's on the bill — any extra charges?","ipa":"/wʌts ɑn ðə bɪl, ˈɛni ˈɛkstrə ˈtʃɑrʤɪz/"},
+{"vi":"Em có thể để vali lại mấy tiếng không?","en":"Can I leave my bags here for a few hours?","ipa":"/kæn aɪ liv maɪ bæɡz hɪr fər ə fju ˈaʊərz/"},
+{"vi":"Ở đây rất thoải mái, cảm ơn mọi người.","en":"Really comfortable stay — thanks very much.","ipa":"/ˈrili ˈkʌmftəbəl steɪ, θæŋks ˈvɛri mʌtʃ/"}]}],
+"practice":["Tự nói yêu cầu về phòng khách sạn bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: khách check-in — lễ tân.","Ôn lại 5 câu khó nhất của Ngày 58 trước khi bắt đầu."],
+"checks":["Đọc to 20 câu","Check-in khách sạn","Ôn lại Ngày 58"]},
+
+{"day":60,"slug":"tour-thanh-pho","emoji":"🚌","scenes":[
+{"vi":"Đặt tour thành phố","en":"Booking a city tour","sentences":[
+{"vi":"Em muốn đặt tour nửa ngày tham quan thành phố.","en":"I'd like to book a half-day city tour.","ipa":"/aɪd laɪk tə bʊk ə hæf deɪ ˈsɪti tʊr/"},
+{"vi":"Tour có hướng dẫn viên nói tiếng Anh không?","en":"Does the tour have an English-speaking guide?","ipa":"/dʌz ðə tʊr hæv ən ˈɪŋɡlɪʃ ˈspikɪŋ ɡaɪd/"},
+{"vi":"Điểm đón khách ở đâu, mấy giờ?","en":"Where's the pickup point, and what time?","ipa":"/wɛrz ðə ˈpɪkʌp pɔɪnt, ænd wʌt taɪm/"},
+{"vi":"Vé người lớn và trẻ em giá bao nhiêu?","en":"How much are adult and child tickets?","ipa":"/haʊ mʌtʃ ɑr ˈædʌlt ænd tʃaɪld ˈtɪkɪts/"}]},
+{"vi":"Trên xe buýt du lịch","en":"On the tour","sentences":[
+{"vi":"Bên trái là toà nhà lâu đời nhất thành phố.","en":"On your left you'll see the oldest building in the city.","ipa":"/ɑn jʊr lɛft jul si ði ˈoʊldɪst ˈbɪldɪŋ ɪn ðə ˈsɪti/", "actor": "hướng dẫn viên"},
+{"vi":"Chúng ta dừng mười lăm phút chụp hình ở đây.","en":"We'll stop for fifteen minutes for photos here.","ipa":"/wil stɑp fər ˈfɪftin ˈmɪnɪts fər ˈfoʊtoʊz hɪr/", "actor": "hướng dẫn viên"},
+{"vi":"Có thể hỏi đường tới chỗ chụp hình đẹp nhất không?","en":"Can you point me to the best photo spot?","ipa":"/kæn ju pɔɪnt mi tə ðə bɛst ˈfoʊtoʊ spɑt/"},
+{"vi":"Đây là chỗ nổi tiếng gì vậy?","en":"What's this place famous for?","ipa":"/wʌts ðɪs pleɪs ˈfeɪməs fɔr/"}]},
+{"vi":"Hỏi thăm trên tour","en":"Asking questions along the way","sentences":[
+{"vi":"Khu này có lịch sử gì thú vị không?","en":"Does this area have any interesting history?","ipa":"/dʌz ðɪs ˈɛriə hæv ˈɛni ˈɪntrəstɪŋ ˈhɪstəri/"},
+{"vi":"Bữa trưa tự túc hay tour lo luôn?","en":"Is lunch included, or do we sort that ourselves?","ipa":"/ɪz lʌntʃ ɪnˈkludɪd, ɔr du wi sɔrt ðæt ˈaʊərˈsɛlvz/"},
+{"vi":"Có gợi ý quán ăn địa phương không?","en":"Any recommendations for local food spots?","ipa":"/ˈɛni ˌrɛkəmɛnˈdeɪʃənz fər ˈloʊkəl fud spɑts/"},
+{"vi":"Tour kết thúc mấy giờ, quay về đâu?","en":"What time does the tour finish, and where?","ipa":"/wʌt taɪm dʌz ðə tʊr ˈfɪnɪʃ, ænd wɛr/"}]},
+{"vi":"Sau tour","en":"After the tour","sentences":[
+{"vi":"Chuyến đi hay hơn em tưởng, cảm ơn anh.","en":"That was better than I expected — thanks so much.","ipa":"/ðæt wʌz ˈbɛtər ðæn aɪ ɪkˈspɛktɪd, θæŋks soʊ mʌtʃ/"},
+{"vi":"Em tip cho hướng dẫn viên được không?","en":"Is it okay to tip the guide?","ipa":"/ɪz ɪt ˈoʊkeɪ tə tɪp ðə ɡaɪd/"},
+{"vi":"Anh có thể chụp hình cho tụi em không?","en":"Could you take a photo of us?","ipa":"/kʊd ju teɪk ə ˈfoʊtoʊ əv ʌs/"},
+{"vi":"Mình sẽ review tour này năm sao.","en":"I'll leave a five-star review for the tour.","ipa":"/aɪl liv ə faɪv stɑr rɪˈvju fər ðə tʊr/"}]}],
+"practice":["Tự kể một trải nghiệm đi tour bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: du khách hỏi — hướng dẫn viên trả lời.","Ôn lại 5 câu khó nhất của Ngày 59 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Kể trải nghiệm tour","Ôn lại Ngày 59"]}
+]}

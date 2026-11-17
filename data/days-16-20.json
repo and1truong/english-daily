@@ -1,0 +1,117 @@
+{"days":[
+{"day":16,"slug":"doi-tra-hang","emoji":"🔄","scenes":[
+{"vi":"Quay lại cửa hàng","en":"Going back to the store","sentences":[
+{"vi":"Cái áo mua hôm qua bị rách đường chỉ.","en":"The shirt I bought yesterday has a torn seam.","ipa":"/ðə ʃɜrt aɪ bɔt ˈjɛstərdeɪ hæz ə tɔrn sim/"},
+{"vi":"May mình còn giữ hóa đơn.","en":"Luckily I kept the receipt.","ipa":"/ˈlʌkɪli aɪ kɛpt ðə rɪˈsit/"},
+{"vi":"Mình quay lại đổi luôn chiều nay.","en":"I'll take it back this afternoon.","ipa":"/aɪl teɪk ɪt bæk ðɪs ˌæftərˈnun/"}]},
+{"vi":"Nói chuyện quầy đổi trả","en":"At the returns desk","sentences":[
+{"vi":"Chào bạn, mình muốn đổi cái áo này.","en":"Hi, I'd like to return this shirt.","ipa":"/haɪ, aɪd laɪk tə rɪˈtɜrn ðɪs ʃɜrt/"},
+{"vi":"Nó bị lỗi đường may ngay từ đầu.","en":"The stitching was faulty when I bought it.","ipa":"/ðə ˈstɪtʃɪŋ wʌz ˈfɔlti wɛn aɪ bɔt ɪt/"},
+{"vi":"Đây là hóa đơn của mình.","en":"Here's my receipt.","ipa":"/hɪrz maɪ rɪˈsit/"},
+{"vi":"Mình mới mua ba ngày trước thôi.","en":"I only bought it three days ago.","ipa":"/aɪ ˈoʊnli bɔt ɪt θri deɪz əˈɡoʊ/"}]},
+{"vi":"Đổi hay hoàn tiền","en":"Exchange or refund","sentences":[
+{"vi":"Mình muốn đổi sang cái giống size khác.","en":"I'd like to swap it for a different size.","ipa":"/aɪd laɪk tə swɑp ɪt fər ə ˈdɪfərənt saɪz/"},
+{"vi":"Còn cái size trung màu xanh không?","en":"Do you still have it in a medium, in blue?","ipa":"/du ju stɪl hæv ɪt ɪn ə ˈmidiəm, ɪn blu/"},
+{"vi":"Nếu không đổi được thì hoàn tiền được không?","en":"If I can't exchange it, can I get a refund?","ipa":"/ɪf aɪ kænt ɪksˈtʃeɪnʤ ɪt, kæn aɪ ɡɛt ə ˈrifʌnd/"},
+{"vi":"Tiền hoàn về thẻ mình mất mấy ngày?","en":"How many days does the refund take to hit my card?","ipa":"/haʊ ˈmɛni deɪz dʌz ðə ˈrifʌnd teɪk tə hɪt maɪ kɑrd/"}]},
+{"vi":"Xong việc","en":"Sorting it out","sentences":[
+{"vi":"Vậy mình đổi sang cái mới luôn hôm nay.","en":"Great — I'll take the new one today then.","ipa":"/ɡreɪt, aɪl teɪk ðə nu wʌn təˈdeɪ ðɛn/"},
+{"vi":"Bạn kiểm tra kỹ cái mới giúp mình nhé.","en":"Could you check the new one over for me?","ipa":"/kʊd ju tʃɛk ðə nu wʌn ˈoʊvər fər mi/"},
+{"vi":"Cảm ơn bạn, đổi trả dễ hơn mình tưởng.","en":"Thanks — that was easier than I expected.","ipa":"/θæŋks, ðæt wʌz ˈiziər ðæn aɪ ɪkˈspɛktɪd/"},
+{"vi":"Lần sau mua về phải kiểm tra kỹ hơn.","en":"Next time I'll inspect it properly before leaving.","ipa":"/nɛkst taɪm aɪl ɪnˈspɛkt ɪt ˈprɑpərli bɪˈfɔr ˈlivɪŋ/"}]}],
+"practice":["Tự tả một lần đổi trả hàng bạn từng làm bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: khách đổi hàng — nhân viên quầy returns.","Ôn lại 5 câu khó nhất của Ngày 15 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Kể một lần đổi trả","Ôn lại Ngày 15"]},
+
+{"day":17,"slug":"mua-dien-thoai","emoji":"📱","scenes":[
+{"vi":"Vào cửa hàng viễn thông","en":"At the phone store","sentences":[
+{"vi":"Mình định nâng cấp điện thoại, máy cũ chậm quá.","en":"I want to upgrade — my old phone's gotten really slow.","ipa":"/aɪ wɑnt tə ˈʌpɡreɪd, maɪ oʊld foʊnz ˈɡɑtən ˈrili sloʊ/"},
+{"vi":"Hai mẫu này khác nhau chỗ nào vậy?","en":"What's the difference between these two models?","ipa":"/wʌts ðə ˈdɪfərəns bɪˈtwin ðiz tu ˈmɑdəlz/"},
+{"vi":"Cái nào chụp hình đẹp hơn vậy?","en":"Which one has the better camera?","ipa":"/wɪtʃ wʌn hæz ðə ˈbɛtər ˈkæmrə/"},
+{"vi":"Pin trâu nhất là con nào?","en":"Which one has the best battery life?","ipa":"/wɪtʃ wʌn hæz ðə bɛst ˈbætəri laɪf/"}]},
+{"vi":"Hỏi về plan","en":"Asking about plans","sentences":[
+{"vi":"Plan rẻ nhất bao nhiêu một tháng?","en":"What's your cheapest monthly plan?","ipa":"/wʌts jʊr ˈtʃipɪst ˈmʌnθli plæn/"},
+{"vi":"Plan này được bao nhiêu GB data?","en":"How much data do I get on this plan?","ipa":"/haʊ mʌtʃ ˈdeɪtə du aɪ ɡɛt ɑn ðɪs plæn/"},
+{"vi":"Hết data thì có bị cắt luôn không?","en":"What happens if I run out of data?","ipa":"/wʌt ˈhæpənz ɪf aɪ rʌn aʊt əv ˈdeɪtə/"},
+{"vi":"Gọi quốc tế về Việt Nam có tính phí riêng không?","en":"Do international calls to Vietnam cost extra?","ipa":"/du ˌɪntərˈnæʃənəl kɔlz tə ˌvjɛtˈnɑm kɔst ˈɛkstrə/"}]},
+{"vi":"Trade-in & khuyến mãi","en":"Trade-in & deals","sentences":[
+{"vi":"Máy cũ mình có được trừ vào máy mới không?","en":"Can I trade in my old phone for a discount?","ipa":"/kæn aɪ treɪd ɪn maɪ oʊld foʊn fər ə ˈdɪskaʊnt/"},
+{"vi":"Máy cũ trầy xước nhiều có trừ giá nhiều không?","en":"How much do I get off if the old one's scratched up?","ipa":"/haʊ mʌtʃ du aɪ ɡɛt ɔf ɪf ði oʊld wʌnz skrætʃt ʌp/"},
+{"vi":"Đợt này có khuyến mãi gì không?","en":"Are there any deals on at the moment?","ipa":"/ɑr ðɛr ˈɛni dilz ɑn æt ðə ˈmoʊmənt/"},
+{"vi":"Trả góp mười hai tháng có phí thêm không?","en":"Is there a fee for paying it off over twelve months?","ipa":"/ɪz ðɛr ə fi fər ˈpeɪɪŋ ɪt ɔf ˈoʊvər twɛlv mʌnθs/"}]},
+{"vi":"Chốt mua","en":"Making the purchase","sentences":[
+{"vi":"Vậy mình lấy con màu xanh, bản 256 ghi.","en":"I'll take the blue one, the 256 gig model.","ipa":"/aɪl teɪk ðə blu wʌn, ðə tu ˈhʌndrəd ˈfɪfti sɪks ɡɪɡ ˈmɑdəl/"},
+{"vi":"Bạn chuyển dữ liệu từ máy cũ giúp mình nhé.","en":"Can you help transfer my data from the old phone?","ipa":"/kæn ju hɛlp trænsˈfɜr maɪ ˈdeɪtə frʌm ði oʊld foʊn/"},
+{"vi":"Bảo hành con này bao lâu vậy?","en":"How long is the warranty on this?","ipa":"/haʊ lɔŋ ɪz ðə ˈwɔrənti ɑn ðɪs/"},
+{"vi":"Sim mới kích hoạt luôn hôm nay phải không?","en":"Does the new SIM activate today?","ipa":"/dʌz ðə nu sɪm ˈæktɪveɪt təˈdeɪ/"}]}],
+"practice":["Tự so sánh chiếc điện thoại mình đang dùng với đời cũ bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: khách hỏi plan — nhân viên tư vấn.","Ôn lại 5 câu khó nhất của Ngày 16 trước khi bắt đầu."],
+"checks":["Đọc to 20 câu","So sánh hai mẫu máy","Ôn lại Ngày 16"]},
+
+{"day":18,"slug":"cat-toc","emoji":"💈","scenes":[
+{"vi":"Vào tiệm","en":"Walking into the barbershop","sentences":[
+{"vi":"Chào bạn, mình muốn cắt tóc, walk-in được không?","en":"Hi, do you take walk-ins for a haircut?","ipa":"/haɪ, du ju teɪk ˈwɔk ɪnz fər ə ˈhɛrkʌt/"},
+{"vi":"Đợi bao lâu nữa tới lượt mình?","en":"How long's the wait?","ipa":"/haʊ lɔŋz ðə weɪt/"},
+{"vi":"Mình đặt hẹn trước trên app rồi, tên An.","en":"I booked online — the name's An.","ipa":"/aɪ bʊkt ɑnˈlaɪn, ðə neɪmz ɑn/"}]},
+{"vi":"Mô tả kiểu tóc","en":"Describing the cut","sentences":[
+{"vi":"Cắt ngắn hai bên, trên để dài một chút.","en":"Short on the sides, a bit longer on top.","ipa":"/ʃɔrt ɑn ðə saɪdz, ə bɪt ˈlɔŋɡər ɑn tɑp/"},
+{"vi":"Fade từ da lên, kiểu skin fade.","en":"A skin fade, please — from the skin up.","ipa":"/ə skɪn feɪd pliz, frʌm ðə skɪn ʌp/", "note":"fade = kiểu tóc mờ dần từ da lên"},
+{"vi":"Đừng cắt ngắn quá, mình muốn còn vuốt được.","en":"Not too short — I still want to style it.","ipa":"/nɑt tu ʃɔrt, aɪ stɪl wɑnt tə staɪl ɪt/"},
+{"vi":"Mình có hình mẫu, bạn xem kiểu này nhé.","en":"Here's a photo of what I'm after.","ipa":"/hɪrz ə ˈfoʊtoʊ əv wʌt aɪm ˈæftər/"}]},
+{"vi":"Nói chuyện phiếm","en":"Chatting during the cut","sentences":[
+{"vi":"Bạn làm nghề này lâu chưa?","en":"How long have you been cutting hair?","ipa":"/haʊ lɔŋ hæv ju bɪn ˈkʌtɪŋ hɛr/"},
+{"vi":"Tóc mình khó cắt lắm, xoáy hai chỗ.","en":"My hair's tricky — I've got two cowlicks.","ipa":"/maɪ hɛrz ˈtrɪki, aɪv ɡɑt tu ˈkaʊlɪks/"},
+{"vi":"Nghe nói cuối tuần tiệm đông lắm phải không?","en":"I hear you get really busy on weekends?","ipa":"/aɪ hɪr ju ɡɛt ˈrili ˈbɪzi ɑn ˈwikɛndz/"},
+{"vi":"Bạn dùng sáp gì mà giữ nếp tốt vậy?","en":"What product do you use that holds so well?","ipa":"/wʌt ˈprɑdʌkt du ju juz ðæt hoʊldz soʊ wɛl/"}]},
+{"vi":"Xong & trả tiền","en":"Finishing up & paying","sentences":[
+{"vi":"Nhìn ổn ghê, đúng ý mình rồi.","en":"Looks great — exactly what I wanted.","ipa":"/lʊks ɡreɪt, ɪɡˈzæktli wʌt aɪ ˈwɑntɪd/"},
+{"vi":"Bao nhiêu tiền vậy bạn?","en":"How much do I owe you?","ipa":"/haʊ mʌtʃ du aɪ oʊ ju/"},
+{"vi":"Giữ phần thừa làm tip nhé.","en":"Keep the change as a tip.","ipa":"/kip ðə tʃeɪnʤ æz ə tɪp/"},
+{"vi":"Ba tuần nữa mình quay lại nhé.","en":"I'll see you again in about three weeks.","ipa":"/aɪl si ju əˈɡɛn ɪn əˈbaʊt θri wiks/"}]}],
+"practice":["Tự mô tả kiểu tóc mình muốn bằng 2 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: khách mô tả kiểu — thợ xác nhận.","Ôn lại 5 câu khó nhất của Ngày 17 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Mô tả kiểu tóc","Ôn lại Ngày 17"]},
+
+{"day":19,"slug":"buu-dien","emoji":"📮","scenes":[
+{"vi":"Vào bưu điện","en":"At the post office","sentences":[
+{"vi":"Mình muốn gửi kiện hàng này về Việt Nam.","en":"I'd like to send this parcel to Vietnam.","ipa":"/aɪd laɪk tə sɛnd ðɪs ˈpɑrsəl tə ˌvjɛtˈnɑm/"},
+{"vi":"Hàng dễ vỡ, mình dán nhãn fragile được không?","en":"It's fragile — can I get a fragile sticker on it?","ipa":"/ɪts ˈfræʤəl, kæn aɪ ɡɛt ə ˈfræʤəl ˈstɪkər ɑn ɪt/"},
+{"vi":"Mình nên mua hộp to hơn phải không?","en":"Should I get a bigger box for it?","ipa":"/ʃʊd aɪ ɡɛt ə ˈbɪɡər bɑks fər ɪt/"}]},
+{"vi":"Hỏi cước & thời gian","en":"Rates & delivery time","sentences":[
+{"vi":"Gửi tiết kiệm mất bao lâu mới tới?","en":"How long does economy shipping take?","ipa":"/haʊ lɔŋ dʌz ɪˈkɑnəmi ˈʃɪpɪŋ teɪk/"},
+{"vi":"Gửi nhanh đắt hơn bao nhiêu?","en":"How much more is express?","ipa":"/haʊ mʌtʃ mɔr ɪz ɪkˈsprɛs/"},
+{"vi":"Có tracking theo dõi hành trình không?","en":"Does it come with tracking?","ipa":"/dʌz ɪt kʌm wɪð ˈtrækɪŋ/"},
+{"vi":"Giá tính theo cân nặng hay theo kích thước?","en":"Is the price by weight or by size?","ipa":"/ɪz ðə praɪs baɪ weɪt ɔr baɪ saɪz/"}]},
+{"vi":"Khai báo & điền form","en":"Declaration form","sentences":[
+{"vi":"Form khai hải quan điền chỗ nào?","en":"Where do I fill in the customs declaration?","ipa":"/wɛr du aɪ fɪl ɪn ðə ˈkʌstəmz ˌdɛkləˈreɪʃən/"},
+{"vi":"Mình ghi nội dung là quần áo và sách.","en":"I'll declare it as clothes and books.","ipa":"/aɪl dɪˈklɛr ɪt æz kloʊðz ænd bʊks/"},
+{"vi":"Giá trị khai báo có giới hạn không?","en":"Is there a limit on the declared value?","ipa":"/ɪz ðɛr ə ˈlɪmɪt ɑn ðə dɪˈklɛrd ˈvælju/"},
+{"vi":"Có cần bảo hiểm cho kiện này không?","en":"Should I add insurance for this one?","ipa":"/ʃʊd aɪ æd ɪnˈʃʊrəns fər ðɪs wʌn/"}]},
+{"vi":"Trả tiền & xong","en":"Paying & done","sentences":[
+{"vi":"Tổng cộng bao nhiêu vậy?","en":"How much is it all together?","ipa":"/haʊ mʌtʃ ɪz ɪt ɔl təˈɡɛðər/"},
+{"vi":"Cho mình biên nhận nhé.","en":"Can I get a receipt, please?","ipa":"/kæn aɪ ɡɛt ə rɪˈsit pliz/"},
+{"vi":"Tracking number mình tra ở đâu?","en":"Where do I check the tracking number?","ipa":"/wɛr du aɪ tʃɛk ðə ˈtrækɪŋ ˈnʌmbər/"},
+{"vi":"Hy vọng hàng về an toàn.","en":"Fingers crossed it arrives safely.","ipa":"/ˈfɪŋɡərz krɔst ɪt əˈraɪvz ˈseɪfli/"}]}],
+"practice":["Tự nói lại cách gửi một món đồ đi xa bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: khách gửi hàng — nhân viên bưu điện.","Ôn lại 5 câu khó nhất của Ngày 18 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Nói cách gửi hàng","Ôn lại Ngày 18"]},
+
+{"day":20,"slug":"goi-do-an","emoji":"🛵","scenes":[
+{"vi":"Chuẩn bị gọi","en":"Deciding what to order","sentences":[
+{"vi":"Tối nay lười nấu, gọi đồ ăn về đi.","en":"I can't be bothered cooking — let's order in.","ipa":"/aɪ kænt bi ˈbɑðərd ˈkʊkɪŋ, lɛts ˈɔrdər ɪn/", "note":"can't be bothered = lười, không muốn"},
+{"vi":"Hôm nay thèm phở, gọi quán quen luôn.","en":"I'm craving phở — I'll order from my usual place.","ipa":"/aɪm ˈkreɪvɪŋ fɜ, aɪl ˈɔrdər frʌm maɪ ˈjuʒuəl pleɪs/"},
+{"vi":"Mình gọi điện trực tiếp cho nhanh.","en":"I'll just call them directly — it's faster.","ipa":"/aɪl ʤʌst kɔl ðɛm dəˈrɛktli, ɪts ˈfæstər/"}]},
+{"vi":"Gọi món","en":"Placing the order","sentences":[
+{"vi":"Chào, mình muốn đặt đồ ăn giao tận nhà.","en":"Hi, I'd like to place an order for delivery.","ipa":"/haɪ, aɪd laɪk tə pleɪs ən ˈɔrdər fər dɪˈlɪvəri/"},
+{"vi":"Cho mình hai phần phở bò tái.","en":"Two bowls of rare beef phở, please.","ipa":"/tu boʊlz əv rɛr bif fɜ pliz/"},
+{"vi":"Một phần đừng cho hành nhé.","en":"Can one of them be without onions?","ipa":"/kæn wʌn əv ðɛm bi wɪˈθaʊt ˈʌnjənz/"},
+{"vi":"Có thêm trà đá không bạn?","en":"Do you have iced tea as well?","ipa":"/du ju hæv aɪst ti æz wɛl/"}]},
+{"vi":"Địa chỉ & phí","en":"Address & fees","sentences":[
+{"vi":"Địa chỉ của mình là số mười hai đường Smith, căn ba.","en":"The address is twelve Smith Street, unit three.","ipa":"/ði əˈdrɛs ɪz twɛlv smɪθ strit, ˈjunɪt θri/"},
+{"vi":"Phí giao hàng bao nhiêu vậy?","en":"How much is the delivery fee?","ipa":"/haʊ mʌtʃ ɪz ðə dɪˈlɪvəri fi/"},
+{"vi":"Khoảng bao lâu thì đồ ăn tới?","en":"How long will it take to arrive?","ipa":"/haʊ lɔŋ wɪl ɪt teɪk tə əˈraɪv/"},
+{"vi":"Trả tiền mặt khi nhận hàng được không?","en":"Can I pay cash on delivery?","ipa":"/kæn aɪ peɪ kæʃ ɑn dɪˈlɪvəri/"}]},
+{"vi":"Chờ & nhận đồ","en":"Waiting & receiving","sentences":[
+{"vi":"Đồ ăn tới rồi, ra nhận thôi.","en":"The food's here — let me grab it.","ipa":"/ðə fudz hɪr, lɛt mi ɡræb ɪt/"},
+{"vi":"Cảm ơn bạn, trời lạnh mà đồ còn nóng ghê.","en":"Thanks — it arrived still hot, great.","ipa":"/θæŋks, ɪt əˈraɪvd stɪl hɑt, ɡreɪt/"},
+{"vi":"Thiếu mất một phần rồi, gọi lại quán thôi.","en":"They missed an item — I'd better call them back.","ipa":"/ðeɪ mɪst ən ˈaɪtəm, aɪd ˈbɛtər kɔl ðɛm bæk/"},
+{"vi":"Ăn tối thôi, đói quá rồi.","en":"Time to eat — I'm starving.","ipa":"/taɪm tə it, aɪm ˈstɑrvɪŋ/"}]}],
+"practice":["Tự gọi món ăn mình thích bằng 3 câu như gọi điện thật.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: khách gọi đặt đồ — nhân viên ghi đơn.","Ôn lại 5 câu khó nhất của Ngày 19 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Gọi món không nhìn chữ","Ôn lại Ngày 19"]}
+]}

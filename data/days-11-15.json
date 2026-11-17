@@ -1,0 +1,120 @@
+{"days":[
+{"day":11,"slug":"chu-nha","emoji":"📞","scenes":[
+{"vi":"Chuẩn bị gọi điện","en":"Getting ready to call","sentences":[
+{"vi":"Vòi nước bồn rửa chảy nhỏ giọt cả đêm.","en":"The kitchen tap has been dripping all night.","ipa":"/ðə ˈkɪtʃən tæp hæz bɪn ˈdrɪpɪŋ ɔl naɪt/"},
+{"vi":"Mình chụp hình lại rồi gọi chủ nhà luôn.","en":"I took a photo of it — now I'll call the landlord.","ipa":"/aɪ tʊk ə ˈfoʊtoʊ əv ɪt, naʊ aɪl kɔl ðə ˈlændlɔrd/"},
+{"vi":"Số của chủ nhà trong hợp đồng thuê đâu ta.","en":"The landlord's number is in the lease somewhere.","ipa":"/ðə ˈlændlɔrdz ˈnʌmbər ɪz ɪn ðə lis ˈsʌmwɛr/"}]},
+{"vi":"Mô tả vấn đề","en":"Describing the problem","sentences":[
+{"vi":"Chào anh, em là người thuê ở căn số năm.","en":"Hi, this is your tenant from unit five.","ipa":"/haɪ, ðɪs ɪz jʊr ˈtɛnənt frʌm ˈjunɪt faɪv/"},
+{"vi":"Vòi nước bồn rửa bị rỉ, chảy không ngừng.","en":"The kitchen tap is leaking — it won't stop dripping.","ipa":"/ðə ˈkɪtʃən tæp ɪz ˈlikɪŋ, ɪt woʊnt stɑp ˈdrɪpɪŋ/"},
+{"vi":"Nước chảy xuống làm ướt cả tủ bên dưới.","en":"The water's leaking into the cabinet underneath.","ipa":"/ðə ˈwɔtərz ˈlikɪŋ ˈɪntu ðə ˈkæbənɪt ˌʌndərˈniθ/"},
+{"vi":"Em đã vặn chặt hết cỡ rồi mà vẫn rỉ.","en":"I've tightened it as much as I can, but it still drips.","ipa":"/aɪv ˈtaɪtənd ɪt æz mʌtʃ æz aɪ kæn, bət ɪt stɪl drɪps/"}]},
+{"vi":"Hẹn thợ sửa","en":"Arranging the repair","sentences":[
+{"vi":"Khi nào thì có thợ qua sửa được ạ?","en":"When can someone come out to fix it?","ipa":"/wɛn kæn ˈsʌmwʌn kʌm aʊt tə fɪks ɪt/"},
+{"vi":"Em ở nhà chiều nay, anh cho thợ qua lúc đó được.","en":"I'll be home this afternoon — anytime then works.","ipa":"/aɪl bi hoʊm ðɪs ˌæftərˈnun, ˈɛniˌtaɪm ðɛn wɜrks/"},
+{"vi":"Thợ có cần em làm gì trước không?","en":"Should I do anything before the plumber arrives?","ipa":"/ʃʊd aɪ du ˈɛniθɪŋ bɪˈfɔr ðə ˈplʌmər əˈraɪvz/"},
+{"vi":"Chi phí sửa cái này ai chịu vậy anh?","en":"Who covers the cost of the repair?","ipa":"/hu ˈkʌvərz ðə kɔst əv ðə rɪˈpɛr/"}]},
+{"vi":"Kết thúc cuộc gọi","en":"Wrapping up the call","sentences":[
+{"vi":"Vậy thợ sẽ tới khoảng ba giờ chiều đúng không?","en":"So the plumber will be here around three o'clock?","ipa":"/soʊ ðə ˈplʌmər wɪl bi hɪr əˈraʊnd θri əˈklɑk/"},
+{"vi":"Anh nhắn số thợ cho em với nhé.","en":"Could you text me the plumber's number?","ipa":"/kʊd ju tɛkst mi ðə ˈplʌmərz ˈnʌmbər/"},
+{"vi":"Cảm ơn anh, mong sớm được sửa xong.","en":"Thanks — hopefully it gets sorted soon.","ipa":"/θæŋks, ˈhoʊpfəli ɪt ɡɛts ˈsɔrtɪd sun/", "note":"sorted = giải quyết xong (kiểu Úc/Anh)"},
+{"vi":"Có gì thay đổi anh gọi lại cho em nha.","en":"Give me a call if anything changes.","ipa":"/ɡɪv mi ə kɔl ɪf ˈɛniθɪŋ ˈtʃeɪnʤɪz/"}]}],
+"practice":["Tự tả một hư hỏng khác trong nhà (bóng đèn, máy nước nóng) bằng 2 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: người thuê báo hỏng — chủ nhà hẹn thợ.","Ôn lại 5 câu khó nhất của Ngày 10 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Tả được hư hỏng khác","Ôn lại Ngày 10"]},
+
+{"day":12,"slug":"hang-xom","emoji":"🏡","scenes":[
+{"vi":"Chào hỏi đầu câu chuyện","en":"Saying hello","sentences":[
+{"vi":"Chào anh, dạo này khỏe không?","en":"Hey, how's it going?","ipa":"/heɪ, haʊz ɪt ˈɡoʊɪŋ/", "note":"how's it going = khỏe không, rất đời"},
+{"vi":"Lâu quá không gặp anh ở ngoài này.","en":"Haven't seen you out here in a while.","ipa":"/ˈhævənt sin ju aʊt hɪr ɪn ə waɪl/"},
+{"vi":"Sáng nay trời đẹp nhỉ?","en":"Beautiful morning, isn't it?","ipa":"/ˈbjutəfəl ˈmɔrnɪŋ, ˈɪzənt ɪt/"},
+{"vi":"Gia đình anh dạo này thế nào?","en":"How's the family doing?","ipa":"/haʊz ðə ˈfæmɪli ˈduɪŋ/"}]},
+{"vi":"Nói chuyện vườn & nhà cửa","en":"Garden & house talk","sentences":[
+{"vi":"Vườn anh năm nay lên đẹp ghê.","en":"Your garden looks amazing this year.","ipa":"/jʊr ˈɡɑrdən lʊks əˈmeɪzɪŋ ðɪs jɪr/"},
+{"vi":"Anh trồng cây gì mà hoa nở rực vậy?","en":"What did you plant — those flowers are blooming.","ipa":"/wʌt dɪd ju plænt, ðoʊz ˈflaʊərz ɑr ˈblumɪŋ/"},
+{"vi":"Em đang định sửa lại hàng rào cuối tuần này.","en":"I'm planning to fix the fence this weekend.","ipa":"/aɪm ˈplænɪŋ tə fɪks ðə fɛns ðɪs ˈwikɛnd/"},
+{"vi":"Con chó nhà anh dạo này hiền hơn rồi ha.","en":"Your dog seems a lot calmer these days.","ipa":"/jʊr dɔɡ simz ə lɑt ˈkɑmər ðiz deɪz/"}]},
+{"vi":"Bàn cuối tuần & thời tiết","en":"Weekend & weather chat","sentences":[
+{"vi":"Cuối tuần này anh có kế hoạch gì không?","en":"Got any plans for the weekend?","ipa":"/ɡɑt ˈɛni plænz fər ðə ˈwikɛnd/"},
+{"vi":"Dự báo nói thứ bảy mưa to.","en":"The forecast says it's going to rain hard on Saturday.","ipa":"/ðə ˈfɔrkæst sɛz ɪts ˈɡoʊɪŋ tə reɪn hɑrd ɑn ˈsætərdeɪ/"},
+{"vi":"Tụi em định đi picnic nếu trời đẹp.","en":"We're thinking of having a picnic if it stays nice.","ipa":"/wir ˈθɪŋkɪŋ əv ˈhævɪŋ ə ˈpɪknɪk ɪf ɪt steɪz naɪs/"},
+{"vi":"Nắng nóng tuần trước ngán thật.","en":"Last week's heat was unbearable.","ipa":"/læst wiks hit wʌz ʌnˈbɛrəbəl/"}]},
+{"vi":"Kết thúc nhẹ nhàng","en":"Ending the chat","sentences":[
+{"vi":"Thôi em đi vào, có việc chút xíu.","en":"Anyway, I'd better head in — got a few things to do.","ipa":"/ˈɛniweɪ, aɪd ˈbɛtər hɛd ɪn, ɡɑt ə fju θɪŋz tə du/"},
+{"vi":"Vui được nói chuyện với anh nhé.","en":"It was nice catching up with you.","ipa":"/ɪt wʌz naɪs ˈkætʃɪŋ ʌp wɪð ju/"},
+{"vi":"Hôm nào rảnh ghé uống cà phê nha.","en":"Drop by for a coffee sometime.","ipa":"/drɑp baɪ fər ə ˈkɔfi ˈsʌmˌtaɪm/"},
+{"vi":"Chúc anh cuối tuần vui nhé!","en":"Have a great weekend!","ipa":"/hæv ə ɡreɪt ˈwikɛnd/"}]}],
+"practice":["Tự chào hỏi một người quen bằng 3 câu mở đầu khác nhau.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: hai hàng xóm gặp nhau ngoài vỉa hè.","Ôn lại 5 câu khó nhất của Ngày 11 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","3 câu chào tự nhiên","Ôn lại Ngày 11"]},
+
+{"day":13,"slug":"nau-an-moi-ban","emoji":"🍲","scenes":[
+{"vi":"Mời bạn & chuẩn bị","en":"Inviting & preparing","sentences":[
+{"vi":"Tối nay bạn qua nhà mình ăn tối nhé.","en":"Come over for dinner at my place tonight.","ipa":"/kʌm ˈoʊvər fər ˈdɪnər æt maɪ pleɪs təˈnaɪt/"},
+{"vi":"Bạn có ăn kiêng hay dị ứng gì không?","en":"Do you have any dietary restrictions or allergies?","ipa":"/du ju hæv ˈɛni ˈdaɪəˌtɛri rɪˈstrɪkʃənz ɔr ˈælərʤiz/"},
+{"vi":"Mình nấu món Việt cho bạn thử.","en":"I'll cook something Vietnamese for you to try.","ipa":"/aɪl kʊk ˈsʌmθɪŋ ˌvjɛtnəˈmiz fər ju tə traɪ/"},
+{"vi":"Bạn thích cay nhẹ hay cay dữ?","en":"Do you like it mildly spicy or properly hot?","ipa":"/du ju laɪk ɪt ˈmaɪldli ˈspaɪsi ɔr ˈprɑpərli hɑt/"}]},
+{"vi":"Nấu ăn & nói về món","en":"Cooking & talking food","sentences":[
+{"vi":"Món này mẹ mình hay nấu hồi nhỏ.","en":"This is a dish my mum used to make when I was little.","ipa":"/ðɪs ɪz ə dɪʃ maɪ mʌm ˈjuzt tə meɪk wɛn aɪ wʌz ˈlɪtəl/"},
+{"vi":"Bí quyết là nước mắm ngon, mình mua loại đặc biệt.","en":"The secret is good fish sauce — I buy a special brand.","ipa":"/ðə ˈsikrət ɪz ɡʊd fɪʃ sɔs, aɪ baɪ ə ˈspɛʃəl brænd/"},
+{"vi":"Bạn ngửi thử mùi sả này thơm không?","en":"Smell this lemongrass — amazing, right?","ipa":"/smɛl ðɪs ˈlɛmənˌɡræs, əˈmeɪzɪŋ raɪt/"},
+{"vi":"Nồi này hầm thêm hai mươi phút nữa là xong.","en":"The pot needs another twenty minutes to simmer.","ipa":"/ðə pɑt nidz əˈnʌðər ˈtwɛnti ˈmɪnɪts tə ˈsɪmər/"}]},
+{"vi":"Bàn ăn","en":"At the table","sentences":[
+{"vi":"Bạn ăn thêm đi, còn nhiều lắm.","en":"Please, have some more — there's plenty.","ipa":"/pliz, hæv sʌm mɔr, ðɛrz ˈplɛnti/"},
+{"vi":"Bạn thử chấm với nước chấm này xem.","en":"Try dipping it in this sauce.","ipa":"/traɪ ˈdɪpɪŋ ɪt ɪn ðɪs sɔs/"},
+{"vi":"Món này ăn với cơm trắng là hợp nhất.","en":"This goes best with plain rice.","ipa":"/ðɪs ɡoʊz bɛst wɪð pleɪn raɪs/"},
+{"vi":"Bạn uống trà đá hay nước lọc?","en":"Would you like iced tea or just water?","ipa":"/wʊd ju laɪk aɪst ti ɔr ʤʌst ˈwɔtər/"}]},
+{"vi":"Khen ngợi & kết thúc","en":"Compliments & goodbyes","sentences":[
+{"vi":"Vui là bạn thích món này.","en":"I'm glad you like it.","ipa":"/aɪm ɡlæd ju laɪk ɪt/"},
+{"vi":"Công thức mình gửi cho bạn sau nhé.","en":"I'll send you the recipe afterwards.","ipa":"/aɪl sɛnd ju ðə ˈrɛsəpi ˈæftərwərdz/"},
+{"vi":"Lần sau tới nhà bạn nấu nhé, deal không?","en":"Next time you cook — deal?","ipa":"/nɛkst taɪm ju kʊk, dil/"},
+{"vi":"Cảm ơn bạn đã qua chơi, về cẩn thận nhé.","en":"Thanks for coming over — drive safe!","ipa":"/θæŋks fər ˈkʌmɪŋ ˈoʊvər, draɪv seɪf/"}]}],
+"practice":["Tự kể công thức một món bạn nấu giỏi bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: chủ nhà mời món — khách khen ngon.","Ôn lại 5 câu khó nhất của Ngày 12 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Kể công thức quen","Ôn lại Ngày 12"]},
+
+{"day":14,"slug":"thoi-tiet","emoji":"🌤️","scenes":[
+{"vi":"Mở đầu bằng thời tiết","en":"Opening with weather","sentences":[
+{"vi":"Hôm nay nóng kinh khủng luôn.","en":"It's boiling hot today.","ipa":"/ɪts ˈbɔɪlɪŋ hɑt təˈdeɪ/"},
+{"vi":"Nghe nói chiều nay có giông đúng không?","en":"Did you hear there's a storm coming this afternoon?","ipa":"/dɪd ju hɪr ðɛrz ə stɔrm ˈkʌmɪŋ ðɪs ˌæftərˈnun/"},
+{"vi":"Sáng nay lạnh mà giờ nóng rồi.","en":"It was freezing this morning, but it's warmed up now.","ipa":"/ɪt wʌz ˈfrizɪŋ ðɪs ˈmɔrnɪŋ, bət ɪts wɔrmd ʌp naʊ/"},
+{"vi":"Trời cứ âm u mãi, chán thật.","en":"It's been so grey and gloomy all week.","ipa":"/ɪts bɪn soʊ ɡreɪ ænd ˈɡlumi ɔl wik/"}]},
+{"vi":"Dự báo & kế hoạch","en":"Forecast & plans","sentences":[
+{"vi":"Dự báo cuối tuần nắng lại rồi.","en":"The forecast says it'll clear up by the weekend.","ipa":"/ðə ˈfɔrkæst sɛz ɪtl klɪr ʌp baɪ ðə ˈwikɛnd/"},
+{"vi":"Nếu mưa thì mình đổi kế hoạch đi chơi.","en":"If it rains, I'll have to change my plans.","ipa":"/ɪf ɪt reɪnz, aɪl hæv tə tʃeɪnʤ maɪ plænz/"},
+{"vi":"Mùa này sáng lạnh trưa nóng, mặc đồ khó quá.","en":"This time of year it's cold mornings and hot afternoons — hard to dress for.","ipa":"/ðɪs taɪm əv jɪr ɪts koʊld ˈmɔrnɪŋz ænd hɑt ˌæftərˈnunz/"},
+{"vi":"Mình hy vọng trời đẹp cho picnic thứ bảy.","en":"Fingers crossed it stays nice for the picnic on Saturday.","ipa":"/ˈfɪŋɡərz krɔst ɪt steɪz naɪs fər ðə ˈpɪknɪk ɑn ˈsætərdeɪ/", "note":"fingers crossed = hy vọng"}]},
+{"vi":"So sánh khí hậu","en":"Comparing climates","sentences":[
+{"vi":"Ở Việt Nam mùa này đang mùa mưa rồi.","en":"Back in Vietnam it'd be rainy season right now.","ipa":"/bæk ɪn ˌvjɛtˈnɑm ɪtd bi ˈreɪni ˈsizən raɪt naʊ/"},
+{"vi":"Ở đây mùa đông lạnh khô, không lạnh ẩm như quê mình.","en":"The winter here is dry cold — not humid like back home.","ipa":"/ðə ˈwɪntər hɪr ɪz draɪ koʊld, nɑt ˈhjumɪd laɪk bæk hoʊm/"},
+{"vi":"Mình vẫn chưa quen trời tối sớm mùa đông.","en":"I still can't get used to it getting dark so early in winter.","ipa":"/aɪ stɪl kænt ɡɛt juzd tə ɪt ˈɡɛtɪŋ dɑrk soʊ ˈɜrli ɪn ˈwɪntər/"},
+{"vi":"Ở Úc Giáng sinh vào mùa hè, lạ ghê không?","en":"Christmas in summer still feels weird, doesn't it?","ipa":"/ˈkrɪsməs ɪn ˈsʌmər stɪl filz wɪrd, ˈdʌzənt ɪt/"}]},
+{"vi":"Kết chuyện","en":"Wrapping up","sentences":[
+{"vi":"Thôi nói thời tiết đủ rồi, vào việc chính nhé.","en":"Anyway, enough about the weather — let's get down to it.","ipa":"/ˈɛniweɪ, ɪˈnʌf əˈbaʊt ðə ˈwɛðər, lɛts ɡɛt daʊn tə ɪt/"},
+{"vi":"Bạn nhớ mang ô, trời nắng đổ mưa bất chợt.","en":"Don't forget your umbrella — it can pour any minute.","ipa":"/doʊnt fərˈɡɛt jʊr ʌmˈbrɛlə, ɪt kæn pɔr ˈɛni ˈmɪnɪt/"},
+{"vi":"Mong sớm hết mưa để đi chơi cho đã.","en":"Here's hoping the rain stops so we can get out.","ipa":"/hɪrz ˈhoʊpɪŋ ðə reɪn stɑps soʊ wi kæn ɡɛt aʊt/"},
+{"vi":"Giữ ấm nhé, trời lạnh đấy.","en":"Stay warm — it's chilly out there.","ipa":"/steɪ wɔrm, ɪts ˈtʃɪli aʊt ðɛr/"}]}],
+"practice":["Tự mở đầu một cuộc nói chuyện bằng 3 câu thời tiết khác nhau.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: hai người quen nói về thời tiết và kế hoạch cuối tuần.","Ôn lại 5 câu khó nhất của Ngày 13 trước khi bắt đầu."],
+"checks":["Đọc to 20 câu","3 câu mở đầu thời tiết","Ôn lại Ngày 13"]},
+
+{"day":15,"slug":"mua-quan-ao","emoji":"👕","scenes":[
+{"vi":"Vào cửa hàng","en":"Browsing the store","sentences":[
+{"vi":"Mình tìm một cái áo khoác cho mùa đông.","en":"I'm looking for a winter jacket.","ipa":"/aɪm ˈlʊkɪŋ fər ə ˈwɪntər ˈʤækɪt/"},
+{"vi":"Mình xem qua một vòng trước đã nhé.","en":"I'm just browsing for now, thanks.","ipa":"/aɪm ʤʌst ˈbraʊzɪŋ fər naʊ θæŋks/", "note":"câu thoát khi nhân viên hỏi cần giúp"},
+{"vi":"Khu áo khoác nam ở tầng mấy vậy?","en":"Which floor is the men's jackets section?","ipa":"/wɪtʃ flɔr ɪz ðə mɛnz ˈʤækɪts ˈsɛkʃən/"},
+{"vi":"Mẫu này có màu đen không bạn?","en":"Does this come in black?","ipa":"/dʌz ðɪs kʌm ɪn blæk/", "note":"come in = có sẵn màu/kiểu"}]},
+{"vi":"Thử đồ","en":"Trying things on","sentences":[
+{"vi":"Phòng thử đồ ở đâu vậy?","en":"Where are the fitting rooms?","ipa":"/wɛr ɑr ðə ˈfɪtɪŋ rumz/"},
+{"vi":"Size này hơi chật, có size lớn hơn không?","en":"This size is a bit tight — do you have a bigger one?","ipa":"/ðɪs saɪz ɪz ə bɪt taɪt, du ju hæv ə ˈbɪɡər wʌn/"},
+{"vi":"Cái này vừa vặn ghê, mình thích.","en":"This one fits really well — I like it.","ipa":"/ðɪs wʌn fɪts ˈrili wɛl, aɪ laɪk ɪt/"},
+{"vi":"Màu này hợp với mình không ta?","en":"Does this colour suit me?","ipa":"/dʌz ðɪs ˈkʌlər sut mi/"}]},
+{"vi":"Hỏi giá & so sánh","en":"Price & comparing","sentences":[
+{"vi":"Cái này bao nhiêu tiền vậy?","en":"How much is this one?","ipa":"/haʊ mʌtʃ ɪz ðɪs wʌn/"},
+{"vi":"Đang có giảm giá cho mẫu này không?","en":"Is there a sale on this style?","ipa":"/ɪz ðɛr ə seɪl ɑn ðɪs staɪl/"},
+{"vi":"Cái kia rẻ hơn nhưng vải mỏng hơn.","en":"The other one's cheaper but the fabric's thinner.","ipa":"/ði ˈʌðər wʌnz ˈtʃipər bət ðə ˈfæbrɪks ˈθɪnər/"},
+{"vi":"Mình nghĩ cái đắt hơn đáng tiền hơn.","en":"I think the pricier one is worth it.","ipa":"/aɪ θɪŋk ðə ˈpraɪsiər wʌn ɪz wɜrθ ɪt/"}]},
+{"vi":"Mua & thanh toán","en":"Buying it","sentences":[
+{"vi":"Mình lấy cái này nhé.","en":"I'll take this one.","ipa":"/aɪl teɪk ðɪs wʌn/"},
+{"vi":"Đổi trả trong bao lâu được vậy?","en":"What's your return policy?","ipa":"/wʌts jʊr rɪˈtɜrn ˈpɑləsi/"},
+{"vi":"Cho mình thêm cái túi đựng nha.","en":"Could I get a bag for it, please?","ipa":"/kʊd aɪ ɡɛt ə bæɡ fər ɪt pliz/"},
+{"vi":"Cảm ơn bạn, đợt sau mình ghé lại.","en":"Thanks — I'll be back next time.","ipa":"/θæŋks, aɪl bi bæk nɛkst taɪm/"}]}],
+"practice":["Tự mô tả bộ đồ mình đang mặc bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: khách thử đồ — nhân viên tư vấn size.","Ôn lại 5 câu khó nhất của Ngày 14 trước khi bắt đầu."],
+"checks":["Đọc to 20 câu","Tả bộ đồ đang mặc","Ôn lại Ngày 14"]}
+]}

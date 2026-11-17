@@ -1,0 +1,186 @@
+{"days":[
+{"day":45,"slug":"hop-phu-huynh","emoji":"👨‍👩‍👧","scenes":[
+{"vi":"Đến buổi họp","en":"Arriving at the parent-teacher night","sentences":[
+{"vi":"Chúng tôi hẹn gặp cô chủ nhiệm lúc bảy giờ.","en":"We have a seven o'clock slot with her classroom teacher.","ipa":"/wi hæv ə ˈsɛvən əˈklɑk slɑt wɪð hɜr ˈklæsrʊm ˈtitʃər/"},
+{"vi":"Cảm ơn cô dành thời gian cho tụi con.","en":"Thanks for making time to see us.","ipa":"/θæŋks fər ˈmeɪkɪŋ taɪm tə si ʌs/"},
+{"vi":"Bọn tôi muốn nghe về tiến độ của con.","en":"We're keen to hear how she's been going.","ipa":"/wiɑr kin tə hɪr haʊ ʃiz bɪn ˈɡoʊɪŋ/", "note":"how she's going = con đang học hành ra sao (kiểu Úc)"}]},
+{"vi":"Nghe nhận xét về con","en":"Hearing the feedback","sentences":[
+{"vi":"Con học toán tốt nhưng ngại đọc to trước lớp.","en":"She's strong in maths but reluctant to read aloud in class.","ipa":"/ʃiz strɔŋ ɪn mæθs bət rɪˈlʌktənt tə rid əˈlaʊd ɪn klæs/", "actor": "cô giáo"},
+{"vi":"Con có hòa nhập và kết bạn tốt không cô?","en":"Has she settled in well and made friends?","ipa":"/hæz ʃi ˈsɛtəld ɪn wɛl ænd meɪd frɛndz/"},
+{"vi":"Con nhút nhát lắm, vậy có cải thiện không?","en":"She's quite shy — has she been coming out of her shell?","ipa":"/ʃiz kwaɪt ʃaɪ, hæz ʃi bɪn ˈkʌmɪŋ aʊt əv hɜr ʃɛl/", "note":"come out of her shell = bớt nhút nhát"},
+{"vi":"Kỹ năng nào con cần cải thiện nhất?","en":"What's the main thing she needs to work on?","ipa":"/wʌts ðə meɪn θɪŋ ʃi nidz tə wɜrk ɑn/"}]},
+{"vi":"Hỏi cách hỗ trợ ở nhà","en":"How to help at home","sentences":[
+{"vi":"Ở nhà tụi tôi nên giúp con thế nào?","en":"What can we do at home to support her?","ipa":"/wʌt kæn wi du æt hoʊm tə səˈpɔrt hɜr/"},
+{"vi":"Nên cho con đọc bao lâu mỗi tối?","en":"How long should she be reading each night?","ipa":"/haʊ lɔŋ ʃʊd ʃi bi ˈridɪŋ itʃ naɪt/"},
+{"vi":"Có app hay sách nào cô khuyên dùng không?","en":"Are there any apps or books you'd recommend?","ipa":"/ɑr ðɛr ˈɛni æps ɔr bʊks jud ˌrɛkəˈmɛnd/"},
+{"vi":"Bài tập về nhà quá khó thì bọn tôi làm sao?","en":"If the homework's too hard, what should we do?","ipa":"/ɪf ðə ˈhoʊmwɜrkz tu hɑrd, wʌt ʃʊd wi du/"}]},
+{"vi":"Kết thúc buổi họp","en":"Wrapping up","sentences":[
+{"vi":"Cảm ơn cô, tụi tôi rõ hơn tình hình con rồi.","en":"Thank you — that gives us a much clearer picture.","ipa":"/θæŋk ju, ðæt ɡɪvz ʌs ə mʌtʃ ˈklɪrər ˈpɪktʃər/"},
+{"vi":"Cô có vấn đề gì cứ liên lạc với tụi tôi nhé.","en":"If anything comes up, please get in touch anytime.","ipa":"/ɪf ˈɛniθɪŋ kʌmz ʌp, pliz ɡɛt ɪn tʌtʃ ˈɛniˌtaɪm/"},
+{"vi":"Tụi tôi sẽ làm theo gợi ý của cô.","en":"We'll definitely follow your suggestions.","ipa":"/wil ˈdɛfɪnətli ˈfɑloʊ jʊr səˈɡʤɛstʃənz/"},
+{"vi":"Hẹn gặp cô kỳ họp sau nhé.","en":"Looking forward to the next meeting already.","ipa":"/ˈlʊkɪŋ ˈfɔrwərd tə ðə nɛkst ˈmitɪŋ ɔlˈrɛdi/"}]}],
+"practice":["Tự hỏi 3 câu về tình hình con ở trường bằng tiếng Anh.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: phụ huynh hỏi — cô giáo nhận xét.","Ôn lại 5 câu khó nhất của Ngày 44 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Hỏi về con ở trường","Ôn lại Ngày 44"]},
+
+{"day":46,"slug":"noi-chuyen-giao-vien","emoji":"🗣️","scenes":[
+{"vi":"Gặp cô ngoài giờ","en":"Catching the teacher after school","sentences":[
+{"vi":"Cô ơi, cô có rảnh vài phút không ạ?","en":"Excuse me — have you got a minute?","ipa":"/ɪkˈskjuz mi, hæv ju ɡɑt ə ˈmɪnɪt/"},
+{"vi":"Con muốn hỏi cô về một chuyện nhỏ của con.","en":"I just wanted to quickly ask about something.","ipa":"/aɪ ʤʌst ˈwɑntɪd tə ˈkwɪkli æsk əˈbaʊt ˈsʌmθɪŋ/"},
+{"vi":"Con tôi kể là bị bạn trêu trong lớp.","en":"She mentioned she's been teased by a classmate.","ipa":"/ʃi ˈmɛnʃənd ʃiz bɪn tizd baɪ ə ˈklæsmeɪt/"}]},
+{"vi":"Kể chuyện & lo lắng","en":"Explaining the concern","sentences":[
+{"vi":"Con về nhà buồn, không muốn đi học nữa.","en":"She comes home upset and doesn't want to go to school.","ipa":"/ʃi kʌmz hoʊm ʌpˈsɛt ænd ˈdʌzənt wɑnt tə ɡoʊ tə skul/"},
+{"vi":"Cô có để ý chuyện gì xảy ra trong lớp không?","en":"Have you noticed anything going on in class?","ipa":"/hæv ju ˈnoʊtɪst ˈɛniθɪŋ ˈɡoʊɪŋ ɑn ɪn klæs/"},
+{"vi":"Con cũng nhút nhát nên không dám nói.","en":"She's shy, so she probably wouldn't speak up herself.","ipa":"/ʃiz ʃaɪ, soʊ ʃi ˈprɑbəbli ˈwʊdənt spik ʌp hɜrˈsɛlf/"},
+{"vi":"Tôi không muốn làm lớn chuyện nhưng lo cho con.","en":"I don't want to make a big deal of it, but I am worried.","ipa":"/aɪ doʊnt wɑnt tə meɪk ə bɪɡ dil əv ɪt, bət aɪ æm ˈwɜrid/"}]},
+{"vi":"Nghe cô phản hồi","en":"Hearing the teacher's side","sentences":[
+{"vi":"Cô sẽ để mắt tới chuyện này từ mai.","en":"I'll keep an eye on it from tomorrow.","ipa":"/aɪl kip ən aɪ ɑn ɪt frʌm təˈmɔroʊ/", "actor": "cô giáo"},
+{"vi":"Trường có quy trình xử lý chuyện bắt nạt.","en":"The school has a process for dealing with bullying.","ipa":"/ðə skul hæz ə ˈprɑsɛs fər ˈdilɪŋ wɪð ˈbʊliɪŋ/", "actor": "cô giáo"},
+{"vi":"Nếu tái diễn tôi nên báo ai trước?","en":"If it keeps happening, who should I contact first?","ipa":"/ɪf ɪt kips ˈhæpənɪŋ, hu ʃʊd aɪ ˈkɑntækt fɜrst/"},
+{"vi":"Con cần được nói là được yên tâm.","en":"She needs to feel safe and reassured.","ipa":"/ʃi nidz tə fil seɪf ænd ˌriəˈʃʊrd/"}]},
+{"vi":"Đồng ý cách xử lý","en":"Agreeing on a plan","sentences":[
+{"vi":"Tôi rất biết ơn cô quan tâm tới con.","en":"I really appreciate you taking it seriously.","ipa":"/aɪ ˈrili əˈpriʃieɪt ju ˈteɪkɪŋ ɪt ˈsɪriəsli/"},
+{"vi":"Tôi cũng nói chuyện với con ở nhà tối nay.","en":"I'll have a chat with her at home tonight too.","ipa":"/aɪl hæv ə tʃæt wɪð hɜr æt hoʊm təˈnaɪt tu/"},
+{"vi":"Cô cho tôi biết cập nhật cuối tuần nhé.","en":"Could you update me by the end of the week?","ipa":"/kʊd ju ʌpˈdeɪt mi baɪ ði ɛnd əv ðə wik/"},
+{"vi":"Cảm ơn cô nhiều, nhẹ lòng hơn rồi.","en":"Thank you so much — that's a weight off my mind.","ipa":"/θæŋk ju soʊ mʌtʃ, ðæts ə weɪt ɔf maɪ maɪnd/", "note":"a weight off my mind = nhẹ lòng"}]}],
+"practice":["Tự kể cách trình bày một mối lo với giáo viên bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: phụ huynh lo lắng — giáo viên trấn an.","Ôn lại 5 câu khó nhất của Ngày 45 trước khi bắt đầu."],
+"checks":["Đọc to 20 câu","Nói mối lo với cô","Ôn lại Ngày 45"]},
+
+{"day":47,"slug":"con-om-xin-nghi","emoji":"🤒","scenes":[
+{"vi":"Gọi điện báo trường","en":"Calling the school","sentences":[
+{"vi":"Con tôi hôm nay ốm không đi học được.","en":"My daughter's unwell and won't be at school today.","ipa":"/maɪ ˈdɔtərz ʌnˈwɛl ænd woʊnt bi æt skul təˈdeɪ/"},
+{"vi":"Con sốt từ đêm qua, sáng nay vẫn chưa hạ.","en":"She's had a fever since last night and it hasn't come down.","ipa":"/ʃiz hæd ə ˈfivər sɪns læst naɪt ænd ɪt ˈhæzənt kʌm daʊn/"},
+{"vi":"Có cần gửi giấy bác sĩ không cô?","en":"Do you need a medical certificate?","ipa":"/du ju nid ə ˈmɛdɪkəl sərˈtɪfɪkət/"}]},
+{"vi":"Xin bài tập bù","en":"Asking for missed work","sentences":[
+{"vi":"Con nghỉ mấy ngày, cô gửi bài cho con làm bù được không?","en":"She'll be away a few days — could you send through any work she'll miss?","ipa":"/ʃil bi əˈweɪ ə fju deɪz, kʊd ju sɛnd θru ˈɛni wɜrk ʃil mɪs/"},
+{"vi":"Bài tập nhóm con có phải làm riêng không?","en":"Does she need to do the group project separately?","ipa":"/dʌz ʃi nid tə du ðə ɡrup ˈprɑʤɛkt ˈsɛprətli/"},
+{"vi":"Khi nào con đi học lại được sau sốt?","en":"When can she come back — after the fever's gone?","ipa":"/wɛn kæn ʃi kʌm bæk, ˈæftər ðə ˈfivərz ɡɔn/"},
+{"vi":"Trường quy định nghỉ sốt phải cách bao lâu?","en":"What's the policy on returning after a fever?","ipa":"/wʌts ðə ˈpɑləsi ɑn rɪˈtɜrnɪŋ ˈæftər ə ˈfivər/"}]},
+{"vi":"Ở nhà chăm con","en":"Caring for her at home","sentences":[
+{"vi":"Con uống nhiều nước và nghỉ ngơi nhiều.","en":"She's drinking plenty of fluids and resting up.","ipa":"/ʃiz ˈdrɪŋkɪŋ ˈplɛnti əv ˈfluɪdz ænd ˈrɛstɪŋ ʌp/"},
+{"vi":"Mình cho con uống Panadol hạ sốt.","en":"I've given her Panadol to bring the fever down.","ipa":"/aɪv ɡɪvən hɜr ˌpænəˈdɔl tə brɪŋ ðə ˈfivər daʊn/", "note":"Panadol = thuốc hạ sốt phổ biến ở Úc"},
+{"vi":"Con đói nhưng chỉ chịu ăn cháo loãng.","en":"She's hungry but only wants plain rice porridge.","ipa":"/ʃiz ˈhʌŋɡri bət ˈoʊnli wɑnts pleɪn raɪs ˈpɔrɪʤ/"},
+{"vi":"Nếu sốt cao thêm mình sẽ đưa con đi bác sĩ.","en":"If the fever goes any higher, I'll take her to the GP.","ipa":"/ɪf ðə ˈfivər ɡoʊz ˈɛni ˈhaɪər, aɪl teɪk hɜr tə ðə ʤi pi/"}]},
+{"vi":"Con đi học lại","en":"Back to school","sentences":[
+{"vi":"Con khỏe lại rồi, mai đi học bình thường.","en":"She's all better — she'll be back tomorrow as usual.","ipa":"/ʃiz ɔl ˈbɛtər, ʃil bi bæk təˈmɔroʊ æz ˈjuʒəl/"},
+{"vi":"Cảm ơn cô gửi bài, con làm xong hết rồi.","en":"Thanks for sending the work — she's finished all of it.","ipa":"/θæŋks fər ˈsɛndɪŋ ðə wɜrk, ʃiz ˈfɪnɪʃt ɔl əv ɪt/"},
+{"vi":"Con háo hức gặp lại các bạn lắm.","en":"She's really looking forward to seeing her friends again.","ipa":"/ʃiz ˈrili ˈlʊkɪŋ ˈfɔrwərd tə ˈsiɪŋ hɜr frɛndz əˈɡɛn/"},
+{"vi":"Cảm ơn trường đã thông cảm cho gia đình.","en":"Thanks for being so understanding about it.","ipa":"/θæŋks fər ˈbiɪŋ soʊ ˌʌndərˈstændɪŋ əˈbaʊt ɪt/"}]}],
+"practice":["Tự gọi điện báo con nghỉ học bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: phụ huynh báo nghỉ — nhân viên trường.","Ôn lại 5 câu khó nhất của Ngày 46 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Báo con nghỉ học","Ôn lại Ngày 46"]},
+
+{"day":48,"slug":"cong-vien-voi-con","emoji":"🛝","scenes":[
+{"vi":"Chơi ở công viên","en":"At the playground","sentences":[
+{"vi":"Con chạy lên cầu trượt cẩn thận nhé.","en":"Careful climbing up to the slide, love.","ipa":"/ˈkɛrfəl ˈklaɪmɪŋ ʌp tə ðə slaɪd lʌv/", "note":"love = cách gọi thân mật"},
+{"vi":"Đợi bạn xuống hết rồi con mới trượt.","en":"Wait till the other kid's off before you go down.","ipa":"/weɪt tɪl ði ˈʌðər kɪdz ɔf bɪˈfɔr ju ɡoʊ daʊn/"},
+{"vi":"Con đu cao quá, đu thấp lại một chút.","en":"Not so high on the swing — ease off a bit.","ipa":"/nɑt soʊ haɪ ɑn ðə swɪŋ, iz ɔf ə bɪt/"},
+{"vi":"Chơi thêm mười phút nữa rồi mình về nhé.","en":"Ten more minutes, then we're heading home.","ipa":"/tɛn mɔr ˈmɪnɪts, ðɛn wir ˈhɛdɪŋ hoʊm/"}]},
+{"vi":"Nói chuyện với phụ huynh khác","en":"Chatting with another parent","sentences":[
+{"vi":"Con chị mấy tuổi rồi? Trông khỏe ghê.","en":"How old is your little one? She's got so much energy.","ipa":"/haʊ oʊld ɪz jʊr ˈlɪtəl wʌn, ʃiz ɡɑt soʊ mʌtʃ ˈɛnərʤi/"},
+{"vi":"Gia đình mình hay qua công viên này cuối tuần.","en":"We come to this park most weekends.","ipa":"/wi kʌm tə ðɪs pɑrk moʊst ˈwikɛndz/"},
+{"vi":"Chị biết chỗ nào cho trẻ chơi gần đây không?","en":"Do you know any other good playgrounds nearby?","ipa":"/du ju noʊ ˈɛni ˈʌðər ɡʊd ˈpleɪˌɡraʊndz ˈnɪrbaɪ/"},
+{"vi":"Con mình thích trèo hơn chơi xích đu.","en":"Mine's more into climbing than the swings.","ipa":"/maɪnz mɔr ˈɪntu ˈklaɪmɪŋ ðæn ðə swɪŋz/"}]},
+{"vi":"Đồ ăn nhẹ & nghỉ chân","en":"Snack time","sentences":[
+{"vi":"Con ngồi xuống ăn táo một chút đi.","en":"Come sit down for a minute and have some apple.","ipa":"/kʌm sɪt daʊn fər ə ˈmɪnɪt ænd hæv sʌm ˈæpəl/"},
+{"vi":"Uống nước trước đã, trời nóng lắm.","en":"Have a drink first — it's hot out here.","ipa":"/hæv ə drɪŋk fɜrst, ɪts hɑt aʊt hɪr/"},
+{"vi":"Con bôi kem chống nắng chưa, để mẹ bôi.","en":"Have you got sunscreen on? Let me put more on you.","ipa":"/hæv ju ɡɑt ˈsʌnskrin ɑn, lɛt mi pʊt mɔr ɑn ju/"},
+{"vi":"Con cầm mũ lên đầu nào, nắng lắm.","en":"Put your hat back on — the sun's really strong.","ipa":"/pʊt jʊr hæt bæk ɑn, ðə sʌnz ˈrili strɔŋ/"}]},
+{"vi":"Ra về","en":"Heading home","sentences":[
+{"vi":"Con chào bạn rồi mình về ăn trưa.","en":"Say goodbye to your friend — lunch time.","ipa":"/seɪ ˌɡʊdˈbaɪ tə jʊr frɛnd, lʌntʃ taɪm/"},
+{"vi":"Lần sau mình dẫn bạn nhỏ qua chơi chung nhé.","en":"Next time let's get the kids together for a playdate.","ipa":"/nɛkst taɪm lɛts ɡɛt ðə kɪdz təˈɡɛðər fər ə ˈpleɪdeɪt/"},
+{"vi":"Con vui không? Mai mình qua lại nhé.","en":"Did you have fun? We can come back tomorrow.","ipa":"/dɪd ju hæv fʌn, wi kæn kʌm bæk təˈmɔroʊ/"},
+{"vi":"Con chạy vào xe cẩn thận, đừng vượt đường.","en":"Careful running to the car — watch the road.","ipa":"/ˈkɛrfəl ˈrʌnɪŋ tə ðə kɑr, wɑtʃ ðə roʊd/"}]}],
+"practice":["Tự nói 3 câu nhắc nhở con khi chơi bằng tiếng Anh.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: hai phụ huynh gặp nhau ở công viên.","Ôn lại 5 câu khó nhất của Ngày 47 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Nói với con ở công viên","Ôn lại Ngày 47"]},
+
+{"day":49,"slug":"ke-chuyen-gia-dinh","emoji":"👨‍👩‍👧‍👦","scenes":[
+{"vi":"Nói về gia đình","en":"Talking about family","sentences":[
+{"vi":"Gia đình tôi có bốn người: vợ chồng tôi và hai con.","en":"There are four of us — me, my wife and our two kids.","ipa":"/ðɛr ɑr fɔr əv ʌs, mi, maɪ waɪf ænd ˈaʊər tu kɪdz/"},
+{"vi":"Con trai lớn tám tuổi, con gái năm tuổi.","en":"Our boy's eight and our girl's five.","ipa":"/ˈaʊər bɔɪz eɪt ænd ˈaʊər ɡɜrlz faɪv/"},
+{"vi":"Bố mẹ tôi vẫn ở Việt Nam, lâu lắm rồi chưa về thăm.","en":"My parents are still in Vietnam — it's been ages since we've been back.","ipa":"/maɪ ˈpɛrənts ɑr stɪl ɪn vjɛtˈnɑm, ɪts bɪn ˈeɪʤɪz sɪns wiv bɪn bæk/"}]},
+{"vi":"Kể về vợ/chồng","en":"Talking about your partner","sentences":[
+{"vi":"Vợ tôi là y tá, làm theo ca nên bận lắm.","en":"My wife's a nurse — she does shift work, so she's pretty busy.","ipa":"/maɪ waɪfs ə nɜrs, ʃi dʌz ʃɪft wɜrk, soʊ ʃiz ˈprɪti ˈbɪzi/"},
+{"vi":"Chúng tôi quen nhau ở đại học.","en":"We met back at uni.","ipa":"/wi mɛt bæk æt ˈjuːni/", "note":"uni = đại học (kiểu Úc)"},
+{"vi":"Cưới nhau được mười năm rồi.","en":"We've been married for ten years now.","ipa":"/wiv bɪn ˈmærid fər tɛn jɪrz naʊ/"},
+{"vi":"Vợ chồng tôi chia việc nhà khá đều.","en":"We split the housework pretty evenly between us.","ipa":"/wi splɪt ðə ˈhaʊsˌwɜrk ˈprɪti ˈivənli bɪˈtwin ʌs/"}]},
+{"vi":"Kể về các con","en":"Talking about the kids","sentences":[
+{"vi":"Thằng lớn mê bóng đá, đá cho đội trường.","en":"The older one's mad about footy — plays for the school team.","ipa":"/ði ˈoʊldər wʌnz mæd əˈbaʊt ˈfʊti, pleɪz fər ðə skul tim/"},
+{"vi":"Con gái học bơi, tuần sau thi lên cấp.","en":"Our daughter's doing swimming lessons — she's testing for the next level.","ipa":"/ˈaʊər ˈdɔtərz ˈduɪŋ ˈswɪmɪŋ ˈlɛsənz, ʃiz ˈtɛstɪŋ fər ðə nɛkst ˈlɛvəl/"},
+{"vi":"Hai đứa cãi nhau suốt nhưng thương nhau lắm.","en":"They fight constantly but they adore each other really.","ipa":"/ðeɪ faɪt ˈkɑnstəntli bət ðeɪ əˈdɔr itʃ ˈʌðər ˈrili/"},
+{"vi":"Tụi nhỏ nói tiếng Anh giỏi hơn tiếng Việt luôn.","en":"Their English is better than their Vietnamese now.","ipa":"/ðɛr ˈɪŋɡlɪʃ ɪz ˈbɛtər ðæn ðɛr ˌvjɛtnəˈmiz naʊ/"}]},
+{"vi":"Về quê & lễ lạc","en":"Back home & traditions","sentences":[
+{"vi":"Tết gia đình tôi hay làm bánh chưng và ăn tối cùng nhau.","en":"For Tet we usually make bánh chưng and have a big family dinner.","ipa":"/fər tɛt wi ˈjuʒuəli meɪk bæŋ tʃʌŋ ænd hæv ə bɪɡ ˈfæmɪli ˈdɪnər/"},
+{"vi":"Mình ráng giữ tiếng Việt cho con không quên gốc.","en":"We try hard to keep the kids' Vietnamese going.","ipa":"/wi traɪ hɑrd tə kip ðə kɪdz ˌvjɛtnəˈmiz ˈɡoʊɪŋ/"},
+{"vi":"Mỗi năm gia đình gọi video cho ông bà mấy lần.","en":"We video call the grandparents every couple of weeks.","ipa":"/wi ˈvɪdioʊ kɔl ðə ˈɡrænpɛrənts ˈɛvri ˈkʌpəl əv wiks/"},
+{"vi":"Mong đưa con về thăm quê một lần cho biết gốc gác.","en":"I want to take the kids back to see where their family comes from.","ipa":"/aɪ wɑnt tə teɪk ðə kɪdz bæk tə si wɛr ðɛr ˈfæmɪli kʌmz frʌm/"}]}],
+"practice":["Tự giới thiệu gia đình mình bằng 4 câu tự nhiên.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: hai người kể cho nhau về gia đình.","Ôn lại 5 câu khó nhất của Ngày 48 trước khi bắt đầu."],
+"checks":["Đọc to 18 câu","Giới thiệu gia đình","Ôn lại Ngày 48"]},
+
+{"day":50,"slug":"small-talk-dong-nghiep","emoji":"☕","scenes":[
+{"vi":"Gặp nhau đầu ngày","en":"Morning at work","sentences":[
+{"vi":"Chào buổi sáng, cuối tuần làm gì vui không?","en":"Morning! How was your weekend — do anything fun?","ipa":"/ˈmɔrnɪŋ, haʊ wʌz jʊr ˈwikɛnd, du ˈɛniθɪŋ fʌn/"},
+{"vi":"Cuối tuần mình ở nhà dọn dẹp với nấu ăn thôi.","en":"Just a quiet one — did some cleaning and cooking.","ipa":"/ʤʌst ə ˈkwaɪət wʌn, dɪd sʌm ˈklinɪŋ ænd ˈkʊkɪŋ/"},
+{"vi":"Hôm nay mình hơi mệt, tối qua thức khuya.","en":"I'm a bit wrecked today — stayed up too late.","ipa":"/aɪm ə bɪt rɛkt təˈdeɪ, steɪd ʌp tu leɪt/", "note":"wrecked = mệt rã rời (đời thường)"}]},
+{"vi":"Nói về công việc","en":"Work chat","sentences":[
+{"vi":"Dự án của bạn chạy tới đâu rồi?","en":"How's that project of yours coming along?","ipa":"/haʊz ðæt ˈprɑʤɛkt əv jʊrz ˈkʌmɪŋ əˈlɔŋ/"},
+{"vi":"Mình đang chạy deadline nên hơi căng.","en":"I'm flat out with a deadline this week.","ipa":"/aɪm flæt aʊt wɪð ə ˈdɛdlaɪn ðɪs wik/", "note":"flat out = bận tối đa"},
+{"vi":"Sếp vừa giao thêm việc mới cho mình.","en":"The boss just dumped another task on me.","ipa":"/ðə bɔs ʤʌst dʌmpt əˈnʌðər tæsk ɑn mi/"},
+{"vi":"May mà team mình hỗ trợ nhau tốt.","en":"Lucky my team's pretty good at helping each other out.","ipa":"/ˈlʌki maɪ timz ˈprɪti ɡʊd æt ˈhɛlpɪŋ itʃ ˈʌðər aʊt/"}]},
+{"vi":"Chuyện linh tinh","en":"Random topics","sentences":[
+{"vi":"Bạn xem trận đấu tối qua chưa? Hay lắm đó.","en":"Did you catch the game last night? It was a cracker.","ipa":"/dɪd ju kætʃ ðə ɡeɪm læst naɪt, ɪt wʌz ə ˈkrækər/", "note":"a cracker = một trận/sự vật rất hay"},
+{"vi":"Mình đang mê series mới trên Netflix.","en":"I'm hooked on a new series on Netflix.","ipa":"/aɪm hʊkt ɑn ə nu ˈsɪriz ɑn ˈnɛtflɪks/"},
+{"vi":"Nghe nói cuối tuần này thời tiết đẹp, đi đâu chơi không?","en":"Apparently it's going to be nice this weekend — got any plans?","ipa":"/əˈpærəntli ɪts ˈɡoʊɪŋ tə bi naɪs ðɪs ˈwikɛnd, ɡɑt ˈɛni plænz/"},
+{"vi":"Quán cà phê mới góc đường ngon lắm, thử chưa?","en":"Have you tried the new café on the corner? The coffee's great.","ipa":"/hæv ju traɪd ðə nu ˈkæfeɪ ɑn ðə ˈkɔrnər, ðə ˈkɔfiz ɡreɪt/"}]},
+{"vi":"Kết thúc & quay lại làm việc","en":"Back to it","sentences":[
+{"vi":"Thôi vô làm việc không sếp la.","en":"Better get back to it before the boss notices.","ipa":"/ˈbɛtər ɡɛt bæk tə ɪt bɪˈfɔr ðə bɔs ˈnoʊtɪsɪz/"},
+{"vi":"Trưa nay ăn chung không? Mình đối diện kia.","en":"Want to grab lunch together? I'm near the café across the road.","ipa":"/wɑnt tə ɡræb lʌntʃ təˈɡɛðər, aɪm nɪr ðə ˈkæfeɪ əˈkrɔs ðə roʊd/"},
+{"vi":"Nói chuyện với bạn vui ghê, đỡ stress.","en":"Always good chatting with you — helps with the stress.","ipa":"/ˈɔlweɪz ɡʊd ˈtʃætɪŋ wɪð ju, hɛlps wɪð ðə strɛs/"},
+{"vi":"Chốt nhé, trưa mai gặp nhau ở căng tin.","en":"Deal — see you at the canteen tomorrow then.","ipa":"/dil, si ju æt ðə kænˈtin təˈmɔroʊ ðɛn/"}]}],
+"practice":["Tự small talk với đồng nghiệp bằng 3 câu mở đầu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: hai đồng nghiệp tán gẫu giờ nghỉ.","Ôn lại 5 câu khó nhất của Ngày 49 trước khi bắt đầu."],
+"checks":["Đọc to 18 câu","Small talk đồng nghiệp","Ôn lại Ngày 49"]},
+
+{"day":51,"slug":"cuoc-hop","emoji":"💼","scenes":[
+{"vi":"Vào cuộc họp","en":"Joining the meeting","sentences":[
+{"vi":"Chào mọi người, xin lỗi vào trễ vài phút.","en":"Hi everyone — sorry I'm a couple of minutes late.","ipa":"/haɪ ˈɛvriˌwʌn, ˈsɑri aɪm ə ˈkʌpəl əv ˈmɪnɪts leɪt/"},
+{"vi":"Mình share màn hình được chưa, mọi người thấy không?","en":"Can everyone see my screen okay?","ipa":"/kæn ˈɛvriˌwʌn si maɪ skrin ˈoʊkeɪ/"},
+{"vi":"Âm thanh mình có rõ không mọi người?","en":"Is my audio coming through clearly?","ipa":"/ɪz maɪ ˈɔdioʊ ˈkʌmɪŋ θru ˈklɪrli/"}]},
+{"vi":"Phát biểu ý kiến","en":"Sharing your views","sentences":[
+{"vi":"Theo ý mình thì nên ưu tiên deadline trước.","en":"In my view, we should prioritise the deadline first.","ipa":"/ɪn maɪ vju, wi ʃʊd praɪˈɔrəˌtaɪz ðə ˈdɛdlaɪn fɜrst/"},
+{"vi":"Mình hiểu ý bạn, nhưng mình nghĩ khác một chút.","en":"I see where you're coming from, but I see it a bit differently.","ipa":"/aɪ si wɛr jʊr ˈkʌmɪŋ frʌm, bət aɪ si ɪt ə bɪt ˈdɪfrəntli/", "note":"see where you're coming from = hiểu lập luận của bạn"},
+{"vi":"Mình đồng ý với ý kiến của Linh.","en":"I agree with what Linh said earlier.","ipa":"/aɪ əˈɡri wɪð wʌt lɪŋ sɛd ˈɜrliər/"},
+{"vi":"Để mình bổ sung một điểm nữa.","en":"Can I just add one more point?","ipa":"/kæn aɪ ʤʌst æd wʌn mɔr pɔɪnt/"}]},
+{"vi":"Hỏi & xin lời giải thích","en":"Asking for clarification","sentences":[
+{"vi":"Bạn có thể giải thích ý đó rõ hơn được không?","en":"Could you expand on that a bit?","ipa":"/kʊd ju ɪkˈspænd ɑn ðæt ə bɪt/"},
+{"vi":"Ý bạn là deadline dời hay giữ nguyên?","en":"Are you saying the deadline moves or stays?","ipa":"/ɑr ju ˈseɪɪŋ ðə ˈdɛdlaɪn muvz ɔr steɪz/"},
+{"vi":"Ai sẽ phụ trách phần này vậy?","en":"Who's going to own this piece?","ipa":"/huz ˈɡoʊɪŋ tə oʊn ðɪs pis/"},
+{"vi":"Bạn lặp lại được không, mình không nghe rõ.","en":"Sorry, could you say that again? I didn't quite catch it.","ipa":"/ˈsɑri, kʊd ju seɪ ðæt əˈɡɛn, aɪ ˈdɪdənt kwaɪt kætʃ ɪt/"}]},
+{"vi":"Chốt việc & chia việc","en":"Action items","sentences":[
+{"vi":"Vậy chốt: mình làm báo cáo, bạn lo phần test.","en":"So to sum up — I'll write the report, you'll handle testing.","ipa":"/soʊ tə sʌm ʌp, aɪl raɪt ðə rɪˈpɔrt, jul ˈhændəl ˈtɛstɪŋ/"},
+{"vi":"Deadline phần mình là thứ sáu tuần này đúng không?","en":"So my part's due this Friday, right?","ipa":"/soʊ maɪ pɑrts du ðɪs ˈfraɪdeɪ raɪt/"},
+{"vi":"Họp lại thứ hai tuần sau cập nhật nhé.","en":"Let's regroup next Monday for an update.","ipa":"/lɛts riˈɡrup nɛkst ˈmʌndeɪ fər ən ˈʌpdeɪt/"},
+{"vi":"Cảm ơn mọi người, cuộc họp hiệu quả.","en":"Thanks everyone — that was really productive.","ipa":"/θæŋks ˈɛvriˌwʌn, ðæt wʌz ˈrili prəˈdʌktɪv/"}]}],
+"practice":["Tự phát biểu ý kiến về một vấn đề công việc bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: đồng nghiệp tranh luận ý kiến trong họp.","Ôn lại 5 câu khó nhất của Ngày 50 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Phát biểu trong họp","Ôn lại Ngày 50"]},
+
+{"day":52,"slug":"xin-nghi-phep","emoji":"🏖️","scenes":[
+{"vi":"Nói chuyện với sếp","en":"Talking to the boss","sentences":[
+{"vi":"Em muốn xin nghỉ phép hai tuần cuối tháng sau.","en":"I'd like to request two weeks of leave at the end of next month.","ipa":"/aɪd laɪk tə rɪˈkwɛst tu wiks əv liv æt ði ɛnd əv nɛkst mʌnθ/"},
+{"vi":"Em dự định về Việt Nam thăm gia đình.","en":"I'm planning to visit family back in Vietnam.","ipa":"/aɪm ˈplænɪŋ tə ˈvɪzɪt ˈfæmɪli bæk ɪn vjɛtˈnɑm/"},
+{"vi":"Em đã check lịch team, không trùng deadline nào.","en":"I've checked the team calendar — no deadlines clash.","ipa":"/aɪv tʃɛkt ðə tim ˈkæləndər, noʊ ˈdɛdlaɪnz klæʃ/"}]},
+{"vi":"Bàn giao công việc","en":"Handover plan","sentences":[
+{"vi":"Em sẽ làm xong hết việc trước khi nghỉ.","en":"I'll get everything done before I go.","ipa":"/aɪl ɡɛt ˈɛvriθɪŋ dʌn bɪˈfɔr aɪ ɡoʊ/"},
+{"vi":"Em bàn giao phần đang dở cho Minh được chứ?","en":"Can I hand my in-progress stuff over to Minh?","ipa":"/kæn aɪ hænd maɪ ɪn ˈprɑɡrɛs stʌf ˈoʊvər tə mɪn/"},
+{"vi":"Em sẽ viết tài liệu hướng dẫn cho người thay.","en":"I'll write up some handover notes for whoever covers me.","ipa":"/aɪl raɪt ʌp sʌm ˈhændˌoʊvər noʊts fər huˈɛvər ˈkʌvərz mi/"},
+{"vi":"Trong thời gian em nghỉ, email em sẽ để auto-reply.","en":"While I'm away I'll have an out-of-office reply set up.","ipa":"/waɪl aɪm əˈweɪ aɪl hæv ən aʊt əv ˈɔfɪs rɪˈplaɪ sɛt ʌp/"}]},
+{"vi":"Nghe sếp trả lời","en":"The boss's response","sentences":[
+{"vi":"Du được, nhớ submit form xin phép trên hệ thống.","en":"That's fine — just submit the leave request in the system.","ipa":"/ðæts faɪn, ʤʌst səbˈmɪt ðə liv rɪˈkwɛst ɪn ðə ˈsɪstəm/", "actor": "sếp"},
+{"vi":"Em còn bao nhiêu ngày phép năm chưa dùng?","en":"How much annual leave do I have left?","ipa":"/haʊ mʌtʃ ˈænjuəl liv du aɪ hæv lɛft/"},
+{"vi":"Nếu cần gấp, em vẫn check email buổi tối được.","en":"If something urgent comes up, I can check emails in the evening.","ipa":"/ɪf ˈsʌmθɪŋ ˈɜrʤənt kʌmz ʌp, aɪ kæn tʃɛk ˈimeɪlz ɪn ði ˈivnɪŋ/"},
+{"vi":"Cảm ơn sếp, em sẽ nộp form hôm nay.","en":"Thanks — I'll put the form in today.","ipa":"/θæŋks, aɪl pʊt ðə fɔrm ɪn təˈdeɪ/"}]},
+{"vi":"Trước khi nghỉ","en":"Last day before leave","sentences":[
+{"vi":"Em đã bàn giao xong hết cho team rồi.","en":"Everything's been handed over to the team.","ipa":"/ˈɛvriθɪŋz bɪn ˈhændɪd ˈoʊvər tə ðə tim/"},
+{"vi":"Số điện thoại em có ghi trong note, gấp thì gọi.","en":"My number's in the handover notes — call me if it's urgent.","ipa":"/maɪ ˈnʌmbərz ɪn ðə ˈhændˌoʊvər noʊts, kɔl mi ɪf ɪts ˈɜrʤənt/"},
+{"vi":"Hẹn mọi người hai tuần nữa, nhớ đừng làm em nhớ việc nhé.","en":"See you all in two weeks — don't have too much fun without me.","ipa":"/si ju ɔl ɪn tu wiks, doʊnt hæv tu mʌtʃ fʌn wɪˈðaʊt mi/"},
+{"vi":"Đi nghỉ mát thôi, quên công việc luôn.","en":"Time to switch off completely for a bit.","ipa":"/taɪm tə swɪtʃ ɔf kəmˈplitli fər ə bɪt/"}]}],
+"practice":["Tự xin phép nghỉ với sếp bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: nhân viên xin nghỉ — sếp duyệt.","Ôn lại 5 câu khó nhất của Ngày 51 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Xin nghỉ phép","Ôn lại Ngày 51"]}
+]}

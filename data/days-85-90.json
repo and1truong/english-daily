@@ -1,0 +1,139 @@
+{"days":[
+{"day":85,"slug":"doi-bang-lai","emoji":"🪪","scenes":[
+{"vi":"Đổi bằng lái","en":"Converting your licence","sentences":[
+{"vi":"Em muốn đổi bằng lái Việt Nam sang bằng Úc.","en":"I want to convert my Vietnamese licence to an Australian one.","ipa":"/aɪ wɑnt tə kənˈvɜrt maɪ ˌvjɛtnəˈmiz ˈlaɪsəns tə ən ɔˈstreɪljən wʌn/"},
+{"vi":"Em đến Service NSW để làm thủ tục.","en":"I've come into Service NSW to sort it out.","ipa":"/aɪv kʌm ˈɪntu ˈsɜrvɪs ɛn ɛs ˈdʌbəlju tə sɔrt ɪt aʊt/", "note":"Service NSW = trung tâm hành chính bang NSW"},
+{"vi":"Em đã có bằng được năm năm ở Việt Nam.","en":"I've held my overseas licence for five years.","ipa":"/aɪv hɛld maɪ ˌoʊvərˈsiz ˈlaɪsəns fər faɪv jɪrz/"}]},
+{"vi":"Giấy tờ cần mang","en":"What you need","sentences":[
+{"vi":"Cần bản dịch công chứng bằng lái đúng không?","en":"Do I need a certified translation of my licence?","ipa":"/du aɪ nid ə ˈsɜrtəˌfaɪd trænsˈleɪʃən əv maɪ ˈlaɪsəns/"},
+{"vi":"Còn cần giấy chứng minh địa chỉ nữa đúng không?","en":"I also need proof of my current address, right?","ipa":"/aɪ ˈɔlsoʊ nid pruf əv maɪ ˈkɜrənt əˈdrɛs raɪt/"},
+{"vi":"Em phải thi lý thuyết và thực hành lại không?","en":"Do I have to sit the knowledge test and a driving test?","ipa":"/du aɪ hæv tə sɪt ðə ˈnɑlɪʤ tɛst ænd ə ˈdraɪvɪŋ tɛst/"},
+{"vi":"Nếu qua bài thi, được cấp bằng luôn không?","en":"If I pass, will I get a full licence straight away?","ipa":"/ɪf aɪ pæs, wɪl aɪ ɡɛt ə fʊl ˈlaɪsəns streɪt əˈweɪ/"}]},
+{"vi":"Thi & quy trình","en":"Testing & process","sentences":[
+{"vi":"Phần thi lý thuyết có online làm được không?","en":"Can the knowledge test be done online?","ipa":"/kæn ðə ˈnɑlɪʤ tɛst bi dʌn ˌɑnˈlaɪn/"},
+{"vi":"Đăng ký thi thực hành ở đâu, phí bao nhiêu?","en":"Where do I book the practical test, and what's the fee?","ipa":"/wɛr du aɪ bʊk ðə ˈpræktɪkəl tɛst, ænd wʌts ðə fi/"},
+{"vi":"Em được mang theo người phiên dịch vào buổi thi không?","en":"Can I bring an interpreter to the test?","ipa":"/kæn aɪ brɪŋ ən ɪnˈtɜrprətər tə ðə tɛst/"},
+{"vi":"Nếu trượt, khi nào em thi lại được?","en":"If I fail, when can I re-sit it?","ipa":"/ɪf aɪ feɪl, wɛn kæn aɪ ri sɪt ɪt/"}]},
+{"vi":"Nhận bằng mới","en":"Getting the new licence","sentences":[
+{"vi":"Bằng mới gửi qua bưu điện trong vài tuần.","en":"Your new card will arrive in the mail within a few weeks.","ipa":"/jʊr nu kɑrd wɪl əˈraɪv ɪn ðə meɪl wɪˈðɪn ə fju wiks/", "actor": "nhân viên"},
+{"vi":"Trong lúc chờ, em vẫn được lái bình thường chứ?","en":"Can I keep driving in the meantime?","ipa":"/kæn aɪ kip ˈdraɪvɪŋ ɪn ðə ˈminˌtaɪm/"},
+{"vi":"Cảm ơn anh, giờ em lái hợp lệ hoàn toàn rồi.","en":"Thanks — now I'm fully legal on the road.","ipa":"/θæŋks, naʊ aɪm ˈfʊli ˈliɡəl ɑn ðə roʊd/"},
+{"vi":"Nhớ luôn mang bằng theo khi lái xe.","en":"Always carry your licence when you're behind the wheel.","ipa":"/ˈɔlweɪz ˈkæri jʊr ˈlaɪsəns wɛn jʊr bɪˈhaɪnd ðə wil/"}]}],
+"practice":["Tự kể quy trình đổi bằng lái bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: người đổi bằng — nhân viên hành chính.","Ôn lại 5 câu khó nhất của Ngày 84 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Kể quy trình đổi bằng","Ôn lại Ngày 84"]},
+
+{"day":86,"slug":"medicare-gp","emoji":"🩺","scenes":[
+{"vi":"Đăng ký Medicare","en":"Signing up for Medicare","sentences":[
+{"vi":"Em muốn đăng ký thẻ Medicare cho gia đình.","en":"I'd like to enrol my family for a Medicare card.","ipa":"/aɪd laɪk tə ɪnˈroʊl maɪ ˈfæmɪli fər ə ˈmɛdɪˌkɛr kɑrd/"},
+{"vi":"Thẻ Medicare giúp khám bác sĩ miễn phí hay rẻ hơn.","en":"The Medicare card helps cover the cost of seeing a GP.","ipa":"/ðə ˈmɛdɪˌkɛr kɑrd hɛlps ˈkʌvər ðə kɔst əv ˈsiɪŋ ə ʤi pi/"},
+{"vi":"Em mới nhập cư, có đủ điều kiện đăng ký không?","en":"I'm a new migrant — am I eligible to enrol?","ipa":"/aɪm ə nu ˈmaɪɡrənt, æm aɪ ˈɛlɪʤəbəl tə ɪnˈroʊl/"}]},
+{"vi":"Hỏi về bulk billing","en":"Asking about bulk billing","sentences":[
+{"vi":"Phòng khám này có bulk bill không ạ?","en":"Does this clinic bulk bill?","ipa":"/dʌz ðɪs ˈklɪnɪk bʌlk bɪl/", "note":"bulk bill = Medicare trả hết, không tốn tiền"},
+{"vi":"Nếu không bulk bill, em phải trả bao nhiêu?","en":"If not, how much is a standard consultation?","ipa":"/ɪf nɑt, haʊ mʌtʃ ɪz ə ˈstændərd ˌkɑnsəlˈteɪʃən/"},
+{"vi":"Gap fee là phần mình tự trả sau Medicare đúng không?","en":"The gap fee is what I pay on top of Medicare, right?","ipa":"/ðə ɡæp fi ɪz wʌt aɪ peɪ ɑn tɑp əv ˈmɛdɪˌkɛr raɪt/"},
+{"vi":"Trẻ em có được bulk bill tự động không?","en":"Are kids bulk billed automatically?","ipa":"/ɑr kɪdz bʌlk bɪld ˌɔtəˈmætɪkəli/"}]},
+{"vi":"Gặp bác sĩ","en":"At the GP","sentences":[
+{"vi":"Em đến khám định kỳ, không có gì đặc biệt.","en":"I'm here for a general check-up — nothing urgent.","ipa":"/aɪm hɪr fər ə ˈʤɛnərəl ˈtʃɛk ʌp, ˈnʌθɪŋ ˈɜrʤənt/"},
+{"vi":"Bác sĩ ơi, em hay bị mệt và đau đầu.","en":"I've been feeling run down and getting headaches a lot, doctor.","ipa":"/aɪv bɪn ˈfilɪŋ rʌn daʊn ænd ˈɡɛtɪŋ ˈhɛdeɪks ə lɑt ˈdɑktər/"},
+{"vi":"Bác sĩ muốn cho em đi xét nghiệm máu.","en":"The doctor wants me to get a blood test done.","ipa":"/ðə ˈdɑktər wɑnts mi tə ɡɛt ə blʌd tɛst dʌn/"},
+{"vi":"Đơn thuốc em lấy ở nhà thuốc gần nhất phải không?","en":"Can I fill the prescription at any chemist?","ipa":"/kæn aɪ fɪl ðə prɪˈskrɪpʃən æt ˈɛni ˈkɛmɪst/"}]},
+{"vi":"Theo dõi sau khám","en":"After the appointment","sentences":[
+{"vi":"Bác sĩ hẹn tái khám sau hai tuần.","en":"The doctor wants me back for a follow-up in two weeks.","ipa":"/ðə ˈdɑktər wɑnts mi bæk fər ə ˈfɑloʊ ʌp ɪn tu wiks/"},
+{"vi":"Kết quả xét nghiệm sẽ gọi cho mình.","en":"They'll call me with the blood test results.","ipa":"/ðeɪl kɔl mi wɪð ðə blʌd tɛst rɪˈzʌlts/"},
+{"vi":"Cần giới thiệu đến chuyên khoa thì GP viết thư.","en":"If I need a specialist, the GP writes a referral.","ipa":"/ɪf aɪ nid ə ˈspɛʃəlɪst, ðə ʤi pi raɪts ə rɪˈfɜrəl/", "note":"referral = thư giới thiệu"},
+{"vi":"Hệ thống y tế Úc phức tạp nhưng lo được cho người dân.","en":"The system takes some getting used to, but it looks after people.","ipa":"/ðə ˈsɪstəm teɪks sʌm ˈɡɛtɪŋ juzd tə, bət ɪt lʊks ˈæftər ˈpipəl/"}]}],
+"practice":["Tự giải thích Medicare và bulk billing bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: bệnh nhân — lễ tân phòng khám.","Ôn lại 5 câu khó nhất của Ngày 85 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Giải thích Medicare","Ôn lại Ngày 85"]},
+
+{"day":87,"slug":"truong-hoc-uc","emoji":"🎒","scenes":[
+{"vi":"Hệ thống trường học Úc","en":"How the school system works","sentences":[
+{"vi":"Ở Úc, trẻ vào Prep hay Kindergarten từ năm tuổi.","en":"In Australia, kids start Prep or Kindergarten at five.","ipa":"/ɪn ɔˈstreɪljə, kɪdz stɑrt prɛp ɔr ˈkɪndərˌɡɑrtən æt faɪv/"},
+{"vi":"Tiểu học đến lớp sáu, trung học đến lớp mười hai.","en":"Primary school goes to Year six, high school to Year twelve.","ipa":"/ˈpraɪmɛri skul ɡoʊz tə jɪr sɪks, haɪ skul tə jɪr twɛlv/"},
+{"vi":"Public school miễn phí, private school thu phí cao.","en":"Public schools are free; private ones cost a fortune.","ipa":"/ˈpʌblɪk skulz ɑr fri, ˈpraɪvət wʌnz kɔst ə ˈfɔrtʃən/"}]},
+{"vi":"Loại trường","en":"Types of schools","sentences":[
+{"vi":"Catholic school phí vừa, giữa public và private.","en":"Catholic schools sit in between — cheaper than private, not free.","ipa":"/ˈkæθəlɪk skulz sɪt ɪn bɪˈtwin, ˈtʃipər ðæn ˈpraɪvət, nɑt fri/"},
+{"vi":"Selective school tuyển học sinh giỏi bằng thi.","en":"Selective schools take kids through an entrance exam.","ipa":"/sɪˈlɛktɪv skulz teɪk kɪdz θru ən ˈɛntrəns ɪɡˈzæm/"},
+{"vi":"Còn trường tôn giáo nào gần nhà không?","en":"Are there any faith-based schools nearby?","ipa":"/ɑr ðɛr ˈɛni feɪθ beɪst skulz ˈnɪrbaɪ/"},
+{"vi":"Mỗi loại có cái hay riêng, khó mà chọn.","en":"Each type has its pros — hard to pick.","ipa":"/itʃ taɪp hæz ɪts prɑz, hɑrd tə pɪk/"}]},
+{"vi":"Ngày đi học của trẻ","en":"A school day","sentences":[
+{"vi":"Con vào học tám giờ rưỡi, ba giờ chiều ra.","en":"She's at school from eight thirty till three.","ipa":"/ʃiz æt skul frʌm eɪt ˈθɜrti tɪl θri/"},
+{"vi":"Recess là giờ chơi nhỏ, lunch là giờ trưa.","en":"Recess is their little break, then lunch after.","ipa":"/ˈrisɛs ɪz ðɛr ˈlɪtəl breɪk, ðɛn lʌntʃ ˈæftər/", "note":"recess = giờ ra chơi sáng"},
+{"vi":"Trường gọi phụ huynh nếu con ốm hoặc vi phạm.","en":"The school calls parents if a kid's sick or in trouble.","ipa":"/ðə skul kɔlz ˈpɛrənts ɪf ə kɪdz sɪk ɔr ɪn ˈtrʌbəl/"},
+{"vi":"Mỗi kỳ học có parent-teacher night để gặp cô.","en":"Each term there's a parent-teacher night to check in.","ipa":"/itʃ tɜrm ðɛrz ə ˈpɛrənt ˈtitʃər naɪt tə tʃɛk ɪn/"}]},
+{"vi":"Hỗ trợ & cộng đồng","en":"Support & community","sentences":[
+{"vi":"Trường có chương trình EAL cho trẻ mới học tiếng Anh.","en":"The school runs an EAL program for kids new to English.","ipa":"/ðə skul rʌnz ən i eɪ ɛl ˈproʊɡræm fər kɪdz nu tə ˈɪŋɡlɪʃ/", "note":"EAL = English as Additional Language"},
+{"vi":"Uniform bắt buộc, mua ở shop của trường.","en":"Uniforms are compulsory — you get them from the school shop.","ipa":"/ˈjunɪfɔrmz ɑr kəmˈpʌlsəri, ju ɡɛt ðɛm frʌm ðə skul ʃɑp/"},
+{"vi":"Trường có canteen bán lunch, gọi là tuckshop.","en":"The tuckshop sells lunch — kids order through an app.","ipa":"/ðə ˈtʌkʃɑp sɛlz lʌntʃ, kɪdz ˈɔrdər θru ən æp/", "note":"tuckshop = căng tin trường"},
+{"vi":"Mình vui vì con nhanh thích nghi với trường mới.","en":"I'm relieved she settled in so quickly.","ipa":"/aɪm rɪˈlivd ʃi ˈsɛtəld ɪn soʊ ˈkwɪkli/"}]}],
+"practice":["Tự giải thích hệ thống trường học Úc bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: phụ huynh hỏi — phụ huynh khác trả lời.","Ôn lại 5 câu khó nhất của Ngày 86 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Giải thích trường Úc","Ôn lại Ngày 86"]},
+
+{"day":88,"slug":"footy-cricket","emoji":"🏏","scenes":[
+{"vi":"Bàn về thể thao Úc","en":"Talking Aussie sport","sentences":[
+{"vi":"Úc mê thể thao nhất là footy và cricket.","en":"Australians are mad for footy and cricket.","ipa":"/ɔˈstreɪljənz ɑr mæd fər ˈfʊti ænd ˈkrɪkɪt/"},
+{"vi":"Footy ở đây là AFL, không phải bóng đá.","en":"Here, 'footy' means AFL — not soccer.","ipa":"/hɪr, ˈfʊti minz eɪ ɛf ɛl, nɑt ˈsɑkər/"},
+{"vi":"Mình chưa hiểu luật AFL, xem mãi mới quen.","en":"I still can't wrap my head around AFL rules — took me ages.","ipa":"/aɪ stɪl kænt ræp maɪ hɛd əˈraʊnd eɪ ɛf ɛl rulz, tʊk mi ˈeɪʤɪz/"}]},
+{"vi":"Xem trận footy","en":"Watching the footy","sentences":[
+{"vi":"Tối thứ sáu nào mình cũng xem footy trên TV.","en":"I watch the footy every Friday night on the telly.","ipa":"/aɪ wɑtʃ ðə ˈfʊti ˈɛvri ˈfraɪdeɪ naɪt ɑn ðə ˈtɛli/"},
+{"vi":"Đội mình thích nhất là Collingwood.","en":"I barrack for Collingwood.","ipa":"/aɪ ˈbærək fər ˈkɑlɪŋwʊd/", "note":"barrack for = ủng hộ đội (kiểu Úc)"},
+{"vi":"Bạn đi đội nào vậy?","en":"Who do you go for?","ipa":"/hu du ju ɡoʊ fɔr/", "note":"go for = ủng hộ đội nào"},
+{"vi":"Bàn thắng trong AFL gọi là goal, ghi sáu điểm.","en":"In AFL a goal's worth six points.","ipa":"/ɪn eɪ ɛf ɛl ə ɡoʊlz wɜrθ sɪks pɔɪnts/"}]},
+{"vi":"Cricket mùa hè","en":"Cricket in summer","sentences":[
+{"vi":"Hè Úc là mùa cricket, Boxing Day Test nổi tiếng.","en":"Summer in Australia means cricket — the Boxing Day Test is huge.","ipa":"/ˈsʌmər ɪn ɔˈstreɪljə minz ˈkrɪkɪt, ðə ˈbɑksɪŋ deɪ tɛst ɪz hjuʤ/"},
+{"vi":"Trận Test đánh năm ngày, lâu kinh khủng.","en":"A Test match goes for five days — absolutely mental.","ipa":"/ə tɛst mætʃ ɡoʊz fər faɪv deɪz, ˌæbsəˈlutli ˈmɛntəl/"},
+{"vi":"Mình thích xem Big Bash hơn vì nhanh và vui.","en":"I prefer the Big Bash — it's faster and more fun.","ipa":"/aɪ prɪˈfɜr ðə bɪɡ bæʃ, ɪts ˈfæstər ænd mɔr fʌn/", "note":"Big Bash = giải cricket T20 Úc"},
+{"vi":"The Ashes là trận kinh điển Úc vs Anh.","en":"The Ashes is the big rivalry — Australia versus England.","ipa":"/ði ˈæʃɪz ɪz ðə bɪɡ ˈraɪvəlri, ɔˈstreɪljə ˈvɜrsəs ˈɪŋɡlənd/"}]},
+{"vi":"Tham gia & cùng fan","en":"Getting involved","sentences":[
+{"vi":"Cuối tuần mình xem con đá footy ở câu lạc bộ địa phương.","en":"On weekends I watch my kid play footy at the local club.","ipa":"/ɑn ˈwikɛndz aɪ wɑtʃ maɪ kɪd pleɪ ˈfʊti æt ðə ˈloʊkəl klʌb/"},
+{"vi":"Mình mua membership đội mình ủng hộ luôn.","en":"I've bought a membership for my team this season.","ipa":"/aɪv bɔt ə ˈmɛmbərʃɪp fər maɪ tim ðɪs ˈsiːzən/"},
+{"vi":"Đi xem trận ở MCG là trải nghiệm đỉnh cao.","en":"Watching a game at the MCG is the ultimate experience.","ipa":"/ˈwɑtʃɪŋ ə ɡeɪm æt ði ɛm si ʤi ɪz ði ˈʌltɪmət ɪkˈspɪriəns/"},
+{"vi":"Fan đội nào cũng vậy, đam mê thể thao là như nhau.","en":"Whatever team you follow, we all love our sport.","ipa":"/wʌtˈɛvər tim ju ˈfɑloʊ, wi ɔl lʌv ˈaʊər spɔrt/"}]}],
+"practice":["Tự kể một trận thể thao mình xem bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: hai fan bàn về footy/cricket.","Ôn lại 5 câu khó nhất của Ngày 87 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Kể trận thể thao","Ôn lại Ngày 87"]},
+
+{"day":89,"slug":"thoi-su","emoji":"📰","scenes":[
+{"vi":"Xem tin tức","en":"Watching the news","sentences":[
+{"vi":"Tối nay tin tức toàn về bầu cử và kinh tế.","en":"Tonight's news is all about the election and the economy.","ipa":"/təˈnaɪts nuz ɪz ɔl əˈbaʊt ði ɪˈlɛkʃən ænd ði ɪˈkɑnəmi/"},
+{"vi":"Bản tin địa phương có vụ cảnh sát bắt tội phạm.","en":"The local bulletin had a story about a police arrest.","ipa":"/ðə ˈloʊkəl ˈbʊlətɪn hæd ə ˈstɔri əˈbaʊt ə pəˈlis əˈrɛst/"},
+{"vi":"Dự báo thời tiết nói cuối tuần mưa to.","en":"The forecast says heavy rain's coming this weekend.","ipa":"/ðə ˈfɔrkæst sɛz ˈhɛvi reɪnz ˈkʌmɪŋ ðɪs ˈwikɛnd/"}]},
+{"vi":"Bàn tin thời sự","en":"Discussing current affairs","sentences":[
+{"vi":"Bạn có xem bản tin về vụ cháy rừng không?","en":"Did you see the news about the bushfires?","ipa":"/dɪd ju si ðə nuz əˈbaʊt ðə ˈbʌʃˌfaɪərz/"},
+{"vi":"Chính phủ vừa công bố gói hỗ trợ kinh tế mới.","en":"The government's just announced a new stimulus package.","ipa":"/ðə ˈɡʌvərnmənts ʤʌst əˈnaʊnst ə nu ˈstɪmjələs ˈpækɪʤ/"},
+{"vi":"Thủ tướng họp báo sáng nay nói về nhập cư.","en":"The PM held a press conference this morning on immigration.","ipa":"/ðə pi ɛm hɛld ə prɛs ˌkɑnfrəns ðɪs ˈmɔrnɪŋ ɑn ˌɪmɪˈɡreɪʃən/"},
+{"vi":"Tin quốc tế nhiều biến động, thật khó theo kịp.","en":"There's so much going on overseas — hard to keep up.","ipa":"/ðɛrz soʊ mʌtʃ ˈɡoʊɪŋ ɑn ˌoʊvərˈsiz, hɑrd tə kip ʌp/"}]},
+{"vi":"Chia sẻ quan điểm","en":"Sharing opinions","sentences":[
+{"vi":"Mình nghĩ báo chí nên khách quan hơn.","en":"I think the media should be more objective.","ipa":"/aɪ θɪŋk ðə ˈmidiə ʃʊd bi mɔr əbˈʤɛktɪv/"},
+{"vi":"Mình đọc tin từ nhiều nguồn để đối chiếu.","en":"I cross-check stories from a few different sources.","ipa":"/aɪ krɔs tʃɛk ˈstɔriz frʌm ə fju ˈdɪfrənt ˈsɔrsɪz/"},
+{"vi":"Tin giả trên mạng xã hội nhiều quá, mệt.","en":"There's so much fake news on social media — it's exhausting.","ipa":"/ðɛrz soʊ mʌtʃ feɪk nuz ɑn ˈsoʊʃəl ˈmidiə, ɪts ɪɡˈzɔstɪŋ/"},
+{"vi":"Mình cố không để tin tức ảnh hưởng tâm trạng quá.","en":"I try not to let the news get to me too much.","ipa":"/aɪ traɪ nɑt tə lɛt ðə nuz ɡɛt tə mi tu mʌtʃ/"}]},
+{"vi":"Chuyện vui nhẹ","en":"Lighter stories","sentences":[
+{"vi":"Tin vui hôm nay là chú chó cứu được gia đình chủ.","en":"The feel-good story today was a dog that saved its owners.","ipa":"/ðə fil ɡʊd ˈstɔri təˈdeɪ wʌz ə dɔɡ ðæt seɪvd ɪts ˈoʊnərz/"},
+{"vi":"Đoạn cuối bản tin luôn là tin nhẹ nhàng.","en":"They always end the bulletin on a happy note.","ipa":"/ðeɪ ˈɔlweɪz ɛnd ðə ˈbʊlətɪn ɑn ə ˈhæpi noʊt/"},
+{"vi":"Thi thoảng tin tức cũng có câu chuyện ấm lòng.","en":"Every now and then there's a story that really warms your heart.","ipa":"/ˈɛvri naʊ ænd ðɛn ðɛrz ə ˈstɔri ðæt ˈrili wɔrmz jʊr hɑrt/"},
+{"vi":"Mình thích kết thúc ngày bằng một tin vui nhỏ.","en":"I like ending the day with one good story.","ipa":"/aɪ laɪk ˈɛndɪŋ ðə deɪ wɪð wʌn ɡʊd ˈstɔri/"}]}],
+"practice":["Tự kể một tin tức mình đọc bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: hai người bàn về tin tức.","Ôn lại 5 câu khó nhất của Ngày 88 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Kể tin tức","Ôn lại Ngày 88"]},
+
+{"day":90,"slug":"tong-on","emoji":"🏆","scenes":[
+{"vi":"Nhìn lại 90 ngày","en":"Looking back on ninety days","sentences":[
+{"vi":"Chín mươi ngày rồi, mình đã học được rất nhiều.","en":"Ninety days in — I've learned so much.","ipa":"/ˈnaɪnti deɪz ɪn, aɪv lɜrnd soʊ mʌtʃ/"},
+{"vi":"Ngày đầu mình chỉ nói được vài câu đơn giản.","en":"Day one, I could barely string a sentence together.","ipa":"/deɪ wʌn, aɪ kʊd ˈbɛrli strɪŋ ə ˈsɛntəns təˈɡɛðər/"},
+{"vi":"Giờ mình tự tin nói về đủ mọi chủ đề đời thường.","en":"Now I can talk about everyday life with real confidence.","ipa":"/naʊ aɪ kæn tɔk əˈbaʊt ˈɛvriˌdeɪ laɪf wɪð rɪl ˈkɑnfɪdəns/"}]},
+{"vi":"Tự nhận xét bản thân","en":"Self-assessment","sentences":[
+{"vi":"Điểm mạnh của mình là từ vựng và ngữ cảnh.","en":"My strength is definitely vocabulary and context.","ipa":"/maɪ strɛŋkθ ɪz ˈdɛfɪnətli voʊˈkæbjəˌlɛri ænd ˈkɑntɛkst/"},
+{"vi":"Phát âm âm cuối và nối âm vẫn cần luyện thêm.","en":"My final consonants and linking still need work.","ipa":"/maɪ ˈfaɪnəl ˈkɑnsənənts ænd ˈlɪŋkɪŋ stɪl nid wɜrk/"},
+{"vi":"Nghe người bản xứ nói nhanh vẫn là thử thách.","en":"Understanding fast native speech is still my biggest challenge.","ipa":"/ˌʌndərˈstændɪŋ fæst ˈneɪtɪv spitʃ ɪz stɪl maɪ ˈbɪɡɪst ˈtʃælɪnʤ/"},
+{"vi":"Tổng thể mình đã đi một chặng đường dài.","en":"Overall, I've come a seriously long way.","ipa":"/ˌoʊvərˈɔl, aɪv kʌm ə ˈsɪriəsli lɔŋ weɪ/"}]},
+{"vi":"Chia sẻ với bạn","en":"Telling a mate about it","sentences":[
+{"vi":"Mình đã tự học ba tháng mỗi ngày không nghỉ.","en":"I taught myself for three months straight, every single day.","ipa":"/aɪ tɔt maɪˈsɛlf fər θri mʌnθs streɪt, ˈɛvri ˈsɪŋɡəl deɪ/"},
+{"vi":"Mình dùng tình huống tưởng tượng và đọc to trước gương.","en":"I used imagined scenarios and read out loud in front of the mirror.","ipa":"/aɪ juzd ɪˈmæʤɪnd sɪˈnɛrioʊz ænd rɛd aʊt laʊd ɪn frʌnt əv ðə ˈmɪrər/"},
+{"vi":"Cảm giác hôm nay nói chuyện được với người bản xứ tuyệt lắm.","en":"Today I actually had a real conversation with a native speaker.","ipa":"/təˈdeɪ aɪ ˈækʃuəli hæd ə rɪl ˌkɑnvərˈseɪʃən wɪð ə ˈneɪtɪv ˈspikər/"},
+{"vi":"Học chậm nhưng chắc, không vội vàng.","en":"Slow but steady — no shortcuts, no rushing.","ipa":"/sloʊ bət ˈstɛdi, noʊ ˈʃɔrtˌkʌts, noʊ ˈrʌʃɪŋ/"}]},
+{"vi":"Kế hoạch tiếp theo","en":"What's next","sentences":[
+{"vi":"Từ mai, mình ôn lại mười ngày đầu theo spaced repetition.","en":"From tomorrow, I'm going back over the first ten days using spaced repetition.","ipa":"/frʌm təˈmɔroʊ, aɪm ˈɡoʊɪŋ bæk ˈoʊvər ðə fɜrst tɛn deɪz ˈjuzɪŋ speɪst ˌrɛpɪˈtɪʃən/"},
+{"vi":"Mình sẽ tìm một người nói chuyện thật để luyện hằng tuần.","en":"I'll find a real conversation partner to practise with weekly.","ipa":"/aɪl faɪnd ə rɪl ˌkɑnvərˈseɪʃən ˈpɑrtnər tə ˈpræktɪs wɪð ˈwikli/"},
+{"vi":"Đặt mục tiêu: ba tháng nữa nói tự nhiên không nghĩ lâu.","en":"New goal: in three more months, speak naturally without overthinking.","ipa":"/nu ɡoʊl, ɪn θri mɔr mʌnθs, spik ˈnætʃərəli wɪˈðaʊt ˌoʊvərˈθɪŋkɪŋ/"},
+{"vi":"Chín mươi ngày này chỉ là bắt đầu, còn dài lắm.","en":"These ninety days were just the beginning — the journey continues.","ipa":"/ðiz ˈnaɪnti deɪz wɜr ʤʌst ðə bɪˈɡɪnɪŋ, ðə ˈʤɜrni kənˈtɪnjuz/"}]}],
+"practice":["Tự kể hành trình 90 ngày của mình bằng 4 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: kể hành trình học — người nghe động viên.","Ôn lại 5 câu khó nhất của Ngày 89 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Kể hành trình 90 ngày","Hoàn thành 3 tháng! 🎉"]}
+]}

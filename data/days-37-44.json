@@ -1,0 +1,188 @@
+{"days":[
+{"day":37,"slug":"hop-dong-thue","emoji":"📄","scenes":[
+{"vi":"Đọc điều khoản hợp đồng","en":"Going over the lease","sentences":[
+{"vi":"Em đọc hợp đồng rồi, có mấy điều cần hỏi thêm.","en":"I've been through the lease — I have a few questions.","ipa":"/aɪv bɪn θru ðə lis, aɪ hæv ə fju ˈkwɛstʃənz/"},
+{"vi":"Điều khoản về nuôi thú cưng ghi thế nào?","en":"What does it say about keeping pets?","ipa":"/wʌt dʌz ɪt seɪ əˈbaʊt ˈkipɪŋ pɛts/"},
+{"vi":"Bị hư hỏng ai chịu trách nhiệm sửa?","en":"Who's responsible for repairs if something breaks?","ipa":"/huz rɪˈspɑnsəbəl fər rɪˈpɛrz ɪf ˈsʌmθɪŋ breɪks/"},
+{"vi":"Nếu muốn trả nhà sớm thì phạt bao nhiêu?","en":"What's the penalty for breaking the lease early?","ipa":"/wʌts ðə ˈpɛnəlti fər ˈbreɪkɪŋ ðə lis ˈɜrli/"}]},
+{"vi":"Thương lượng điều kiện","en":"Negotiating terms","sentences":[
+{"vi":"Em muốn hỏi ngày vào ở có thể sớm hơn được không.","en":"Could we move the start date a bit earlier?","ipa":"/kʊd wi muv ðə stɑrt deɪt ə bɪt ˈɜrliər/"},
+{"vi":"Nhà còn một vài vết trầy, anh ghi vào biên bản nhé.","en":"There are a few scuff marks — can we note them on the condition report?","ipa":"/ðɛr ɑr ə fju skʌf mɑrks, kæn wi noʊt ðɛm ɑn ðə kənˈdɪʃən rɪˈpɔrt/", "note":"condition report = biên bản hiện trạng nhà"},
+{"vi":"Có thể thêm điều khoản được gia hạn trước không?","en":"Can we add a renewal option to the lease?","ipa":"/kæn wi æd ə rɪˈnuəl ˈɑpʃən tə ðə lis/"},
+{"vi":"Tiền thuê có bao gồm nước hay tách riêng?","en":"Is water included in the rent or separate?","ipa":"/ɪz ˈwɔtər ɪnˈkludɪd ɪn ðə rɛnt ɔr ˈsɛprət/"}]},
+{"vi":"Bond & cách lấy lại","en":"Bond & getting it back","sentences":[
+{"vi":"Bond nộp vào đâu, RTA hay cho agent?","en":"Where does the bond go — to the RTA or the agent?","ipa":"/wɛr dʌz ðə bɑnd ɡoʊ, tə ði ɑr ti eɪ ɔr ði ˈeɪʤənt/", "note":"RTA = cơ quan giữ tiền bond ở Úc"},
+{"vi":"Điều kiện để lấy lại toàn bộ bond là gì?","en":"What do I need to do to get the full bond back?","ipa":"/wʌt du aɪ nid tə du tə ɡɛt ðə fʊl bɑnd bæk/"},
+{"vi":"Kiểm nhà định kỳ bao lâu một lần?","en":"How often are routine inspections?","ipa":"/haʊ ˈɔfən ɑr ruˈtin ɪnˈspɛkʃənz/"},
+{"vi":"Báo trước bao nhiêu ngày khi vào kiểm?","en":"How much notice do you give before an inspection?","ipa":"/haʊ mʌtʃ ˈnoʊtɪs du ju ɡɪv bɪˈfɔr ən ɪnˈspɛkʃən/"}]},
+{"vi":"Ký & nhận chìa","en":"Signing & getting keys","sentences":[
+{"vi":"Em ký hai bản, một giữ một trả lại.","en":"I'll sign both copies — one to keep, one to return.","ipa":"/aɪl saɪn boʊθ ˈkɑpiz, wʌn tə kip, wʌn tə rɪˈtɜrn/"},
+{"vi":"Khi nào em nhận chìa khóa?","en":"When do I get the keys?","ipa":"/wɛn du aɪ ɡɛt ðə kiz/"},
+{"vi":"Em chuyển bond và tiền thuê tháng đầu hôm nay.","en":"I'll transfer the bond and first month's rent today.","ipa":"/aɪl trænsˈfɜr ðə bɑnd ænd fɜrst mʌnθs rɛnt təˈdeɪ/"},
+{"vi":"Cảm ơn anh, em rất mong vào ở.","en":"Thanks — I'm really looking forward to moving in.","ipa":"/θæŋks, aɪm ˈrili ˈlʊkɪŋ ˈfɔrwərd tə ˈmuvɪŋ ɪn/"}]}],
+"practice":["Tự nói 3 điều kiện mình sẽ hỏi trước khi ký hợp đồng.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: người thuê hỏi điều khoản — agent giải thích.","Ôn lại 5 câu khó nhất của Ngày 36 trước khi bắt đầu."],
+"checks":["Đọc to 20 câu","Nói 3 điều kiện thuê","Ôn lại Ngày 36"]},
+
+{"day":38,"slug":"tho-sua-nha","emoji":"🔨","scenes":[
+{"vi":"Gọi thợ qua xem","en":"Getting a tradie out","sentences":[
+{"vi":"Mình cần người xem mái nhà bị dột.","en":"I need someone to look at a leaking roof.","ipa":"/aɪ nid ˈsʌmwʌn tə lʊk æt ə ˈlikɪŋ ruf/"},
+{"vi":"Cửa sổ phòng ngủ bị kẹt, không mở được.","en":"The bedroom window's jammed — won't open at all.","ipa":"/ðə ˈbɛdrum ˈwɪndoʊz ʤæmd, woʊnt ˈoʊpən æt ɔl/"},
+{"vi":"Anh có rảnh qua xem tuần này không?","en":"Could you come have a look this week?","ipa":"/kʊd ju kʌm hæv ə lʊk ðɪs wik/"},
+{"vi":"Báo giá miễn phí đúng không ạ?","en":"Do you do free quotes?","ipa":"/du ju du fri kwoʊts/"}]},
+{"vi":"Mô tả hư hỏng","en":"Describing the damage","sentences":[
+{"vi":"Nước dột từ trần nhà xuống mỗi khi mưa to.","en":"Water drips through the ceiling whenever it rains heavily.","ipa":"/ˈwɔtər drɪps θru ðə ˈsilɪŋ wɛˈnɛvər ɪt reɪnz ˈhɛvɪli/"},
+{"vi":"Vết ố trên trần càng lúc càng to.","en":"The stain on the ceiling keeps getting bigger.","ipa":"/ðə steɪn ɑn ðə ˈsilɪŋ kips ˈɡɛtɪŋ ˈbɪɡər/"},
+{"vi":"Em chụp hình gửi cho anh xem trước nhé.","en":"I'll send you some photos first.","ipa":"/aɪl sɛnd ju sʌm ˈfoʊtoʊz fɜrst/"},
+{"vi":"Vụ này khẩn cấp hay chờ được?","en":"Is it urgent, or can it wait a bit?","ipa":"/ɪz ɪt ˈɜrʤənt, ɔr kæn ɪt weɪt ə bɪt/"}]},
+{"vi":"Báo giá & thời gian","en":"Quote & timeline","sentences":[
+{"vi":"Sửa hết khoảng bao nhiêu tiền?","en":"Roughly how much to fix the lot?","ipa":"/ˈrʌfli haʊ mʌtʃ tə fɪks ðə lɑt/", "note":"the lot = tất cả (kiểu Úc/Anh)"},
+{"vi":"Giá này gồm cả vật liệu chưa?","en":"Does that price cover materials as well?","ipa":"/dʌz ðæt praɪs ˈkʌvər məˈtɪriəlz æz wɛl/"},
+{"vi":"Làm xong trong một ngày được không?","en":"Can you get it done in a day?","ipa":"/kæn ju ɡɛt ɪt dʌn ɪn ə deɪ/"},
+{"vi":"Khi nào anh bắt đầu được?","en":"When can you start?","ipa":"/wɛn kæn ju stɑrt/"}]},
+{"vi":"Bảo hành & thanh toán","en":"Warranty & payment","sentences":[
+{"vi":"Công việc có bảo hành bao lâu?","en":"Is your work guaranteed?","ipa":"/ɪz jʊr wɜrk ˌɡærənˈtid/"},
+{"vi":"Nếu lại dột thì anh quay lại sửa miễn phí chứ?","en":"If it leaks again, will you come back free of charge?","ipa":"/ɪf ɪt liks əˈɡɛn, wɪl ju kʌm bæk fri əv tʃɑrʤ/"},
+{"vi":"Trả sau khi xong việc đúng không?","en":"I pay once the job's done, yeah?","ipa":"/aɪ peɪ wʌns ðə ʤɑbz dʌn jeə/"},
+{"vi":"Cảm ơn anh, giờ ngủ ngon không lo mưa nữa.","en":"Cheers — now I can sleep easy when it rains.","ipa":"/tʃɪrz, naʊ aɪ kæn slip ˈizi wɛn ɪt reɪnz/", "note":"cheers = cảm ơn (kiểu Úc/Anh)"}]}],
+"practice":["Tự tả một hư hỏng trong nhà bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: chủ nhà mô tả — thợ báo giá.","Ôn lại 5 câu khó nhất của Ngày 37 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Tả hư hỏng nhà","Ôn lại Ngày 37"]},
+
+{"day":39,"slug":"vay-mua-nha","emoji":"🏦","scenes":[
+{"vi":"Hẹn gặp nhân viên bank","en":"Meeting the home loan specialist","sentences":[
+{"vi":"Em muốn tìm hiểu về vay mua nhà.","en":"I'd like to find out about getting a home loan.","ipa":"/aɪd laɪk tə faɪnd aʊt əˈbaʊt ˈɡɛtɪŋ ə hoʊm loʊn/"},
+{"vi":"Đây là lần đầu em mua nhà.","en":"This would be my first home purchase.","ipa":"/ðɪs wʊd bi maɪ fɜrst hoʊm ˈpɜrtʃəs/"},
+{"vi":"Em đã mang theo payslip ba tháng gần nhất.","en":"I've brought my last three months of payslips.","ipa":"/aɪv brɔt maɪ læst θri mʌnθs əv ˈpeɪslɪps/"}]},
+{"vi":"Khai thu nhập & chi tiêu","en":"Income & expenses","sentences":[
+{"vi":"Thu nhập hàng năm của em khoảng chín mươi ngàn.","en":"My annual income is around ninety thousand.","ipa":"/maɪ ˈænjuəl ˈɪnkʌm ɪz əˈraʊnd ˈnaɪnti ˈθaʊzənd/"},
+{"vi":"Em có một thẻ tín dụng và khoản vay mua xe.","en":"I have a credit card and a car loan.","ipa":"/aɪ hæv ə ˈkrɛdɪt kɑrd ænd ə kɑr loʊn/"},
+{"vi":"Chi tiêu hàng tháng khoảng ba ngàn rưỡi.","en":"My monthly expenses are about three and a half grand.","ipa":"/maɪ ˈmʌnθli ɪkˈspɛnsɪz ɑr əˈbaʊt θri ænd ə hæf ɡrænd/"},
+{"vi":"Em có tiền tiết kiệm sáu mươi ngàn làm đặt cọc.","en":"I've got sixty grand saved for a deposit.","ipa":"/aɪv ɡɑt ˈsɪksti ɡrænd seɪvd fər ə dɪˈpɑzɪt/"}]},
+{"vi":"Hỏi khả năng vay","en":"Borrowing capacity","sentences":[
+{"vi":"Với thu nhập vậy em vay được bao nhiêu?","en":"How much could I borrow on that income?","ipa":"/haʊ mʌtʃ kʊd aɪ ˈbɑroʊ ɑn ðæt ˈɪnkʌm/"},
+{"vi":"Cần đặt cọc tối thiểu bao nhiêu phần trăm?","en":"What's the minimum deposit percentage?","ipa":"/wʌts ðə ˈmɪnɪməm dɪˈpɑzɪt pərˈsɛntɪʤ/"},
+{"vi":"Nếu cọc dưới hai mươi phần trăm có phải mua LMI không?","en":"If I put down less than twenty percent, do I need LMI?","ipa":"/ɪf aɪ pʊt daʊn lɛs ðæn ˈtwɛnti pərˈsɛnt, du aɪ nid ɛl ɛm aɪ/", "note":"LMI = bảo hiểm người cho vay khi cọc thấp"},
+{"vi":"Pre-approval có tốn phí hay ảnh hưởng điểm tín dụng không?","en":"Does pre-approval cost anything or affect my credit score?","ipa":"/dʌz pri əˈpruvəl kɔst ˈɛniθɪŋ ɔr əˈfɛkt maɪ ˈkrɛdɪt skɔr/"}]},
+{"vi":"Bước tiếp theo","en":"Next steps","sentences":[
+{"vi":"Em nên làm pre-approval trước khi đi xem nhà phải không?","en":"Should I get pre-approval before I start inspecting places?","ipa":"/ʃʊd aɪ ɡɛt pri əˈpruvəl bɪˈfɔr aɪ stɑrt ɪnˈspɛktɪŋ ˈpleɪsɪz/"},
+{"vi":"Pre-approval có hiệu lực bao lâu?","en":"How long does pre-approval last?","ipa":"/haʊ lɔŋ dʌz pri əˈpruvəl læst/"},
+{"vi":"Hồ sơ còn cần thêm giấy tờ gì nữa?","en":"What other documents do you need from me?","ipa":"/wʌt ˈʌðər ˈdɑkjumənts du ju nid frʌm mi/"},
+{"vi":"Cảm ơn anh, em hiểu rõ hơn nhiều rồi.","en":"Thanks — that's made things a lot clearer.","ipa":"/θæŋks, ðæts meɪd θɪŋz ə lɑt ˈklɪrər/"}]}],
+"practice":["Tự kể tình hình tài chính của mình bằng 3 câu như nói với nhân viên bank.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: khách hỏi vay — nhân viên bank tư vấn.","Ôn lại 5 câu khó nhất của Ngày 38 trước khi bắt đầu."],
+"checks":["Đọc to 18 câu","Kể tài chính bản thân","Ôn lại Ngày 38"]},
+
+{"day":40,"slug":"lai-suat","emoji":"📊","scenes":[
+{"vi":"So sánh lãi suất","en":"Comparing rates","sentences":[
+{"vi":"Em đang so sánh lãi suất giữa các ngân hàng.","en":"I'm comparing interest rates across a few banks.","ipa":"/aɪm kəmˈpɛrɪŋ ˈɪntrəst reɪts əˈkrɔs ə fju bæŋks/"},
+{"vi":"Bank mình đang có rate bao nhiêu cho home loan?","en":"What rate are you offering on home loans at the moment?","ipa":"/wʌt reɪt ɑr ju ˈɔfərɪŋ ɑn hoʊm loʊnz æt ðə ˈmoʊmənt/"},
+{"vi":"Comparison rate với advertised rate khác nhau sao?","en":"What's the difference between the comparison rate and the advertised rate?","ipa":"/wʌts ðə ˈdɪfərəns bɪˈtwin ðə kəmˈpærɪsən reɪt ænd ði ˈædvərˌtaɪzd reɪt/"},
+{"vi":"Bank kia cho rate rẻ hơn, anh match được không?","en":"Another bank's offering a lower rate — can you match it?","ipa":"/əˈnʌðər bæŋks ˈɔfərɪŋ ə ˈloʊər reɪt, kæn ju mætʃ ɪt/"}]},
+{"vi":"Fixed hay variable","en":"Fixed vs variable","sentences":[
+{"vi":"Nên chọn fixed hay variable lúc này?","en":"Should I go fixed or variable right now?","ipa":"/ʃʊd aɪ ɡoʊ fɪkst ɔr ˈvɛriəbəl raɪt naʊ/"},
+{"vi":"Fixed hai năm rate bao nhiêu?","en":"What's the two-year fixed rate?","ipa":"/wʌts ðə tu jɪr fɪkst reɪt/"},
+{"vi":"Nếu trả trước hạn thì phạt bao nhiêu?","en":"What are the break costs if I pay it off early?","ipa":"/wʌt ɑr ðə breɪk kɔsts ɪf aɪ peɪ ɪt ɔf ˈɜrli/"},
+{"vi":"Có thể split một nửa fixed một nửa variable không?","en":"Can I split the loan — half fixed, half variable?","ipa":"/kæn aɪ splɪt ðə loʊn, hæf fɪkst, hæf ˈvɛriəbəl/", "note":"split loan = chia khoản vay hai phần"}]},
+{"vi":"Offset account","en":"Offset account","sentences":[
+{"vi":"Offset account hoạt động thế nào?","en":"How exactly does an offset account work?","ipa":"/haʊ ɪɡˈzæktli dʌz ən ˈɔfsɛt əˈkaʊnt wɜrk/"},
+{"vi":"Tiền trong offset trừ vào dư nợ tính lãi đúng không?","en":"So money in the offset reduces the interest I pay?","ipa":"/soʊ ˈmʌni ɪn ði ˈɔfsɛt rɪˈdusɪz ði ˈɪntrəst aɪ peɪ/"},
+{"vi":"Offset có phí hàng năm không?","en":"Is there an annual fee for the offset account?","ipa":"/ɪz ðɛr ən ˈænjuəl fi fər ði ˈɔfsɛt əˈkaʊnt/"},
+{"vi":"Package fee bao nhiêu một năm?","en":"How much is the yearly package fee?","ipa":"/haʊ mʌtʃ ɪz ðə ˈjɪrli ˈpækɪʤ fi/"}]},
+{"vi":"Quyết định","en":"Deciding","sentences":[
+{"vi":"Em nghĩ variable với offset hợp với mình hơn.","en":"I think variable with an offset suits me better.","ipa":"/aɪ θɪŋk ˈvɛriəbəl wɪð ən ˈɔfsɛt suts mi ˈbɛtər/"},
+{"vi":"Em cần nghĩ thêm và so sánh thêm bank khác.","en":"I need to think it over and compare a few more banks.","ipa":"/aɪ nid tə θɪŋk ɪt ˈoʊvər ænd kəmˈpɛr ə fju mɔr bæŋks/"},
+{"vi":"Rate này giữ được bao lâu?","en":"How long is this rate valid for?","ipa":"/haʊ lɔŋ ɪz ðɪs reɪt ˈvælɪd fɔr/"},
+{"vi":"Cảm ơn anh, em sẽ liên hệ lại tuần sau.","en":"Thanks — I'll get back to you next week.","ipa":"/θæŋks, aɪl ɡɛt bæk tə ju nɛkst wik/"}]}],
+"practice":["Tự giải thích fixed vs variable bằng 2 câu đơn giản.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: khách so sánh rate — nhân viên bank giải thích offset.","Ôn lại 5 câu khó nhất của Ngày 39 trước khi bắt đầu."],
+"checks":["Đọc to 18 câu","Giải thích fixed/variable","Ôn lại Ngày 39"]},
+
+{"day":41,"slug":"internet-banking","emoji":"💳","scenes":[
+{"vi":"Hỏi cách chuyển khoản","en":"Setting up a transfer","sentences":[
+{"vi":"Em muốn chuyển tiền cho người thân, làm sao thêm payee?","en":"I want to transfer money to a relative — how do I add a new payee?","ipa":"/aɪ wɑnt tə trænsˈfɜr ˈmʌni tə ə ˈrɛlətɪv, haʊ du aɪ æd ə nu ˈpeɪi/"},
+{"vi":"Cần số BSB và account number của người nhận đúng không?","en":"I need their BSB and account number, right?","ipa":"/aɪ nid ðɛr bi ɛs bi ænd əˈkaʊnt ˈnʌmbər raɪt/", "note":"BSB = mã chi nhánh ngân hàng ở Úc"},
+{"vi":"Chuyển lần đầu cho người lạ có bị giữ lại không?","en":"Will the first transfer to a new payee be held?","ipa":"/wɪl ðə fɜrst ˈtrænsfɜr tə ə nu ˈpeɪi bi hɛld/"},
+{"vi":"Giới hạn chuyển mỗi ngày là bao nhiêu?","en":"What's my daily transfer limit?","ipa":"/wʌts maɪ ˈdeɪli ˈtrænsfɜr ˈlɪmɪt/"}]},
+{"vi":"Bảo mật","en":"Security questions","sentences":[
+{"vi":"Bật xác thực hai lớp ở đâu trong app?","en":"Where do I turn on two-factor authentication in the app?","ipa":"/wɛr du aɪ tɜrn ɑn tu ˈfæktər ɔˌθɛntɪˈkeɪʃən ɪn ði æp/"},
+{"vi":"Nếu thấy giao dịch lạ thì báo ngay thế nào?","en":"What do I do if I spot a transaction I don't recognise?","ipa":"/wʌt du aɪ du ɪf aɪ spɑt ə trænˈzækʃən aɪ doʊnt ˈrɛkəɡˌnaɪz/"},
+{"vi":"Bank có bao giờ gọi xin mật khẩu qua điện thoại không?","en":"Will the bank ever call and ask for my password?","ipa":"/wɪl ðə bæŋk ˈɛvər kɔl ænd æsk fər maɪ ˈpæswɜrd/"},
+{"vi":"Có nên bật thông báo mỗi giao dịch không?","en":"Should I set up notifications for every transaction?","ipa":"/ʃʊd aɪ sɛt ʌp ˌnoʊtɪfɪˈkeɪʃənz fər ˈɛvri trænˈzækʃən/"}]},
+{"vi":"Tính năng hữu ích","en":"Useful features","sentences":[
+{"vi":"PayID là gì, mình có nên đăng ký không?","en":"What is PayID, and should I set one up?","ipa":"/wʌt ɪz peɪ aɪ di, ænd ʃʊd aɪ sɛt wʌn ʌp/", "note":"PayID = chuyển tiền bằng số điện thoại/email ở Úc"},
+{"vi":"Cách xuất sao kê PDF cho hồ sơ visa?","en":"How do I download a PDF statement for my visa application?","ipa":"/haʊ du aɪ ˈdaʊnloʊd ə pi di ɛf ˈsteɪtmənt fər maɪ ˈvizə ˌæplɪˈkeɪʃən/"},
+{"vi":"Có tính năng chia bill với bạn bè không?","en":"Is there a feature to split bills with friends?","ipa":"/ɪz ðɛr ə ˈfitʃər tə splɪt bɪlz wɪð frɛndz/"},
+{"vi":"Làm sao khóa thẻ tạm thời trong app?","en":"How do I temporarily lock my card in the app?","ipa":"/haʊ du aɪ ˈtɛmpəˌrɛrəli lɑk maɪ kɑrd ɪn ði æp/"}]},
+{"vi":"Kết thúc","en":"Wrapping up","sentences":[
+{"vi":"Em bật PayID với thông báo giao dịch luôn hôm nay.","en":"I'll set up PayID and transaction alerts today.","ipa":"/aɪl sɛt ʌp peɪ aɪ di ænd trænˈzækʃən əˈlɜrts təˈdeɪ/"},
+{"vi":"Còn gì nữa em gọi hotline được chứ?","en":"If I need anything else, can I just call the hotline?","ipa":"/ɪf aɪ nid ˈɛniθɪŋ ɛls, kæn aɪ ʤʌst kɔl ðə ˈhɑtlaɪn/"},
+{"vi":"Cảm ơn anh, app giờ dùng thấy dễ hơn rồi.","en":"Thanks — the app makes a lot more sense now.","ipa":"/θæŋks, ði æp meɪks ə lɑt mɔr sɛns naʊ/"}]}],
+"practice":["Tự nói lại cách chuyển tiền cho người thân bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: khách hỏi internet banking — nhân viên hướng dẫn.","Ôn lại 5 câu khó nhất của Ngày 40 trước khi bắt đầu."],
+"checks":["Đọc to 18 câu","Nói cách chuyển tiền","Ôn lại Ngày 40"]},
+
+{"day":42,"slug":"tiet-kiem-tien","emoji":"🐷","scenes":[
+{"vi":"Bàn về chi tiêu","en":"Talking about spending","sentences":[
+{"vi":"Dạo này tiền ra nhanh hơn tiền vào quá.","en":"Money's going out faster than it's coming in lately.","ipa":"/ˈmʌniz ˈɡoʊɪŋ aʊt ˈfæstər ðæn ɪts ˈkʌmɪŋ ɪn ˈleɪtli/"},
+{"vi":"Cuối tháng xem lại sao kê mà giật mình.","en":"I checked my statement at the end of the month and got a shock.","ipa":"/aɪ tʃɛkt maɪ ˈsteɪtmənt æt ði ɛnd əv ðə mʌnθ ænd ɡɑt ə ʃɑk/"},
+{"vi":"Ăn ngoài tốn hơn mình tưởng nhiều.","en":"Eating out costs way more than I realised.","ipa":"/ˈitɪŋ aʊt kɔsts weɪ mɔr ðæn aɪ ˈriəˌlaɪzd/"}]},
+{"vi":"Cắt bớt chi phí","en":"Cutting costs","sentences":[
+{"vi":"Mình hủy hai subscription không dùng tới.","en":"I cancelled two subscriptions I never use.","ipa":"/aɪ ˈkænsəld tu səbˈskrɪpʃənz aɪ ˈnɛvər juz/"},
+{"vi":"Mang cơm đi làm tiết kiệm hơn mua trưa nhiều.","en":"Bringing lunch to work saves heaps compared to buying it.","ipa":"/ˈbrɪŋɪŋ lʌntʃ tə wɜrk seɪvz hips kəmˈpɛrd tə ˈbaɪɪŋ ɪt/", "note":"heaps = rất nhiều (kiểu Úc)"},
+{"vi":"Mình cà phê ở nhà thay vì mua ngoài mỗi sáng.","en":"I make coffee at home instead of buying one every morning.","ipa":"/aɪ meɪk ˈkɔfi æt hoʊm ɪnˈstɛd əv ˈbaɪɪŋ wʌn ˈɛvri ˈmɔrnɪŋ/"},
+{"vi":"So sánh giá trước khi mua thành thói quen rồi.","en":"Comparing prices before buying has become a habit now.","ipa":"/kəmˈpɛrɪŋ ˈpraɪsɪz bɪˈfɔr ˈbaɪɪŋ hæz bɪˈkʌm ə ˈhæbɪt naʊ/"}]},
+{"vi":"Mục tiêu tiết kiệm","en":"Savings goals","sentences":[
+{"vi":"Mình đặt mục tiêu tiết kiệm cọc mua nhà.","en":"I've set a goal to save for a house deposit.","ipa":"/aɪv sɛt ə ɡoʊl tə seɪv fər ə haʊs dɪˈpɑzɪt/"},
+{"vi":"Mỗi tháng mình tự động chuyển năm trăm sang tài khoản tiết kiệm.","en":"Every month I auto-transfer five hundred into my savings account.","ipa":"/ˈɛvri mʌnθ aɪ ˈɔtoʊ ˈtrænsfɜr faɪv ˈhʌndrəd ˈɪntu maɪ ˈseɪvɪŋz əˈkaʊnt/"},
+{"vi":"Pay yourself first — trả cho mình trước rồi mới chi.","en":"I pay myself first, then spend what's left.","ipa":"/aɪ peɪ maɪˈsɛlf fɜrst, ðɛn spɛnd wʌts lɛft/", "note":"pay yourself first = trích tiết kiệm ngay khi nhận lương"},
+{"vi":"Vậy khoảng hai năm nữa là đủ cọc rồi.","en":"At this rate I'll have enough for a deposit in about two years.","ipa":"/æt ðɪs reɪt aɪl hæv ɪˈnʌf fər ə dɪˈpɑzɪt ɪn əˈbaʊt tu jɪrz/"}]},
+{"vi":"Động viên nhau","en":"Encouraging each other","sentences":[
+{"vi":"Tiết kiệm chậm mà chắc, đừng nản.","en":"Slow and steady — don't get discouraged.","ipa":"/sloʊ ænd ˈstɛdi, doʊnt ɡɛt dɪˈskɜrəʤd/"},
+{"vi":"Bạn có mục tiêu tiết kiệm gì chưa?","en":"Do you have a savings goal yourself?","ipa":"/du ju hæv ə ˈseɪvɪŋz ɡoʊl jərˈsɛlf/"},
+{"vi":"Cùng nhau kiểm tra tiến độ mỗi tháng nhé.","en":"Let's check in on each other's progress every month.","ipa":"/lɛts tʃɛk ɪn ɑn ˈitʃ ˈʌðərz ˈprɑɡrɛs ˈɛvri mʌnθ/"},
+{"vi":"Nhìn số tiết kiệm tăng dần vui thật.","en":"Watching the savings grow feels so good.","ipa":"/ˈwɑtʃɪŋ ðə ˈseɪvɪŋz ɡroʊ filz soʊ ɡʊd/"}]}],
+"practice":["Tự kể 3 cách mình đang tiết kiệm tiền bằng tiếng Anh.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: hai bạn khuyên nhau tiết kiệm.","Ôn lại 5 câu khó nhất của Ngày 41 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Kể cách tiết kiệm","Ôn lại Ngày 41"]},
+
+{"day":43,"slug":"tham-quan-truong","emoji":"🏫","scenes":[
+{"vi":"Đến tham quan trường","en":"Arriving for the school tour","sentences":[
+{"vi":"Chúng tôi đến tham quan trường cho con gái sáu tuổi.","en":"We're here for the school tour — our daughter's six.","ipa":"/wir hɪr fər ðə skul tʊr, ˈaʊər ˈdɔtərz sɪks/"},
+{"vi":"Gia đình mình mới chuyển về khu này.","en":"We've just moved into the area.","ipa":"/wiv ʤʌst muvd ˈɪntu ði ˈɛriə/"},
+{"vi":"Con chúng tôi sẽ vào Prep năm tới.","en":"She'll be starting Prep next year.","ipa":"/ʃil bi ˈstɑrtɪŋ prɛp nɛkst jɪr/", "note":"Prep = lớp vừa lòng đầu tiên ở nhiều bang Úc"}]},
+{"vi":"Hỏi về chương trình","en":"Asking about the program","sentences":[
+{"vi":"Sĩ số mỗi lớp khoảng bao nhiêu em?","en":"What's the average class size?","ipa":"/wʌts ði ˈævrɪʤ klæs saɪz/"},
+{"vi":"Trường có chương trình ngoại khóa nào?","en":"What extracurricular activities do you offer?","ipa":"/wʌt ˌɛkstrəkəˈrɪkjələr ækˈtɪvɪtiz du ju ˈɔfər/"},
+{"vi":"Có lớp hỗ trợ cho trẻ mới qua Úc không?","en":"Is there support for kids new to English?","ipa":"/ɪz ðɛr səˈpɔrt fər kɪdz nu tə ˈɪŋɡlɪʃ/"},
+{"vi":"Before và after school care thế nào?","en":"How does the before and after school care work?","ipa":"/haʊ dʌz ðə bɪˈfɔr ænd ˈæftər skul kɛr wɜrk/"}]},
+{"vi":"Catchment & học phí","en":"Zone & fees","sentences":[
+{"vi":"Nhà tôi trong vùng catchment của trường không?","en":"Is our address inside the school zone?","ipa":"/ɪz ˈaʊər əˈdrɛs ɪnˈsaɪd ðə skul zoʊn/", "note":"school zone/catchment = vùng tuyến trường"},
+{"vi":"Trường public có thu phí gì thêm không?","en":"Are there any voluntary contributions or fees?","ipa":"/ɑr ðɛr ˈɛni ˈvɑlənˌtɛri ˌkɑntrɪˈbjuʃənz ɔr fiz/"},
+{"vi":"Chi phí đồng phục và sách vở khoảng bao nhiêu?","en":"Roughly how much are uniforms and books?","ipa":"/ˈrʌfli haʊ mʌtʃ ɑr ˈjunɪfɔrmz ænd bʊks/"},
+{"vi":"Trường có canteen bán đồ ăn trưa không?","en":"Does the school have a canteen for lunches?","ipa":"/dʌz ðə skul hæv ə kænˈtin fər ˈlʌntʃɪz/"}]},
+{"vi":"Quyết định & nộp hồ sơ","en":"Deciding & applying","sentences":[
+{"vi":"Trường đẹp, con thích lắm, cô nào cũng hiền.","en":"Lovely school — our daughter loved it and the teachers seem so kind.","ipa":"/ˈlʌvli skul, ˈaʊər ˈdɔtər lʌvd ɪt ænd ðə ˈtitʃərz sim soʊ kaɪnd/"},
+{"vi":"Thủ tục ghi danh như thế nào?","en":"What's the enrolment process?","ipa":"/wʌts ði ɪnˈroʊlmənt ˈprɑsɛs/"},
+{"vi":"Khi nào thì phải nộp hồ sơ để kịp năm tới?","en":"When do applications close for next year's intake?","ipa":"/wɛn du ˌæplɪˈkeɪʃənz kloʊz fər nɛkst jɪrz ˈɪnteɪk/"},
+{"vi":"Cảm ơn cô, chúng tôi sẽ nộp hồ sơ tuần này.","en":"Thank you — we'll put in our application this week.","ipa":"/θæŋk ju, wil pʊt ɪn ˈaʊər ˌæplɪˈkeɪʃən ðɪs wik/"}]}],
+"practice":["Tự nói 3 tiêu chí mình chọn trường cho con bằng tiếng Anh.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: phụ huynh hỏi — nhân viên trường giải đáp.","Ôn lại 5 câu khó nhất của Ngày 42 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Nói tiêu chí chọn trường","Ôn lại Ngày 42"]},
+
+{"day":44,"slug":"ghi-danh-truong","emoji":"✏️","scenes":[
+{"vi":"Đến văn phòng trường","en":"At the school office","sentences":[
+{"vi":"Tôi đến nộp hồ sơ ghi danh cho con.","en":"I'm here to submit an enrolment application for my daughter.","ipa":"/aɪm hɪr tə səbˈmɪt ən ɪnˈroʊlmənt ˌæplɪˈkeɪʃən fər maɪ ˈdɔtər/"},
+{"vi":"Cô giúp tôi điền form này được không?","en":"Could you help me fill in this form?","ipa":"/kʊd ju hɛlp mi fɪl ɪn ðɪs fɔrm/"},
+{"vi":"Phần này ghi thông tin người liên hệ khẩn cấp đúng không?","en":"This section's for emergency contact details, right?","ipa":"/ðɪs ˈsɛkʃənz fər ɪˈmɜrʤənsi ˈkɑntækt ˈditeɪlz raɪt/"}]},
+{"vi":"Giấy tờ cần thiết","en":"Required documents","sentences":[
+{"vi":"Đây là giấy khai sinh và hộ chiếu của con.","en":"Here's her birth certificate and passport.","ipa":"/hɪrz hɜr bɜrθ sərˈtɪfɪkət ænd ˈpæspɔrt/"},
+{"vi":"Bằng chứng địa chỉ là hóa đơn điện được không?","en":"Is a utility bill okay as proof of address?","ipa":"/ɪz ə juˈtɪlɪti bɪl oʊˈkeɪ æz pruf əv əˈdrɛs/"},
+{"vi":"Sổ tiêm chủng của con tôi cũng mang theo.","en":"I've also brought her immunisation records.","ipa":"/aɪv ˈɔlsoʊ brɔt hɜr ˌɪmjunəˈzeɪʃən ˈrɛkərdz/"},
+{"vi":"Còn cần giấy tờ gì nữa không cô?","en":"Is there anything else you need from us?","ipa":"/ɪz ðɛr ˈɛniθɪŋ ɛls ju nid frʌm ʌs/"}]},
+{"vi":"Hỏi ngày nhập học","en":"Start date & logistics","sentences":[
+{"vi":"Khi nào con chính thức vào học?","en":"When does she officially start?","ipa":"/wɛn dʌz ʃi əˈfɪʃəli stɑrt/"},
+{"vi":"Giờ vào học và tan trường mấy giờ?","en":"What are the school start and finish times?","ipa":"/wʌt ɑr ðə skul stɑrt ænd ˈfɪnɪʃ taɪmz/"},
+{"vi":"Đồng phục mua ở đâu vậy cô?","en":"Where do we buy the uniform?","ipa":"/wɛr du wi baɪ ðə ˈjunɪfɔrm/"},
+{"vi":"Con được xếp lớp như thế nào?","en":"How are students placed into classes?","ipa":"/haʊ ɑr ˈstudənts pleɪst ˈɪntu ˈklæsɪz/"}]},
+{"vi":"Trước ngày đi học","en":"Before the first day","sentences":[
+{"vi":"Trường có buổi orientation cho trẻ mới không?","en":"Is there an orientation day for new students?","ipa":"/ɪz ðɛr ən ˌɔriɛnˈteɪʃən deɪ fər nu ˈstudənts/"},
+{"vi":"Con hơi nhút nhát, cô giáo sẽ để ý con nhé.","en":"She's a bit shy — I hope her teacher will keep an eye on her.","ipa":"/ʃiz ə bɪt ʃaɪ, aɪ hoʊp hɜr ˈtitʃər wɪl kip ən aɪ ɑn hɜr/"},
+{"vi":"Chúng tôi cần chuẩn bị gì cho ngày đầu?","en":"What should we prepare for her first day?","ipa":"/wʌt ʃʊd wi ˌpriˈpɛr fər hɜr fɜrst deɪ/"},
+{"vi":"Cảm ơn cô, tụi tôi mong ngày con vào học.","en":"Thank you — we're really looking forward to her starting.","ipa":"/θæŋk ju, wir ˈrili ˈlʊkɪŋ ˈfɔrwərd tə hɜr ˈstɑrtɪŋ/"}]}],
+"practice":["Tự nói giấy tờ cần mang khi ghi danh bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: phụ huynh nộp hồ sơ — nhân viên trường hướng dẫn.","Ôn lại 5 câu khó nhất của Ngày 43 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Kể giấy tờ ghi danh","Ôn lại Ngày 43"]}
+]}

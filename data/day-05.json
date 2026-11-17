@@ -1,0 +1,57 @@
+{
+  "day": 5,
+  "slug": "di-cho",
+  "emoji": "🥬",
+  "scenes": [
+    {
+      "vi": "Đến chợ & dạo một vòng",
+      "en": "Arriving & walking around",
+      "sentences": [
+        {"vi": "Chợ hôm nay đông thật, toàn người đi mua đồ cuối tuần.", "en": "The market is packed today — everyone's doing their weekend shopping.", "ipa": "/ðə ˈmɑrkɪt ɪz pækt təˈdeɪ, ˈɛvriwʌnz ˈduɪŋ ðɛr ˈwikɛnd ˈʃɑpɪŋ/"},
+        {"vi": "Mình đi một vòng xem giá trước rồi hãy mua.", "en": "Let me walk around and check prices first.", "ipa": "/lɛt mi wɔk əˈraʊnd ænd tʃɛk ˈpraɪsɪz fɜrst/"},
+        {"vi": "Sạp này rau nhìn tươi hơn sạp kia.", "en": "The veggies at this stall look fresher than that one.", "ipa": "/ðə ˈvɛʤɪz æt ðɪs stɔl lʊk ˈfrɛʃər ðæn ðæt wʌn/"},
+        {"vi": "Thơm quá, ai đó đang bán bánh xèo kìa.", "en": "Something smells amazing — someone's selling bánh xèo over there.", "ipa": "/ˈsʌmθɪŋ smɛlz əˈmeɪzɪŋ, ˈsʌmwʌnz ˈsɛlɪŋ bæŋ seɪoʊ ˈoʊvər ðɛr/"}
+      ]
+    },
+    {
+      "vi": "Hỏi giá & mặc cả",
+      "en": "Asking prices & bargaining",
+      "sentences": [
+        {"vi": "Cái này bao nhiêu tiền một ký vậy cô?", "en": "How much is this per kilo?", "ipa": "/haʊ mʌtʃ ɪz ðɪs pər ˈkiloʊ/"},
+        {"vi": "Mắc quá cô ơi, bớt cho con đi.", "en": "That's a bit steep — can you give me a better price?", "ipa": "/ðæts ə bɪt stip, kæn ju ɡɪv mi ə ˈbɛtər praɪs/"},
+        {"vi": "Con mua hai ký, cô tính rẻ cho con nhé.", "en": "If I buy two kilos, can you do a better deal?", "ipa": "/ɪf aɪ baɪ tu ˈkiloʊz, kæn ju du ə ˈbɛtər dil/", "note": "do a deal = tính giá tốt cho nhau"},
+        {"vi": "Cô bán bao lâu nay rồi, hàng nhìn chất lượng ghê.", "en": "Your produce looks great quality — have you been here long?", "ipa": "/jʊr ˈproʊdus lʊks ɡreɪt ˈkwɑlɪti, hæv ju bɪn hɪr lɔŋ/", "actor": "khen trước khi trả giá"},
+        {"vi": "Thôi được rồi, chốt giá đó đi cô.", "en": "Alright, you've got a deal.", "ipa": "/ɔlˈraɪt, juv ɡɑt ə dil/"}
+      ]
+    },
+    {
+      "vi": "Mua trái cây & cá",
+      "en": "Buying fruit & fish",
+      "sentences": [
+        {"vi": "Xoài này chín chưa, ăn liền được không cô?", "en": "Are these mangoes ripe enough to eat now?", "ipa": "/ɑr ðiz ˈmæŋɡoʊz raɪp ɪˈnʌf tə it naʊ/"},
+        {"vi": "Cho con xin một nắm rau thơm với.", "en": "Can you throw in a handful of herbs?", "ipa": "/kæn ju θroʊ ɪn ə ˈhændfʊl əv ɜrbz/", "note": "throw in = cho thêm, xin kèm"},
+        {"vi": "Con cá này còn tươi không, mắt nó còn sáng không?", "en": "Is this fish fresh? Are the eyes still clear?", "ipa": "/ɪz ðɪs fɪʃ frɛʃ, ɑr ði aɪz stɪl klɪr/"},
+        {"vi": "Làm ơn lọc cá và cắt khúc giúp con.", "en": "Could you fillet it and cut it into pieces, please?", "ipa": "/kʊd ju fɪˈleɪ ɪt ænd kʌt ɪt ˈɪntu ˈpisɪz pliz/"},
+        {"vi": "Tổng cộng hết bao nhiêu vậy cô?", "en": "How much is everything altogether?", "ipa": "/haʊ mʌtʃ ɪz ˈɛvriθɪŋ ˌɔltəˈɡɛðər/"}
+      ]
+    },
+    {
+      "vi": "Thanh toán & kết thúc",
+      "en": "Paying & wrapping up",
+      "sentences": [
+        {"vi": "Cô nhận chuyển khoản không hay tiền mặt thôi?", "en": "Do you take bank transfer or cash only?", "ipa": "/du ju teɪk bæŋk ˈtrænsfɜr ɔr kæʃ ˈoʊnli/"},
+        {"vi": "Con quét mã QR này được không cô?", "en": "Can I scan this QR code to pay?", "ipa": "/kæn aɪ skæn ðɪs kju ɑr koʊd tə peɪ/"},
+        {"vi": "Cho con xin thêm một cái túi nữa.", "en": "Could I get an extra bag, please?", "ipa": "/kʊd aɪ ɡɛt ən ˈɛkstrə bæɡ pliz/"},
+        {"vi": "Cảm ơn cô, tuần sau con ghé lại nha.", "en": "Thanks! I'll be back next week.", "ipa": "/θæŋks, aɪl bi bæk nɛkst wik/"},
+        {"vi": "Mua xong rồi, về nấu bữa trưa cho cả nhà.", "en": "All done — time to head home and cook lunch for the family.", "ipa": "/ɔl dʌn, taɪm tə hɛd hoʊm ænd kʊk lʌntʃ fər ðə ˈfæmɪli/"}
+      ]
+    }
+  ],
+  "practice": [
+    "Tập mặc cả: tự đặt giá cao rồi trả giá bằng câu 'That's a bit steep — can you do better?'",
+    "Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.",
+    "Đóng vai cả hai phía: người mua trả giá — người bán nêu giá.",
+    "Ôn lại 5 câu khó nhất của Ngày 4 trước khi bắt đầu."
+  ],
+  "checks": ["Đọc to 23 câu", "Mặc cả không nhìn chữ", "Ôn lại Ngày 4"]
+}

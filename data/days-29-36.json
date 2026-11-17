@@ -1,0 +1,189 @@
+{"days":[
+{"day":29,"slug":"xem-xe-cu","emoji":"🚗","scenes":[
+{"vi":"Đến xem xe","en":"Going to see the car","sentences":[
+{"vi":"Mình đến xem chiếc xe quảng cáo trên Facebook.","en":"I'm here about the car you advertised on Marketplace.","ipa":"/aɪm hɪr əˈbaʊt ðə kɑr ju ˈædvərˌtaɪzd ɑn ˈmɑrkɪtˌpleɪs/"},
+{"vi":"Xe chạy được bao nhiêu cây số rồi?","en":"How many k's has it done?","ipa":"/haʊ ˈmɛni keɪz hæz ɪt dʌn/", "note":"k's = kilometres, nói tắt rất đời"},
+{"vi":"Xe có từng bị đâm không?","en":"Has it ever been in an accident?","ipa":"/hæz ɪt ˈɛvər bɪn ɪn ən ˈæksɪdənt/"},
+{"vi":"Xe một chủ hay đã qua nhiều đời chủ?","en":"Are you the original owner, or has it had a few?","ipa":"/ɑr ju ði əˈrɪʤənəl ˈoʊnər, ɔr hæz ɪt hæd ə fju/"}]},
+{"vi":"Kiểm tra xe","en":"Inspecting the car","sentences":[
+{"vi":"Mình mở máy xem động cơ được không?","en":"Mind if I take a look under the bonnet?","ipa":"/maɪnd ɪf aɪ teɪk ə lʊk ˈʌndər ðə ˈbɑnɪt/", "note":"bonnet = nắp capo (Úc/Anh); Mỹ nói hood"},
+{"vi":"Lốp còn khá mới, thay gần đây phải không?","en":"The tyres look pretty new — replaced recently?","ipa":"/ðə taɪərz lʊk ˈprɪti nu, rɪˈpleɪst ˈrisəntli/"},
+{"vi":"Trong xe có mùi thuốc lá không ta?","en":"Does it smell like smoke in here, or is that just me?","ipa":"/dʌz ɪt smɛl laɪk smoʊk ɪn hɪr, ɔr ɪz ðæt ʤʌst mi/"},
+{"vi":"Hệ thống điều hòa còn mát tốt không?","en":"Does the air con still blow cold?","ipa":"/dʌz ði ɛr kɑn stɪl bloʊ koʊld/", "note":"air con = máy lạnh xe"}]},
+{"vi":"Lịch sử bảo dưỡng","en":"Service history","sentences":[
+{"vi":"Xe có sổ bảo dưỡng đầy đủ không?","en":"Does it come with a full service history?","ipa":"/dʌz ɪt kʌm wɪð ə fʊl ˈsɜrvɪs ˈhɪstəri/"},
+{"vi":"Lần thay nhớt gần nhất là khi nào?","en":"When was the last oil change?","ipa":"/wɛn wʌz ðə læst ɔɪl tʃeɪnʤ/"},
+{"vi":"Đăng kiểm còn hạn bao lâu?","en":"How much rego is left on it?","ipa":"/haʊ mʌtʃ ˈrɛʤoʊ ɪz lɛft ɑn ɪt/", "note":"rego = đăng kiểm/đăng ký xe (tiếng Úc)"},
+{"vi":"Có giấy kiểm tra RWC chưa?","en":"Do you have a roadworthy certificate?","ipa":"/du ju hæv ə ˈroʊdˌwɜrði sərˈtɪfɪkət/", "note":"RWC = giấy chứng nhận an toàn xe khi bán ở Úc"}]},
+{"vi":"Chạy thử","en":"Taking it for a spin","sentences":[
+{"vi":"Mình chạy thử một vòng được không?","en":"Can I take it for a test drive?","ipa":"/kæn aɪ teɪk ɪt fər ə tɛst draɪv/"},
+{"vi":"Phanh xe hơi mềm một chút đúng không?","en":"The brakes feel a bit soft, don't they?","ipa":"/ðə breɪks fil ə bɪt sɔft, doʊnt ðeɪ/"},
+{"vi":"Số sàn sang số êm, không giật.","en":"The gearbox shifts smoothly — no jerking at all.","ipa":"/ðə ˈɡɪrbɑks ʃɪfts ˈsmuðli, noʊ ˈʤɜrkɪŋ æt ɔl/"},
+{"vi":"Xe lái khá ổn, mình sẽ nghĩ lại rồi báo anh.","en":"It drives well — I'll think about it and let you know.","ipa":"/ɪt draɪvz wɛl, aɪl θɪŋk əˈbaʊt ɪt ænd lɛt ju noʊ/"}]}],
+"practice":["Tự kể tiêu chí chọn xe cũ của mình bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: người mua hỏi — người bán trả lời.","Ôn lại 5 câu khó nhất của Ngày 28 trước khi bắt đầu."],
+"checks":["Đọc to 20 câu","Kể tiêu chí chọn xe","Ôn lại Ngày 28"]},
+
+{"day":30,"slug":"mac-ca-xe","emoji":"🤝","scenes":[
+{"vi":"Mở đầu thương lượng","en":"Opening the negotiation","sentences":[
+{"vi":"Xe đẹp đấy, nhưng giá hơi cao so với thị trường.","en":"It's a nice car, but the price is a bit above market.","ipa":"/ɪts ə naɪs kɑr, bət ðə praɪs ɪz ə bɪt əˈbʌv ˈmɑrkɪt/"},
+{"vi":"Mình xem vài chiếc tương tự rẻ hơn hai ngàn.","en":"I've seen similar ones going for two grand less.","ipa":"/aɪv sin sɪˈmɪlər wʌnz ˈɡoʊɪŋ fər tu ɡrænd lɛs/", "note":"two grand = hai nghìn"},
+{"vi":"Anh có chịu thương lượng giá không?","en":"Is there any wiggle room on the price?","ipa":"/ɪz ðɛr ˈɛni ˈwɪɡəl rum ɑn ðə praɪs/", "note":"wiggle room = khoảng nhường"}]},
+{"vi":"Chỉ ra điểm trừ","en":"Pointing out flaws","sentences":[
+{"vi":"Lốp sắp phải thay rồi, tốn thêm mấy trăm.","en":"The tyres will need replacing soon — that's a few hundred.","ipa":"/ðə taɪərz wɪl nid rɪˈpleɪsɪŋ sun, ðæts ə fju ˈhʌndrəd/"},
+{"vi":"Hóa đơn bảo dưỡng bị thiếu hai kỳ.","en":"The service history has a couple of gaps in it.","ipa":"/ðə ˈsɜrvɪs ˈhɪstəri hæz ə ˈkʌpəl əv ɡæps ɪn ɪt/"},
+{"vi":"Đèn pha bên trái hơi mờ, chắc phải thay bóng.","en":"The left headlight's a bit dim — probably needs a new bulb.","ipa":"/ðə lɛft ˈhɛdlaɪts ə bɪt dɪm, ˈprɑbəbli nidz ə nu bʌlb/"},
+{"vi":"Trầy xước ở cản sau cũng tốn tiền sửa.","en":"There's a scratch on the rear bumper that'll cost to fix.","ipa":"/ðɛrz ə skrætʃ ɑn ðə rɪr ˈbʌmpər ðætl kɔst tə fɪks/"}]},
+{"vi":"Trả giá","en":"Making an offer","sentences":[
+{"vi":"Mình trả được mười hai ngàn, anh thấy sao?","en":"I could do twelve thousand — how does that sound?","ipa":"/aɪ kʊd du twɛlv ˈθaʊzənd, haʊ dʌz ðæt saʊnd/"},
+{"vi":"Gặp giữa nhé, mười hai rưỡi được không?","en":"Can we meet in the middle at twelve and a half?","ipa":"/kæn wi mit ɪn ðə ˈmɪdəl æt twɛlv ænd ə hæf/", "note":"meet in the middle = gặp nhau giữa chừng"},
+{"vi":"Giá đó mình trả liền hôm nay luôn.","en":"At that price I can pay you today.","ipa":"/æt ðæt praɪs aɪ kæn peɪ ju təˈdeɪ/"},
+{"vi":"Anh đồng ý thì mình chuyển khoản cọc ngay.","en":"If you agree, I'll transfer a deposit right now.","ipa":"/ɪf ju əˈɡri, aɪl trænsˈfɜr ə dɪˈpɑzɪt raɪt naʊ/"}]},
+{"vi":"Chốt & thủ tục","en":"Closing the deal","sentences":[
+{"vi":"Chốt nhé, mình cầm tay nói lời luôn.","en":"Deal — let's shake on it.","ipa":"/dil, lɛts ʃeɪk ɑn ɪt/"},
+{"vi":"Mình viết giấy biên nhận bán xe nhé.","en":"Let's write up a receipt of sale.","ipa":"/lɛts raɪt ʌp ə rɪˈsit əv seɪl/"},
+{"vi":"Thủ tục sang tên làm ở đâu vậy?","en":"Where do we do the ownership transfer?","ipa":"/wɛr du wi du ði ˈoʊnərʃɪp ˈtrænsfɜr/"},
+{"vi":"Khi nào mình qua lấy xe được?","en":"When can I come pick it up?","ipa":"/wɛn kæn aɪ kʌm pɪk ɪt ʌp/"}]}],
+"practice":["Tập trả giá một món đồ khác bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: người mua trả giá — người bán nhường.","Ôn lại 5 câu khó nhất của Ngày 29 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Trả giá không nhìn chữ","Ôn lại Ngày 29"]},
+
+{"day":31,"slug":"sua-xe","emoji":"🔧","scenes":[
+{"vi":"Đưa xe vào tiệm","en":"Dropping the car off","sentences":[
+{"vi":"Xe mình kêu lạ mỗi khi thắng.","en":"My car's making a weird noise when I brake.","ipa":"/maɪ kɑrz ˈmeɪkɪŋ ə wɪrd nɔɪz wɛn aɪ breɪk/"},
+{"vi":"Tiếng kêu như kim loại cọ vào nhau.","en":"It's like a metal-on-metal grinding sound.","ipa":"/ɪts laɪk ə ˈmɛtəl ɑn ˈmɛtəl ˈɡraɪndɪŋ saʊnd/"},
+{"vi":"Tiếng đó bắt đầu từ tuần trước thôi.","en":"It started about a week ago.","ipa":"/ɪt ˈstɑrtɪd əˈbaʊt ə wik əˈɡoʊ/"},
+{"vi":"Mình để xe lại đây được chứ?","en":"Can I leave it with you for the day?","ipa":"/kæn aɪ liv ɪt wɪð ju fər ðə deɪ/"}]},
+{"vi":"Nghe chẩn đoán","en":"Hearing the diagnosis","sentences":[
+{"vi":"Thợ nói má phanh mòn hết rồi.","en":"The mechanic says the brake pads are completely worn.","ipa":"/ðə məˈkænɪk sɛz ðə breɪk pædz ɑr kəmˈplitli wɔrn/"},
+{"vi":"Có phải thay cả đĩa phanh không?","en":"Do the rotors need replacing too?","ipa":"/du ðə ˈroʊtərz nid rɪˈpleɪsɪŋ tu/"},
+{"vi":"Sửa vậy có an toàn để chạy về không?","en":"Is it safe to drive, or should I leave it here?","ipa":"/ɪz ɪt seɪf tə draɪv, ɔr ʃʊd aɪ liv ɪt hɪr/"},
+{"vi":"Có cách nào rẻ hơn mà vẫn an toàn không?","en":"Is there a cheaper option that's still safe?","ipa":"/ɪz ðɛr ə ˈtʃipər ˈɑpʃən ðæts stɪl seɪf/"}]},
+{"vi":"Báo giá & thời gian","en":"Quote & timeframe","sentences":[
+{"vi":"Báo giá trọn gói bao nhiêu vậy?","en":"How much for the whole job, all in?","ipa":"/haʊ mʌtʃ fər ðə hoʊl ʤɑb, ɔl ɪn/", "note":"all in = trọn gói"},
+{"vi":"Giá đó gồm phụ tùng và công rồi chứ?","en":"Does that include parts and labour?","ipa":"/dʌz ðæt ɪnˈklud pɑrts ænd ˈleɪbər/"},
+{"vi":"Sửa xong mất mấy tiếng?","en":"How long will the job take?","ipa":"/haʊ lɔŋ wɪl ðə ʤɑb teɪk/"},
+{"vi":"Bạn có xe đi lại tạm cho mình không?","en":"Do you have a loan car I can use meanwhile?","ipa":"/du ju hæv ə loʊn kɑr aɪ kæn juz ˈminwaɪl/"}]},
+{"vi":"Lấy xe về","en":"Picking it up","sentences":[
+{"vi":"Xe chạy êm hẳn, không còn kêu nữa.","en":"It's driving so smoothly now — no more noise.","ipa":"/ɪts ˈdraɪvɪŋ soʊ ˈsmuðli naʊ, noʊ mɔr nɔɪz/"},
+{"vi":"Phụ tùng cũ cho mình xem được không?","en":"Can I see the old parts you took out?","ipa":"/kæn aɪ si ði oʊld pɑrts ju tʊk aʊt/"},
+{"vi":"Công sửa có bảo hành bao lâu?","en":"Is the work under warranty?","ipa":"/ɪz ðə wɜrk ˈʌndər ˈwɔrənti/"},
+{"vi":"Cảm ơn anh, lần sau em ghé bảo dưỡng luôn.","en":"Thanks — I'll come back for the next service.","ipa":"/θæŋks, aɪl kʌm bæk fər ðə nɛkst ˈsɜrvɪs/"}]}],
+"practice":["Tự tả một tiếng kêu lạ của xe bằng 2 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: khách mô tả — thợ báo giá.","Ôn lại 5 câu khó nhất của Ngày 30 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Tả tiếng kêu xe","Ôn lại Ngày 30"]},
+
+{"day":32,"slug":"thay-nhot","emoji":"🛢️","scenes":[
+{"vi":"Đặt lịch bảo dưỡng","en":"Booking the service","sentences":[
+{"vi":"Mình đặt lịch bảo dưỡng định kỳ cho xe.","en":"I'd like to book my car in for a scheduled service.","ipa":"/aɪd laɪk tə bʊk maɪ kɑr ɪn fər ə ˈskɛʤuld ˈsɜrvɪs/"},
+{"vi":"Xe chạy được một vạn km kể từ lần trước.","en":"It's done about ten thousand k's since the last one.","ipa":"/ɪts dʌn əˈbaʊt tɛn ˈθaʊzənd keɪz sɪns ðə læst wʌn/"},
+{"vi":"Sáng thứ bảy có chỗ trống không?","en":"Do you have a spot on Saturday morning?","ipa":"/du ju hæv ə spɑt ɑn ˈsætərdeɪ ˈmɔrnɪŋ/"}]},
+{"vi":"Những gì cần làm","en":"What needs doing","sentences":[
+{"vi":"Thay nhớt và lọc nhớt luôn nhé.","en":"An oil and filter change, please.","ipa":"/ən ɔɪl ænd ˈfɪltər tʃeɪnʤ pliz/"},
+{"vi":"Bạn kiểm tra phanh và lốp giúp mình luôn.","en":"Could you check the brakes and tyres while you're at it?","ipa":"/kʊd ju tʃɛk ðə breɪks ænd taɪərz waɪl jʊr æt ɪt/", "note":"while you're at it = nhân tiện làm luôn"},
+{"vi":"Xoay lốp để mòn đều nhé.","en":"Can you rotate the tyres so they wear evenly?","ipa":"/kæn ju ˈroʊteɪt ðə taɪərz soʊ ðeɪ wɛr ˈivənli/"},
+{"vi":"Kiểm tra luôn nước làm mát và nước rửa kính.","en":"Top up the coolant and washer fluid too, please.","ipa":"/tɑp ʌp ðə ˈkulənt ænd ˈwɑʃər ˈfluɪd tu pliz/"}]},
+{"vi":"Giá & thời gian","en":"Cost & pickup time","sentences":[
+{"vi":"Bảo dưỡng lần này khoảng bao nhiêu tiền?","en":"Roughly how much will this service cost?","ipa":"/ˈrʌfli haʊ mʌtʃ wɪl ðɪs ˈsɜrvɪs kɔst/"},
+{"vi":"Nếu phát hiện thêm lỗi thì báo mình trước nhé.","en":"Call me first if you find anything else wrong.","ipa":"/kɔl mi fɜrst ɪf ju faɪnd ˈɛniθɪŋ ɛls rɔŋ/"},
+{"vi":"Khoảng mấy giờ mình qua lấy xe?","en":"What time should I pick it up?","ipa":"/wʌt taɪm ʃʊd aɪ pɪk ɪt ʌp/"},
+{"vi":"Giữ chỗ đậu xe có khó không để mình tính giờ.","en":"Is parking easy there, so I know when to arrive?","ipa":"/ɪz ˈpɑrkɪŋ ˈizi ðɛr, soʊ aɪ noʊ wɛn tə əˈraɪv/"}]},
+{"vi":"Lấy xe","en":"Collecting the car","sentences":[
+{"vi":"Mọi thứ ổn chứ, có gì bất thường không?","en":"How did it go — anything unusual come up?","ipa":"/haʊ dɪd ɪt ɡoʊ, ˈɛniθɪŋ ʌnˈjuʒuəl kʌm ʌp/"},
+{"vi":"Phanh tốt rồi, lốp còn mòn ít nữa mới thay.","en":"Brakes are fine; the tyres have a bit more wear left.","ipa":"/breɪks ɑr faɪn, ðə taɪərz hæv ə bɪt mɔr wɛr lɛft/", "actor": "thợ"},
+{"vi":"Lần bảo dưỡng kế tiếp là mười vạn nữa phải không?","en":"So the next one's due at another ten thousand k's?","ipa":"/soʊ ðə nɛkst wʌnz du æt əˈnʌðər tɛn ˈθaʊzənd keɪz/"},
+{"vi":"Cảm ơn anh, xe chạy nhẹ hẳn.","en":"Thanks — the car feels brand new again.","ipa":"/θæŋks, ðə kɑr filz brænd nu əˈɡɛn/"}]}],
+"practice":["Tự nói lại những hạng mục bảo dưỡng xe bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: khách đặt lịch — nhân viên gara.","Ôn lại 5 câu khó nhất của Ngày 31 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Nói hạng mục bảo dưỡng","Ôn lại Ngày 31"]},
+
+{"day":33,"slug":"bao-hiem-xe","emoji":"🛡️","scenes":[
+{"vi":"Tìm hiểu gói bảo hiểm","en":"Looking into cover options","sentences":[
+{"vi":"Mình mua bảo hiểm cho chiếc xe vừa mua.","en":"I need insurance for a car I just bought.","ipa":"/aɪ nid ɪnˈʃʊrəns fər ə kɑr aɪ ʤʌst bɔt/"},
+{"vi":"Gói comprehensive với third party khác nhau sao?","en":"What's the difference between comprehensive and third party?","ipa":"/wʌts ðə ˈdɪfərəns bɪˈtwin ˌkɑmprɪˈhɛnsɪv ænd θɜrd ˈpɑrti/"},
+{"vi":"Gói rẻ nhất cover những gì?","en":"What does the cheapest option cover?","ipa":"/wʌt dʌz ðə ˈtʃipɪst ˈɑpʃən ˈkʌvər/"},
+{"vi":"Tai nạn do lỗi mình thì có được đền không?","en":"Am I covered if the accident's my fault?","ipa":"/æm aɪ ˈkʌvərd ɪf ði ˈæksɪdənts maɪ fɔlt/"}]},
+{"vi":"Khai thông tin","en":"Giving your details","sentences":[
+{"vi":"Xe mình đời hai mươi mười tám, chạy chín vạn.","en":"It's a 2018 model with ninety thousand k's.","ipa":"/ɪts ə twɛnti ˈeɪtin ˈmɑdəl wɪð ˈnaɪnti ˈθaʊzənd keɪz/"},
+{"vi":"Mình lái xe được tám năm, không claim lần nào.","en":"I've been driving eight years with no claims.","ipa":"/aɪv bɪn ˈdraɪvɪŋ eɪt jɪrz wɪð noʊ kleɪmz/"},
+{"vi":"Xe đậu trong gara ban đêm.","en":"The car's parked in a garage overnight.","ipa":"/ðə kɑrz pɑrkt ɪn ə ˈɡɑrɑʤ ˈoʊvərˌnaɪt/"},
+{"vi":"Mình dùng xe đi làm, chạy khoảng mười lăm cây một ngày.","en":"I mainly use it for commuting — about fifteen k's a day.","ipa":"/aɪ ˈmeɪnli juz ɪt fər kəˈmjutɪŋ, əˈbaʊt ˈfɪftin keɪz ə deɪ/"}]},
+{"vi":"Giá & excess","en":"Premium & excess","sentences":[
+{"vi":"Premium hàng tháng bao nhiêu?","en":"How much is the monthly premium?","ipa":"/haʊ mʌtʃ ɪz ðə ˈmʌnθli ˈprimiəm/"},
+{"vi":"Excess là mình tự trả khi có claim đúng không?","en":"The excess is what I pay myself when I claim, right?","ipa":"/ði ɪkˈsɛs ɪz wʌt aɪ peɪ maɪˈsɛlf wɛn aɪ kleɪm raɪt/"},
+{"vi":"Excess cao hơn thì premium rẻ hơn phải không?","en":"A higher excess means a cheaper premium?","ipa":"/ə ˈhaɪər ɪkˈsɛs minz ə ˈtʃipər ˈprimiəm/"},
+{"vi":"Trả theo năm có được giảm không?","en":"Is it cheaper if I pay annually?","ipa":"/ɪz ɪt ˈtʃipər ɪf aɪ peɪ ˈænjuəli/"}]},
+{"vi":"Chốt hợp đồng","en":"Signing up","sentences":[
+{"vi":"Vậy mình lấy gói comprehensive, excess năm trăm.","en":"I'll go with comprehensive and a five hundred excess.","ipa":"/aɪl ɡoʊ wɪð ˌkɑmprɪˈhɛnsɪv ænd ə faɪv ˈhʌndrəd ɪkˈsɛs/"},
+{"vi":"Bảo hiểm có hiệu lực từ hôm nay luôn không?","en":"Does the cover start today?","ipa":"/dʌz ðə ˈkʌvər stɑrt təˈdeɪ/"},
+{"vi":"Giấy chứng nhận gửi qua email đúng không?","en":"You'll email me the certificate of currency?","ipa":"/jul ˈimeɪl mi ðə sərˈtɪfɪkət əv ˈkɜrənsi/"},
+{"vi":"Có cửa sổ hủy miễn phí không?","en":"Is there a cooling-off period if I change my mind?","ipa":"/ɪz ðɛr ə ˈkulɪŋ ɔf ˈpɪriəd ɪf aɪ tʃeɪnʤ maɪ maɪnd/"}]}],
+"practice":["Tự giải thích comprehensive vs third party bằng 2 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: khách hỏi gói — nhân viên bảo hiểm tư vấn.","Ôn lại 5 câu khó nhất của Ngày 32 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Giải thích hai loại bảo hiểm","Ôn lại Ngày 32"]},
+
+{"day":34,"slug":"canh-sat-giao-thong","emoji":"🚓","scenes":[
+{"vi":"Bị dừng xe","en":"Getting pulled over","sentences":[
+{"vi":"Đèn sau xe có cảnh sát xi nhan, chắc bị dừng rồi.","en":"There's a police car behind me with its lights on — I'm being pulled over.","ipa":"/ðɛrz ə pəˈlis kɑr bɪˈhaɪnd mi wɪð ɪts laɪts ɑn, aɪm ˈbiɪŋ pʊld ˈoʊvər/"},
+{"vi":"Mình tấp vào lề an toàn rồi tắt máy.","en":"I'll pull over safely and turn off the engine.","ipa":"/aɪl pʊl ˈoʊvər ˈseɪfli ænd tɜrn ɔf ði ˈɛnʤɪn/"},
+{"vi":"Hai tay để lên vô lăng cho rõ ràng.","en":"I'll keep both hands on the wheel where they can see them.","ipa":"/aɪl kip boʊθ hændz ɑn ðə wil wɛr ðeɪ kæn si ðɛm/"}]},
+{"vi":"Nói chuyện với cảnh sát","en":"Speaking with the officer","sentences":[
+{"vi":"Chào anh, có chuyện gì vậy ạ?","en":"Good afternoon, officer — is there a problem?","ipa":"/ɡʊd ˌæftərˈnun əˈfɪsər, ɪz ðɛr ə ˈprɑbləm/"},
+{"vi":"Anh có biết mình đang chạy bao nhiêu không?","en":"Do you know how fast you were going?","ipa":"/du ju noʊ haʊ fæst ju wɜr ˈɡoʊɪŋ/", "actor": "cảnh sát"},
+{"vi":"Em nghĩ khoảng sáu mươi, đúng giới hạn.","en":"I thought I was doing about sixty — the speed limit.","ipa":"/aɪ θɔt aɪ wʌz ˈduɪŋ əˈbaʊt ˈsɪksti, ðə spid ˈlɪmɪt/"},
+{"vi":"Đây là bằng lái và giấy tờ xe của em.","en":"Here's my licence and the car's registration.","ipa":"/hɪrz maɪ ˈlaɪsəns ænd ðə kɑrz ˌrɛʤɪˈstreɪʃən/"}]},
+{"vi":"Giải thích & xin lỗi","en":"Explaining yourself","sentences":[
+{"vi":"Em xin lỗi, em không để ý tốc độ.","en":"I'm sorry, officer — I wasn't paying attention to my speed.","ipa":"/aɪm ˈsɑri əˈfɪsər, aɪ ˈwʌzənt ˈpeɪɪŋ əˈtɛnʃən tə maɪ spid/"},
+{"vi":"Đoạn này đổ dốc nên xe hơi trôi nhanh.","en":"This stretch is downhill, so the car picked up speed.","ipa":"/ðɪs strɛtʃ ɪz ˈdaʊnhɪl, soʊ ðə kɑr pɪkt ʌp spid/"},
+{"vi":"Em sẽ chú ý hơn từ giờ trở đi.","en":"I'll definitely be more careful from now on.","ipa":"/aɪl ˈdɛfɪnətli bi mɔr ˈkɛrfəl frʌm naʊ ɑn/"}]},
+{"vi":"Nhận cảnh cáo / phạt","en":"The outcome","sentences":[
+{"vi":"Lần này chỉ cảnh cáo, lần sau phạt đấy.","en":"I'll let you off with a warning this time.","ipa":"/aɪl lɛt ju ɔf wɪð ə ˈwɔrnɪŋ ðɪs taɪm/", "actor": "cảnh sát"},
+{"vi":"Em cảm ơn anh nhiều, em hiểu rồi.","en":"Thank you so much — I really appreciate it.","ipa":"/θæŋk ju soʊ mʌtʃ, aɪ ˈrili əˈpriʃieɪt ɪt/"},
+{"vi":"Phạt online nộp trong bao lâu vậy anh?","en":"How long do I have to pay the fine online?","ipa":"/haʊ lɔŋ du aɪ hæv tə peɪ ðə faɪn ɑnˈlaɪn/"},
+{"vi":"Bài học nhớ đời, lái xe phải để ý hơn.","en":"Lesson learned — I need to watch my speed properly.","ipa":"/ˈlɛsən lɜrnd, aɪ nid tə wɑtʃ maɪ spid ˈprɑpərli/"},
+{"vi":"Từ giờ em sẽ luôn để mắt tới đồng hồ tốc độ.","en":"From now on I'll keep a proper eye on my speedo.","ipa":"/frʌm naʊ ɑn aɪl kip ə ˈprɑpər aɪ ɑn maɪ ˈspidoʊ/","note":"speedo = đồng hồ tốc độ (đời thường)"}]}],
+"practice":["Tự kể một lần bị bắt tốc độ/vi phạm bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: cảnh sát hỏi — tài xế giải thích.","Ôn lại 5 câu khó nhất của Ngày 33 trước khi bắt đầu."],
+"checks":["Đọc to 18 câu","Kể lần vi phạm","Ôn lại Ngày 33"]},
+
+{"day":35,"slug":"thue-xe","emoji":"🚙","scenes":[
+{"vi":"Đến quầy thuê xe","en":"At the rental desk","sentences":[
+{"vi":"Mình đặt online trước rồi, họ Tran.","en":"I have a booking under the name Tran.","ipa":"/aɪ hæv ə ˈbʊkɪŋ ˈʌndər ðə neɪm træn/"},
+{"vi":"Mình muốn thuê một chiếc nhỏ cho cuối tuần.","en":"I'd like a small car for the weekend.","ipa":"/aɪd laɪk ə smɔl kɑr fər ðə ˈwikɛnd/"},
+{"vi":"Có xe tự động không, mình không lái số sàn.","en":"Do you have an automatic? I can't drive manual.","ipa":"/du ju hæv ən ˌɔtəˈmætɪk, aɪ kænt draɪv ˈmænjuəl/"},
+{"vi":"Có sẵn GPS hay mình dùng điện thoại được không?","en":"Does it come with GPS, or can I just use my phone?","ipa":"/dʌz ɪt kʌm wɪð ʤi pi ɛs, ɔr kæn aɪ ʤʌst juz maɪ foʊn/"}]},
+{"vi":"Giá & điều kiện","en":"Rates & conditions","sentences":[
+{"vi":"Giá theo ngày là bao nhiêu?","en":"What's the daily rate?","ipa":"/wʌts ðə ˈdeɪli reɪt/"},
+{"vi":"Có giới hạn số km chạy không?","en":"Is there a kilometre limit?","ipa":"/ɪz ðɛr ə ˈkɪləˌmitər ˈlɪmɪt/"},
+{"vi":"Vượt km tính thêm bao nhiêu một cây?","en":"How much extra per kilometre if I go over?","ipa":"/haʊ mʌtʃ ˈɛkstrə pər ˈkɪləˌmitər ɪf aɪ ɡoʊ ˈoʊvər/"},
+{"vi":"Trả xe đầy bình hay theo mức hiện tại?","en":"Do I return it with a full tank?","ipa":"/du aɪ rɪˈtɜrn ɪt wɪð ə fʊl tæŋk/"}]},
+{"vi":"Bảo hiểm & kiểm tra xe","en":"Insurance & inspection","sentences":[
+{"vi":"Giá đã gồm bảo hiểm cơ bản chưa?","en":"Is basic insurance included in the rate?","ipa":"/ɪz ˈbeɪsɪk ɪnˈʃʊrəns ɪnˈkludɪd ɪn ðə reɪt/"},
+{"vi":"Nâng gói giảm excess xuống không tốn bao nhiêu?","en":"How much is the option to reduce the excess to zero?","ipa":"/haʊ mʌtʃ ɪz ði ˈɑpʃən tə rɪˈdus ði ɪkˈsɛs tə ˈziroʊ/"},
+{"vi":"Mình chụp hình vết xước cũ trước khi lái đi.","en":"I'll photograph the existing scratches before I drive off.","ipa":"/aɪl ˈfoʊtoʊˌɡræf ði ɪɡˈzɪstɪŋ ˈskrætʃɪz bɪˈfɔr aɪ draɪv ɔf/"},
+{"vi":"Vết trầy này đã ghi trong biên bản chưa?","en":"Is this dent already marked on the inspection sheet?","ipa":"/ɪz ðɪs dɛnt ɔlˈrɛdi mɑrkt ɑn ði ɪnˈspɛkʃən ʃit/"}]},
+{"vi":"Trả xe","en":"Returning it","sentences":[
+{"vi":"Mình trả xe trước giờ hẹn được không?","en":"Can I drop it off earlier than scheduled?","ipa":"/kæn aɪ drɑp ɪt ɔf ˈɜrliər ðæn ˈskɛʤuld/"},
+{"vi":"Nếu trễ một giờ có bị tính thêm ngày không?","en":"If I'm an hour late, do I get charged a full day?","ipa":"/ɪf aɪm ən ˈaʊər leɪt, du aɪ ɡɛt tʃɑrʤd ə fʊl deɪ/"},
+{"vi":"Trả xe ở sân bay khác điểm nhận được không?","en":"Can I drop it at the airport instead of back here?","ipa":"/kæn aɪ drɑp ɪt æt ði ˈɛrpɔrt ɪnˈstɛd əv bæk hɪr/"},
+{"vi":"Cảm ơn bạn, chuyến đi suôn sẻ lắm.","en":"Thanks — the whole trip went smoothly.","ipa":"/θæŋks, ðə hoʊl trɪp wɛnt ˈsmuðli/"}]}],
+"practice":["Tự nói điều kiện thuê xe mình cần hỏi bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: khách thuê xe — nhân viên quầy.","Ôn lại 5 câu khó nhất của Ngày 34 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Hỏi điều kiện thuê","Ôn lại Ngày 34"]},
+
+{"day":36,"slug":"tim-nha-thue","emoji":"🏠","scenes":[
+{"vi":"Đến buổi mở cửa xem nhà","en":"At the open house","sentences":[
+{"vi":"Mình đến xem căn hộ cho thuê đăng trên mạng.","en":"I'm here for the inspection of the rental listed online.","ipa":"/aɪm hɪr fər ði ɪnˈspɛkʃən əv ðə ˈrɛntəl ˈlɪstɪd ɑnˈlaɪn/"},
+{"vi":"Nhà này cho thuê bao nhiêu một tuần?","en":"How much is the rent per week?","ipa":"/haʊ mʌtʃ ɪz ðə rɛnt pər wik/", "note":"Ở Úc nhà tính theo tuần"},
+{"vi":"Tiền bond là bao nhiêu, bốn tuần à?","en":"How much is the bond — four weeks?","ipa":"/haʊ mʌtʃ ɪz ðə bɑnd, fɔr wiks/", "note":"bond = tiền đặt cọc thuê nhà"}]},
+{"vi":"Xem phòng & tiện ích","en":"Checking the place","sentences":[
+{"vi":"Phòng ngủ chính có tủ âm tường không?","en":"Does the main bedroom have built-in wardrobes?","ipa":"/dʌz ðə meɪn ˈbɛdrum hæv ˈbɪlt ɪn ˈwɔrdroʊbz/"},
+{"vi":"Căn hộ có chỗ đậu xe riêng không?","en":"Does it come with a car space?","ipa":"/dʌz ɪt kʌm wɪð ə kɑr speɪs/"},
+{"vi":"Điều hòa với máy sưởi còn chạy tốt chứ?","en":"Do the air con and heater both work well?","ipa":"/du ði ɛr kɑn ænd ðə ˈhitər boʊθ wɜrk wɛl/"},
+{"vi":"Nước nóng dùng gas hay điện?","en":"Is the hot water gas or electric?","ipa":"/ɪz ðə hɑt ˈwɔtər ɡæs ɔr ɪˈlɛktrɪk/"}]},
+{"vi":"Hỏi về khu vực","en":"Asking about the area","sentences":[
+{"vi":"Khu này yên tĩnh ban đêm chứ?","en":"Is the neighbourhood quiet at night?","ipa":"/ɪz ðə ˈneɪbərˌhʊd ˈkwaɪət æt naɪt/"},
+{"vi":"Ga tàu gần nhất đi bộ bao xa?","en":"How far's the walk to the nearest station?","ipa":"/haʊ fɑrz ðə wɔk tə ðə ˈnɪrɪst ˈsteɪʃən/"},
+{"vi":"Gần đây có siêu thị hay chợ không?","en":"Are there shops within walking distance?","ipa":"/ɑr ðɛr ʃɑps wɪˈðɪn ˈwɔkɪŋ ˈdɪstəns/"},
+{"vi":"Khu này an ninh thế nào, có nên ở không?","en":"Is it a safe area to live in?","ipa":"/ɪz ɪt ə seɪf ˈɛriə tə lɪv ɪn/"}]},
+{"vi":"Hỏi hợp đồng & nộp hồ sơ","en":"Lease & application","sentences":[
+{"vi":"Hợp đồng tối thiểu bao lâu, sáu tháng hay một năm?","en":"What's the minimum lease — six months or twelve?","ipa":"/wʌts ðə ˈmɪnɪməm lis, sɪks mʌnθs ɔr twɛlv/"},
+{"vi":"Khi nào thì được vào ở?","en":"When's the earliest move-in date?","ipa":"/wɛnz ði ˈɜrliɪst ˈmuv ɪn deɪt/"},
+{"vi":"Nộp đơn apply như thế nào, online phải không?","en":"How do I apply — is it all online?","ipa":"/haʊ du aɪ əˈplaɪ, ɪz ɪt ɔl ɑnˈlaɪn/"},
+{"vi":"Cần giấy tờ gì khi nộp đơn vậy?","en":"What documents do I need for the application?","ipa":"/wʌt ˈdɑkjumənts du aɪ nid fər ði ˌæplɪˈkeɪʃən/"}]}],
+"practice":["Tự tả căn nhà/phòng lý tưởng mình muốn thuê bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: người thuê hỏi — agent trả lời.","Ôn lại 5 câu khó nhất của Ngày 35 trước khi bắt đầu."],
+"checks":["Đọc to 18 câu","Tả nhà lý tưởng","Ôn lại Ngày 35"]}
+]}

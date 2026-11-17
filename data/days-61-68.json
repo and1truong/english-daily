@@ -1,0 +1,186 @@
+{"days":[
+{"day":61,"slug":"lai-xe-nuoc-ngoai","emoji":"🚘","scenes":[
+{"vi":"Lần đầu lái bên trái","en":"First time driving on the left","sentences":[
+{"vi":"Ở Úc lái bên trái, mình phải nhớ kỹ điều này.","en":"In Australia they drive on the left — I have to keep reminding myself.","ipa":"/ɪn ɔˈstreɪljə ðeɪ draɪv ɑn ðə lɛft, aɪ hæv tə kip rɪˈmaɪndɪŋ maɪˈsɛlf/"},
+{"vi":"Vào vòng xuyến phải nhường xe từ bên phải.","en":"At roundabouts you give way to cars coming from the right.","ipa":"/æt ˈraʊndəˌbaʊts ju ɡɪv weɪ tə kɑrz ˈkʌmɪŋ frʌm ðə raɪt/", "note":"give way = nhường đường"},
+{"vi":"Xi nhan bên này nằm ngược tay với xe Việt Nam.","en":"The indicators are on the opposite side from back home.","ipa":"/ði ˈɪndəˌkeɪtərz ɑr ɑn ði ˈɑpəzɪt saɪd frʌm bæk hoʊm/"}]},
+{"vi":"Tìm chỗ đậu xe","en":"Parking","sentences":[
+{"vi":"Biển này đậu hai tiếng, từ tám giờ sáng đến sáu tối.","en":"This sign means two-hour parking from 8am to 6pm.","ipa":"/ðɪs saɪn minz tu ˈaʊər ˈpɑrkɪŋ frʌm eɪt eɪ ɛm tə sɪks pi ɛm/"},
+{"vi":"Mình đậu đúng vạch kẻ, không sát gốc cây.","en":"Park within the marked lines, not too close to the tree.","ipa":"/pɑrk wɪˈðɪn ðə mɑrkt laɪnz, nɑt tu kloʊs tə ðə tri/"},
+{"vi":"Chỗ này có mất phí đậu không?","en":"Do I need to pay for parking here?","ipa":"/du aɪ nid tə peɪ fər ˈpɑrkɪŋ hɪr/"},
+{"vi":"Bãi đậu xe trả bằng app hay máy thu tiền?","en":"Does this car park take the app or is there a machine?","ipa":"/dʌz ðɪs kɑr pɑrk teɪk ði æp ɔr ɪz ðɛr ə məˈʃin/"}]},
+{"vi":"Bị ngỡ đường & nhờ người","en":"Getting confused","sentences":[
+{"vi":"Ôi, mình lỡ đi nhầm làn phải rồi.","en":"Oops — I ended up in the wrong lane.","ipa":"/ups, aɪ ˈɛndɪd ʌp ɪn ðə rɔŋ leɪn/"},
+{"vi":"Xin lỗi bác, đường này có một chiều không?","en":"Excuse me — is this a one-way street?","ipa":"/ɪkˈskjuz mi, ɪz ðɪs ə wʌn weɪ strit/"},
+{"vi":"Trạm xăng gần nhất đi hướng nào?","en":"Which way to the nearest petrol station?","ipa":"/wɪtʃ weɪ tə ðə ˈnɪrɪst ˈpɛtrəl ˈsteɪʃən/"},
+{"vi":"Tôi mới lái ở đây nên hơi bỡ ngỡ.","en":"I'm new to driving here — still getting used to it.","ipa":"/aɪm nu tə ˈdraɪvɪŋ hɪr, stɪl ˈɡɛtɪŋ juzd tə ɪt/"}]},
+{"vi":"Nhắc nhở bản thân","en":"Self-reminders","sentences":[
+{"vi":"Bình tĩnh, nhìn gương trước khi chuyển làn.","en":"Stay calm — check mirrors before changing lanes.","ipa":"/steɪ kɑm, tʃɛk ˈmɪrərz bɪˈfɔr ˈtʃeɪnʤɪŋ leɪnz/"},
+{"vi":"Giới hạn năm mươi, đừng vượt.","en":"Fifty zone — don't creep over the limit.","ipa":"/ˈfɪfti zoʊn, doʊnt krip ˈoʊvər ðə ˈlɪmɪt/"},
+{"vi":"Dừng hẳn ở đường có biển stop.","en":"Come to a full stop at stop signs, not a rolling one.","ipa":"/kʌm tə ə fʊl stɑp æt stɑp saɪnz, nɑt ə ˈroʊlɪŋ wʌn/"},
+{"vi":"Đi vòng xuyến chậm lại nhìn phải trước đã.","en":"Slow down at the roundabout and look right first.","ipa":"/sloʊ daʊn æt ðə ˈraʊndəˌbaʊt ænd lʊk raɪt fɜrst/"}]}],
+"practice":["Tự nhắc 3 luật lái xe khác biệt ở Úc bằng tiếng Anh.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: người mới lái — người dân chỉ đường.","Ôn lại 5 câu khó nhất của Ngày 60 trước khi bắt đầu."],
+"checks":["Đọc to 18 câu","Nhắc luật lái xe","Ôn lại Ngày 60"]},
+
+{"day":62,"slug":"bi-lac-xin-giup","emoji":"🆘","scenes":[
+{"vi":"Nhận ra bị lạc","en":"Realising you're lost","sentences":[
+{"vi":"Mình lạc đường rồi, map không load được.","en":"I'm lost — my map won't load.","ipa":"/aɪm lɔst, maɪ mæp woʊnt loʊd/"},
+{"vi":"Con đường này trông không giống đường về.","en":"This street doesn't look familiar at all.","ipa":"/ðɪs strit ˈdʌzənt lʊk fəˈmɪljər æt ɔl/"},
+{"vi":"Điện thoại sắp hết pin nữa chứ.","en":"My phone's about to die too.","ipa":"/maɪ foʊnz əˈbaʊt tə daɪ tu/"}]},
+{"vi":"Hỏi người qua đường","en":"Asking a stranger","sentences":[
+{"vi":"Xin lỗi bác, tôi bị lạc, bác giúp tôi được không?","en":"Excuse me — I'm a bit lost, could you help me?","ipa":"/ɪkˈskjuz mi, aɪm ə bɪt lɔst, kʊd ju hɛlp mi/"},
+{"vi":"Tôi cần về ga trung tâm, đi hướng nào?","en":"I need to get to Central Station — which way should I go?","ipa":"/aɪ nid tə ɡɛt tə ˈsɛntrəl ˈsteɪʃən, wɪtʃ weɪ ʃʊd aɪ ɡoʊ/"},
+{"vi":"Đi bộ xa không, hay phải bắt tàu?","en":"Is it walkable, or should I catch a train?","ipa":"/ɪz ɪt ˈwɔkəbəl, ɔr ʃʊd aɪ kætʃ ə treɪn/"},
+{"vi":"Bác chỉ cho tôi lên đường này được không?","en":"Could you point me in the right direction?","ipa":"/kʊd ju pɔɪnt mi ɪn ðə raɪt dəˈrɛkʃən/"}]},
+{"vi":"Nghe chỉ dẫn","en":"Following directions","sentences":[
+{"vi":"Đi thẳng, rẽ trái ở đèn giao thông thứ hai.","en":"Go straight and turn left at the second set of lights.","ipa":"/ɡoʊ streɪt ænd tɜrn lɛft æt ðə ˈsɛkənd sɛt əv laɪts/", "actor": "người dân"},
+{"vi":"Vậy đi qua hai ngã tư rồi rẽ trái, đúng không?","en":"So past two intersections, then left?","ipa":"/soʊ pæst tu ˌɪntərˈsɛkʃənz, ðɛn lɛft/"},
+{"vi":"Nhà màu xanh bên trái là điểm mốc đúng không?","en":"The blue building on the left is the landmark, yeah?","ipa":"/ðə blu ˈbɪldɪŋ ɑn ðə lɛft ɪz ðə ˈlændˌmɑrk jeə/"},
+{"vi":"Tôi có thể đi bằng đường nào an toàn hơn ban đêm?","en":"Is there a safer route to take at night?","ipa":"/ɪz ðɛr ə ˈseɪfər rut tə teɪk æt naɪt/"}]},
+{"vi":"Cảm ơn & an tâm","en":"Relieved","sentences":[
+{"vi":"Cảm ơn bác nhiều, bác tốt quá.","en":"Thank you so much — you've been really kind.","ipa":"/θæŋk ju soʊ mʌtʃ, juv bɪn ˈrili kaɪnd/"},
+{"vi":"Nhờ bác chỉ mà tìm được đường rồi.","en":"Thanks to your directions I found my way back.","ipa":"/θæŋks tə jʊr dəˈrɛkʃənz aɪ faʊnd maɪ weɪ bæk/"},
+{"vi":"May mà người Úc nhiệt tình giúp đỡ.","en":"Lucky the locals here are so helpful.","ipa":"/ˈlʌki ðə ˈloʊkəlz hɪr ɑr soʊ ˈhɛlpfəl/"},
+{"vi":"Lần sau mình nhớ mang sạc dự phòng.","en":"Lesson learned — always carry a power bank.","ipa":"/ˈlɛsən lɜrnd, ˈɔlweɪz ˈkæri ə ˈpaʊər bæŋk/"}]}],
+"practice":["Tự hỏi đường một địa điểm quen thuộc bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: người lạc đường — người dân chỉ đường.","Ôn lại 5 câu khó nhất của Ngày 61 trước khi bắt đầu."],
+"checks":["Đọc to 18 câu","Hỏi đường tự nhiên","Ôn lại Ngày 61"]},
+
+{"day":63,"slug":"ke-chuyen-du-lich","emoji":"🌏","scenes":[
+{"vi":"Kể chuyến đi vừa rồi","en":"Sharing your trip","sentences":[
+{"vi":"Vừa rồi gia đình mình đi Great Ocean Road ba ngày.","en":"We just did a three-day trip down the Great Ocean Road.","ipa":"/wi ʤʌst dɪd ə θri deɪ trɪp daʊn ðə ɡreɪt ˈoʊʃən roʊd/"},
+{"vi":"Cảnh đẹp không tả nổi, đáng đi lắm.","en":"The scenery was absolutely stunning — totally worth it.","ipa":"/ðə ˈsinəri wʌz ˌæbsəˈlutli ˈstʌnɪŋ, ˈtoʊtəli wɜrθ ɪt/"},
+{"vi":"Con nít thích nhất là nhìn sóng đánh vào vách đá.","en":"The kids loved watching the waves crash against the cliffs.","ipa":"/ðə kɪdz lʌvd ˈwɑtʃɪŋ ðə weɪvz kræʃ əˈɡɛnst ðə klɪfs/"}]},
+{"vi":"Ấn tượng đặc biệt","en":"Standout moments","sentences":[
+{"vi":"Ấn tượng nhất là bình minh ở Twelve Apostles.","en":"The highlight was sunrise at the Twelve Apostles.","ipa":"/ðə ˈhaɪlaɪt wʌz ˈsʌnraɪz æt ðə twɛlv əˈpɑsəlz/"},
+{"vi":"Tụi mình còn thấy đàn kangaroo hoang dã nữa.","en":"We even spotted a mob of wild kangaroos.","ipa":"/wi ˈivən ˈspɑtɪd ə mɑb əv waɪld ˌkæŋɡəˈruz/"},
+{"vi":"Đường đi quanh co đẹp nhưng hơi say xe.","en":"The winding road was gorgeous but made me a bit carsick.","ipa":"/ðə ˈwaɪndɪŋ roʊd wʌz ˈɡɔrʤəs bət meɪd mi ə bɪt ˈkɑrsɪk/"},
+{"vi":"Chỗ nghỉ đêm nhìn ra biển, sáng mở mắt thấy sóng.","en":"Our cabin overlooked the ocean — woke up to the waves.","ipa":"/ˈaʊər ˈkæbɪn ˌoʊvərˈlʊkt ði ˈoʊʃən, woʊk ʌp tə ðə weɪvz/"}]},
+{"vi":"Ăn uống & kinh phí","en":"Food & budget","sentences":[
+{"vi":"Ăn uống trên đường đi khá mắc hơn mình tưởng.","en":"Food along the way was pricier than I expected.","ipa":"/fud əˈlɔŋ ðə weɪ wʌz ˈpraɪsɪər ðæn aɪ ɪkˈspɛktɪd/"},
+{"vi":"Nhưng bánh fish and chips ven biển ngon tuyệt.","en":"But the fish and chips by the beach were amazing.","ipa":"/bət ðə fɪʃ ænd tʃɪps baɪ ðə bitʃ wɜr əˈmeɪzɪŋ/"},
+{"vi":"Tổng chi phí cả chuyến khoảng mười lăm trăm đô.","en":"The whole trip cost about fifteen hundred bucks.","ipa":"/ðə hoʊl trɪp kɔst əˈbaʊt ˈfɪftin ˈhʌndrəd bʌks/"},
+{"vi":"Vậy mà đáng từng đồng, kỷ niệm đẹp cả đời.","en":"Worth every cent though — memories for a lifetime.","ipa":"/wɜrθ ˈɛvri sɛnt ðoʊ, ˈmɛməriz fər ə ˈlaɪfˌtaɪm/"}]},
+{"vi":"Gợi ý cho người khác","en":"Recommending it","sentences":[
+{"vi":"Nếu bạn đi, nên nghỉ lại một đêm ở Apollo Bay.","en":"If you go, definitely stay a night in Apollo Bay.","ipa":"/ɪf ju ɡoʊ, ˈdɛfɪnətli steɪ ə naɪt ɪn əˈpɑloʊ beɪ/"},
+{"vi":"Đi sớm để tránh đoàn tour đông đúc.","en":"Start early to beat the tour bus crowds.","ipa":"/stɑrt ˈɜrli tə bit ðə tʊr bʌs kraʊdz/"},
+{"vi":"Mang theo áo ấm, ven biển lạnh bất ngờ.","en":"Pack a jacket — it gets cold by the ocean unexpectedly.","ipa":"/pæk ə ˈʤækɪt, ɪt ɡɛts koʊld baɪ ði ˈoʊʃən ˌʌnɪkˈspɛktədli/"},
+{"vi":"Chuyến kế mình muốn đi Tasmania.","en":"Next trip, I've got my eye on Tasmania.","ipa":"/nɛkst trɪp, aɪv ɡɑt maɪ aɪ ɑn tæzˈmeɪniə/", "note":"got my eye on = để ý/ngắm tới"}]}],
+"practice":["Tự kể một chuyến đi nhớ nhất bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: bạn kể chuyến đi — người nghe hỏi thêm.","Ôn lại 5 câu khó nhất của Ngày 62 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Kể chuyến đi","Ôn lại Ngày 62"]},
+
+{"day":64,"slug":"den-nha-ban","emoji":"🏡","scenes":[
+{"vi":"Đến nhà bạn","en":"Arriving at a mate's place","sentences":[
+{"vi":"Cảm ơn đã mời, đây chút rượu biếu.","en":"Thanks for having us — we brought some wine.","ipa":"/θæŋks fər ˈhævɪŋ ʌs, wi brɔt sʌm waɪn/"},
+{"vi":"Nhà bạn đẹp quá, vườn trồng tốt ghê.","en":"Your place is lovely — the garden looks amazing.","ipa":"/jʊr pleɪs ɪz ˈlʌvli, ðə ˈɡɑrdən lʊks əˈmeɪzɪŋ/"},
+{"vi":"Có cần cởi giày không, hay cứ vào?","en":"Should we take our shoes off?","ipa":"/ʃʊd wi teɪk ˈaʊər ʃuz ɔf/"}]},
+{"vi":"Nói chuyện thăm nhà","en":"The house tour chat","sentences":[
+{"vi":"Bạn tự sửa lại phòng này à? Khéo ghê.","en":"Did you renovate this room yourself? Great job.","ipa":"/dɪd ju ˈrɛnəˌveɪt ðɪs rum jərˈsɛlf, ɡreɪt ʤɑb/"},
+{"vi":"Bạn trồng rau ở góc kia à, mình cũng mê.","en":"You've got a vegie patch over there? I'm into gardening too.","ipa":"/juv ɡɑt ə ˈvɛʤi pætʃ ˈoʊvər ðɛr, aɪm ˈɪntu ˈɡɑrdənɪŋ tu/", "note":"vegie patch = mảnh vườn rau (kiểu Úc)"},
+{"vi":"Kệ sách nhiều sách hay, bạn đọc nhiều ha.","en":"Your bookshelf's full — you're a big reader, hey?","ipa":"/jʊr ˈbʊkʃɛlfs fʊl, jʊr ə bɪɡ ˈridər heɪ/"},
+{"vi":"Chó nhà bạn hiền quá, cho mình xoa nó được không?","en":"Your dog's so sweet — can I give him a pat?","ipa":"/jʊr dɔɡz soʊ swit, kæn aɪ ɡɪv ɪm ə pæt/"}]},
+{"vi":"Dùng bữa","en":"Over the meal","sentences":[
+{"vi":"Món này ngon quá, bạn nấu kiểu gì vậy?","en":"This is delicious — what's in it?","ipa":"/ðɪs ɪz dɪˈlɪʃəs, wʌts ɪn ɪt/"},
+{"vi":"Có thể cho mình công thức món này không?","en":"Could I get the recipe off you?","ipa":"/kʊd aɪ ɡɛt ðə ˈrɛsəpi ɔf ju/"},
+{"vi":"Mình ăn chay, có món nào không thịt không?","en":"I'm vegetarian — anything without meat?","ipa":"/aɪm ˌvɛʤəˈtɛriən, ˈɛniθɪŋ wɪˈðaʊt mit/"},
+{"vi":"Cho mình thêm một ít nữa nhé, ngon quá.","en":"Can I have a bit more? It's so good.","ipa":"/kæn aɪ hæv ə bɪt mɔr, ɪts soʊ ɡʊd/"}]},
+{"vi":"Ra về","en":"Heading off","sentences":[
+{"vi":"Tối nay vui lắm, cảm ơn vợ chồng bạn.","en":"We had such a great evening — thanks, you two.","ipa":"/wi hæd sʌtʃ ə ɡreɪt ˈivnɪŋ, θæŋks ju tu/"},
+{"vi":"Lần tới qua nhà mình chơi, mình nấu đãi.","en":"Come over to ours next — I'll cook.","ipa":"/kʌm ˈoʊvər tə ˈaʊərz nɛkst, aɪl kʊk/"},
+{"vi":"Đường về an toàn nhé, cáo từ chào hàng xóm hộ mình.","en":"Drive safe — say hi to your neighbours for me.","ipa":"/draɪv seɪf, seɪ haɪ tə jʊr ˈneɪbərz fər mi/"},
+{"vi":"Tối nay khó quên, bạn là chủ nhà tuyệt nhất.","en":"Tonight was unforgettable — you're the best host.","ipa":"/təˈnaɪt wʌz ˌʌnfərˈɡɛtəbəl, jʊr ðə bɛst hoʊst/"}]}],
+"practice":["Tự kể một lần đến nhà bạn bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: khách đến nhà — chủ nhà đón tiếp.","Ôn lại 5 câu khó nhất của Ngày 63 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Kể lần đến nhà bạn","Ôn lại Ngày 63"]},
+
+{"day":65,"slug":"tiec-sinh-nhat","emoji":"🎂","scenes":[
+{"vi":"Đến tiệc sinh nhật","en":"At the party","sentences":[
+{"vi":"Chúc mừng sinh nhật! Quà nhỏ tặng bạn.","en":"Happy birthday! This is a little something for you.","ipa":"/ˈhæpi ˈbɜrθdeɪ, ðɪs ɪz ə ˈlɪtəl ˈsʌmθɪŋ fər ju/"},
+{"vi":"Bạn bao nhiêu tuổi năm nay, giấu không?","en":"How old are you turning? Or is that a secret?","ipa":"/haʊ oʊld ɑr ju ˈtɜrnɪŋ, ɔr ɪz ðæt ə ˈsikrɪt/"},
+{"vi":"Tiệc đông vui quá, bạn mời nhiều người ha.","en":"Great turnout — you've got a big crowd here.","ipa":"/ɡreɪt ˈtɜrnaʊt, juv ɡɑt ə bɪɡ kraʊd hɪr/", "note":"turnout = số người đến dự"}]},
+{"vi":"Nói chuyện trong tiệc","en":"Party chat","sentences":[
+{"vi":"Bạn quen ai trong đám này chưa?","en":"Do you know many people here?","ipa":"/du ju noʊ ˈmɛni ˈpipəl hɪr/"},
+{"vi":"Bánh sinh nhật tự làm hay đặt tiệm vậy?","en":"Did you make the cake yourself or order it?","ipa":"/dɪd ju meɪk ðə keɪk jərˈsɛlf ɔr ˈɔrdər ɪt/"},
+{"vi":"Nhạc nền hay quá, playlist của bạn à?","en":"Love the music — is this your playlist?","ipa":"/lʌv ðə ˈmjuzɪk, ɪz ðɪs jʊr ˈpleɪlɪst/"},
+{"vi":"Mình bắt chuyện được với vài người rất thú vị.","en":"I've met some really interesting people tonight.","ipa":"/aɪv mɛt sʌm ˈrili ˈɪntrəstɪŋ ˈpipəl təˈnaɪt/"}]},
+{"vi":"Thổi nến & hát","en":"Candles & singing","sentences":[
+{"vi":"Tụi mình hát happy birthday cho bạn nhé.","en":"Let's all sing happy birthday!","ipa":"/lɛts ɔl sɪŋ ˈhæpi ˈbɜrθdeɪ/"},
+{"vi":"Thổi hết nến một hơi đi, ước điều gì cũng được.","en":"Blow out all the candles in one go — make a wish!","ipa":"/bloʊ aʊt ɔl ðə ˈkændəlz ɪn wʌn ɡoʊ, meɪk ə wɪʃ/"},
+{"vi":"Cắt bánh đi bạn, mình đói rồi.","en":"Cut the cake — I'm starving!","ipa":"/kʌt ðə keɪk, aɪm ˈstɑrvɪŋ/"},
+{"vi":"Món ăn mình thích nhất là bánh nhân kem.","en":"The custard slice is my favourite thing here.","ipa":"/ðə ˈkʌstərd slaɪs ɪz maɪ ˈfeɪvərɪt θɪŋ hɪr/"}]},
+{"vi":"Kết thúc buổi tiệc","en":"Leaving the party","sentences":[
+{"vi":"Cảm ơn vì buổi tiệc, mình vui lắm.","en":"Thanks for a great party — I had a ball.","ipa":"/θæŋks fər ə ɡreɪt ˈpɑrti, aɪ hæd ə bɔl/", "note":"had a ball = vui hết mình"},
+{"vi":"Sinh nhật sang năm đãi mình lại nhé.","en":"Same time next year — you're hosting again!","ipa":"/seɪm taɪm nɛkst jɪr, jʊr ˈhoʊstɪŋ əˈɡɛn/"},
+{"vi":"Đưa quà dư về cho bạn nếu muốn.","en":"I've left you some leftovers to take home.","ipa":"/aɪv lɛft ju sʌm ˈlɛftˌoʊvərz tə teɪk hoʊm/", "actor": "chủ tiệc"},
+{"vi":"Hẹn sớm gặp lại, cảm ơn lần nữa.","en":"Let's catch up soon — thanks again!","ipa":"/lɛts kætʃ ʌp sun, θæŋks əˈɡɛn/"}]}],
+"practice":["Tự nói lời chúc sinh nhật bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: khách dự tiệc — chủ sinh nhật.","Ôn lại 5 câu khó nhất của Ngày 64 trước khi bắt đầu."],
+"checks":["Đọc to 18 câu","Nói lời chúc mừng","Ôn lại Ngày 64"]},
+
+{"day":66,"slug":"bbq-cuoi-tuan","emoji":"🍖","scenes":[
+{"vi":"Chuẩn bị BBQ","en":"Getting the BBQ going","sentences":[
+{"vi":"Cuối tuần này tụi mình BBQ ở sân sau.","en":"We're having a barbie in the backyard this weekend.","ipa":"/wir ˈhævɪŋ ə ˈbɑrbi ɪn ðə ˈbækjɑrd ðɪs ˈwikɛnd/", "note":"barbie = BBQ kiểu Úc"},
+{"vi":"Mình nhóm lửa sớm để than cháy đều.","en":"I'll get the coals going early so they burn evenly.","ipa":"/aɪl ɡɛt ðə koʊlz ˈɡoʊɪŋ ˈɜrli soʊ ðeɪ bɜrn ˈivənli/"},
+{"vi":"Bạn mang salad, mình lo thịt nướng nhé.","en":"You bring the salad, I'll handle the meat.","ipa":"/ju brɪŋ ðə ˈsæləd, aɪl ˈhændəl ðə mit/"},
+{"vi":"Nhớ mang theo bia lạnh, nắng nóng uống hợp.","en":"Grab some cold beers — perfect for a hot day.","ipa":"/ɡræb sʌm koʊld bɪrz, ˈpɜrfɪkt fər ə hɑt deɪ/"}]},
+{"vi":"Nướng thịt","en":"Grilling","sentences":[
+{"vi":"Xúc xích sizzler chín vàng đều rồi.","en":"The snags are nicely browned all over.","ipa":"/ðə snæɡz ɑr ˈnaɪsli braʊnd ɔl ˈoʊvər/", "note":"snags = xúc xích nướng (tiếng lóng Úc)"},
+{"vi":"Thịt bò nướng vừa chín tới, không quá khô.","en":"The steak's medium — not overdone.","ipa":"/ðə steɪks ˈmidiəm, nɑt ˌoʊvərˈdʌn/"},
+{"vi":"Tôm nướng nhỏ lửa thôi không cháy.","en":"Keep the prawns on low heat so they don't burn.","ipa":"/kip ðə prɔnz ɑn loʊ hit soʊ ðeɪ doʊnt bɜrn/"},
+{"vi":"Ai muốn ăn cay thì thêm nước sốt này.","en":"Anyone who wants it spicy, there's hot sauce.","ipa":"/ˈɛniˌwʌn hu wɑnts ɪt ˈspaɪsi, ðɛrz hɑt sɔs/"}]},
+{"vi":"Ăn uống & trò chuyện","en":"Eating & chatting","sentences":[
+{"vi":"Đồ ăn dọn ra rồi, mọi người tự nhiên.","en":"Food's up — dig in, everyone.","ipa":"/fudz ʌp, dɪɡ ɪn ˈɛvriˌwʌn/", "note":"dig in = cứ ăn tự nhiên"},
+{"vi":"Kẹp xúc xích vào bánh mì, cho ít hành tây.","en":"Grab a snag, put it in some bread with onions.","ipa":"/ɡræb ə snæɡ, pʊt ɪt ɪn sʌm brɛd wɪð ˈʌnjənz/"},
+{"vi":"Nước chấm này mình pha, gia truyền nhà mình đó.","en":"This dipping sauce is my own recipe — family secret.","ipa":"/ðɪs ˈdɪpɪŋ sɔs ɪz maɪ oʊn ˈrɛsəpi, ˈfæmɪli ˈsikrɪt/"},
+{"vi":"Ai muốn nước ép thêm không? Mình làm thêm.","en":"Anyone want more juice? I'll top you up.","ipa":"/ˈɛniˌwʌn wɑnt mɔr ʤus, aɪl tɑp ju ʌp/"}]},
+{"vi":"Dọn dẹp & ra về","en":"Packing up","sentences":[
+{"vi":"Mình tắt bếp nướng, đợi nguội rồi dọn.","en":"I'll switch off the BBQ and let it cool before cleaning.","ipa":"/aɪl swɪtʃ ɔf ðə ˈbɑrbəkju ænd lɛt ɪt kul bɪˈfɔr ˈklinɪŋ/"},
+{"vi":"Rác bỏ vào túi, tái chế vào thùng vàng.","en":"Chuck rubbish in the bag, recycling in the yellow bin.","ipa":"/tʃʌk ˈrʌbɪʃ ɪn ðə bæɡ, ˌriˈsaɪklɪŋ ɪn ðə ˈjɛloʊ bɪn/"},
+{"vi":"Hôm nay vui, BBQ kiểu Úc đúng chất.","en":"What a ripper of a day — proper Aussie barbie.","ipa":"/wʌt ə ˈrɪpər əv ə deɪ, ˈprɑpər ˈɑzi ˈbɑrbi/", "note":"ripper = tuyệt vời (tiếng lóng Úc)"},
+{"vi":"Lần sau đổi chỗ, qua nhà tôi làm.","en":"Next time, my place — I'll host.","ipa":"/nɛkst taɪm, maɪ pleɪs, aɪl hoʊst/"}]}],
+"practice":["Tự nói lại cách tổ chức BBQ bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: chủ BBQ — khách đến ăn.","Ôn lại 5 câu khó nhất của Ngày 65 trước khi bắt đầu."],
+"checks":["Đọc to 20 câu","Nói BBQ","Ôn lại Ngày 65"]},
+
+{"day":67,"slug":"di-bar","emoji":"🍺","scenes":[
+{"vi":"Vào quán bar","en":"Heading to the pub","sentences":[
+{"vi":"Mình qua quán bar khu cũ gặp đám bạn.","en":"I'm meeting the crew at the local pub.","ipa":"/aɪm ˈmitɪŋ ðə kru æt ðə ˈloʊkəl pʌb/", "note":"local = quán quen gần nhà"},
+{"vi":"Bạn muốn uống gì, mình khao ly này.","en":"What are you having? This round's on me.","ipa":"/wʌt ɑr ju ˈhævɪŋ, ðɪs raʊndz ɑn mi/", "note":"round's on me = ly này tôi bao"},
+{"vi":"Cho mình một ly pale ale bình thường.","en":"A schooner of pale ale, thanks.","ipa":"/ə ˈskunər əv peɪl eɪl θæŋks/", "note":"schooner = cỡ ly bia phổ biến ở Úc"}]},
+{"vi":"Gọi đồ uống","en":"Ordering drinks","sentences":[
+{"vi":"Cho tôi xem menu beer on tap được không?","en":"Can I see what's on tap?","ipa":"/kæn aɪ si wʌts ɑn tæp/"},
+{"vi":"Có loại bia địa phương nào không?","en":"Any local brews you recommend?","ipa":"/ˈɛni ˈloʊkəl bruz ju ˌrɛkəˈmɛnd/"},
+{"vi":"Cho thêm một vòng nữa, cùng loại luôn.","en":"Another round of the same, please.","ipa":"/əˈnʌðər raʊnd əv ðə seɪm pliz/"},
+{"vi":"Tôi uống ít cồn thôi, có mocktail không?","en":"I'm going easy tonight — do you do mocktails?","ipa":"/aɪm ˈɡoʊɪŋ ˈizi təˈnaɪt, du ju du ˈmɑkˌteɪlz/"}]},
+{"vi":"Ngồi tán gẫu","en":"Chatting at the bar","sentences":[
+{"vi":"Quán này đông vui, đúng gu mình.","en":"This place has a great vibe — right up my alley.","ipa":"/ðɪs pleɪs hæz ə ɡreɪt vaɪb, raɪt ʌp maɪ ˈæli/"},
+{"vi":"Bạn có hay qua đây không?","en":"Do you come here often?","ipa":"/du ju kʌm hɪr ˈɔfən/"},
+{"vi":"Mình nghe quán này có live music tối thứ sáu.","en":"I heard they have live music on Fridays.","ipa":"/aɪ hɜrd ðeɪ hæv laɪv ˈmjuzɪk ɑn ˈfraɪdeɪz/"},
+{"vi":"Nhạc chơi hay quá, muốn quay lại tuần sau luôn.","en":"The band's great — I'd come back next week.","ipa":"/ðə bændz ɡreɪt, aɪd kʌm bæk nɛkst wik/"}]},
+{"vi":"Về nhà an toàn","en":"Getting home safe","sentences":[
+{"vi":"Mình uống nên không lái, gọi Uber nhé.","en":"I've been drinking, so I'll grab an Uber home.","ipa":"/aɪv bɪn ˈdrɪŋkɪŋ, soʊ aɪl ɡræb ən ˈubər hoʊm/"},
+{"vi":"Ai là designated driver tối nay vậy?","en":"Who's the designated driver tonight?","ipa":"/huz ðə ˈdɛzɪɡˌneɪtɪd ˈdraɪvər təˈnaɪt/"},
+{"vi":"Về tới nhắn mình biết nhé, cho yên tâm.","en":"Text me when you get home safe.","ipa":"/tɛkst mi wɛn ju ɡɛt hoʊm seɪf/"},
+{"vi":"Tối vui lắm, hẹn lần sau nhé.","en":"Great night out — let's do it again soon.","ipa":"/ɡreɪt naɪt aʊt, lɛts du ɪt əˈɡɛn sun/"}]}],
+"practice":["Tự gọi đồ uống ở bar bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: bạn nhậu gọi đồ — bartender phục vụ.","Ôn lại 5 câu khó nhất của Ngày 66 trước khi bắt đầu."],
+"checks":["Đọc to 19 câu","Gọi đồ ở bar","Ôn lại Ngày 66"]},
+
+{"day":68,"slug":"ket-ban-moi","emoji":"👋","scenes":[
+{"vi":"Làm quen người mới","en":"Meeting someone new","sentences":[
+{"vi":"Mình thấy bạn đọc sách hay ở quán cà phê này.","en":"I keep seeing you reading at this café.","ipa":"/aɪ kip ˈsiɪŋ ju ˈridɪŋ æt ðɪs ˈkæfeɪ/"},
+{"vi":"Bạn đọc sách gì đấy, nhìn cuốn hút quá.","en":"What are you reading? It looks really gripping.","ipa":"/wʌt ɑr ju ˈridɪŋ, ɪt lʊks ˈrili ˈɡrɪpɪŋ/"},
+{"vi":"Mình cũng mê thể loại đó.","en":"I'm into that genre too.","ipa":"/aɪm ˈɪntu ðæt ˈʒɑnrə tu/"}]},
+{"vi":"Tìm điểm chung","en":"Finding common ground","sentences":[
+{"vi":"Bạn sống quanh đây lâu chưa?","en":"Have you lived in this area long?","ipa":"/hæv ju lɪvd ɪn ðɪs ˈɛriə lɔŋ/"},
+{"vi":"Mình mới qua Úc ba năm, còn nhiều bỡ ngỡ.","en":"I've only been in Australia three years — still figuring it out.","ipa":"/aɪv ˈoʊnli bɪn ɪn ɔˈstreɪljə θri jɪrz, stɪl ˈfɪɡjərɪŋ ɪt aʊt/"},
+{"vi":"Bạn thích làm gì cuối tuần?","en":"What do you get up to on weekends?","ipa":"/wʌt du ju ɡɛt ʌp tə ɑn ˈwikɛndz/", "note":"get up to = làm gì (đời thường)"},
+{"vi":"Mình thích đi bộ đường dài và chụp ảnh.","en":"I'm into hiking and photography.","ipa":"/aɪm ˈɪntu ˈhaɪkɪŋ ænd fəˈtɑɡrəfi/"}]},
+{"vi":"Mời gặp lại","en":"Suggesting a catch-up","sentences":[
+{"vi":"Bạn có muốn đi cà phê hôm nào không?","en":"Would you be up for grabbing a coffee sometime?","ipa":"/wʊd ju bi ʌp fər ˈɡræbɪŋ ə ˈkɔfi ˈsʌmtaɪm/"},
+{"vi":"Mình hay qua đây sáng thứ bảy, bạn rảnh thì qua.","en":"I'm usually here Saturday mornings if you want to join.","ipa":"/aɪm ˈjuʒuəli hɪr ˈsætərdeɪ ˈmɔrnɪŋz ɪf ju wɑnt tə ʤɔɪn/"},
+{"vi":"Có nhóm đi bộ cuối tuần, bạn muốn tham gia không?","en":"There's a weekend hiking group — want to join?","ipa":"/ðɛrz ə ˈwikɛnd ˈhaɪkɪŋ ɡrup, wɑnt tə ʤɔɪn/"},
+{"vi":"Cho mình xin số, mình nhắn lịch nhé.","en":"Can I get your number? I'll text you the details.","ipa":"/kæn aɪ ɡɛt jʊr ˈnʌmbər, aɪl tɛkst ju ðə ˈditeɪlz/"}]},
+{"vi":"Bạn bè mới","en":"New friendship forming","sentences":[
+{"vi":"Vui ghê, cuối cùng cũng có bạn cùng gu.","en":"Awesome — finally found someone with the same taste.","ipa":"/ˈɔsəm, ˈfaɪnəli faʊnd ˈsʌmwʌn wɪð ðə seɪm teɪst/"},
+{"vi":"Cảm ơn đã chủ động bắt chuyện với mình.","en":"Thanks for saying hi — I don't usually approach people.","ipa":"/θæŋks fər ˈseɪɪŋ haɪ, aɪ doʊnt ˈjuʒuəli əˈproʊtʃ ˈpipəl/"},
+{"vi":"Hẹn bạn sáng mai, mình đem bánh đãi.","en":"See you tomorrow morning — I'll bring some cakes.","ipa":"/si ju təˈmɔroʊ ˈmɔrnɪŋ, aɪl brɪŋ sʌm keɪks/"},
+{"vi":"Bạn mới mà cảm giác như quen lâu rồi.","en":"It's weird — I feel like I've known you for ages already.","ipa":"/ɪts wɪrd, aɪ fil laɪk aɪv noʊn ju fər ˈeɪʤɪz ɔlˈrɛdi/"}]}],
+"practice":["Tự bắt chuyện người lạ bằng 3 câu tự nhiên.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: hai người lạ làm quen ở cà phê.","Ôn lại 5 câu khó nhất của Ngày 67 trước khi bắt đầu."],
+"checks":["Đọc to 18 câu","Bắt chuyện tự nhiên","Ôn lại Ngày 67"]}
+]}
