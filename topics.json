@@ -121,5 +121,19 @@
 {"day":120,"slug":"bi-giat-tui-milan","vi":"Bị giật túi ở Milan","en":"Bag snatched in Milan","scenario":"Bị scooter giật túi ở Milan: khóa thẻ ngay trên phố, báo cảnh sát làm denuncia, claim bảo hiểm."},
 {"day":121,"slug":"lanh-xiu-helsinki","vi":"Lạnh xĩu ở Helsinki","en":"Freezing in Helsinki","scenario":"Âm hai mươi độ ở Helsinki: gần xĩu vì lạnh, vào siêu thị trú, mua đồ lông vũ thật, chữa bằng sauna."},
 {"day":122,"slug":"da-bong-barcelona","vi":"Xem đá bóng ở Barcelona","en":"Watching Barça live","scenario":"Đi xem trận Barça: săn vé, metro đông nghẹt áo đỏ xanh, hát theo khán đài, VAR hủy bàn, quán xá sau trận."},
-{"day":123,"slug":"tennis-melbourne","vi":"Xem tennis ở Melbourne","en":"Australian Open","scenario":"Ngày ở Australian Open: ground pass, sân ngoài, nắng gắt, hô 'Aussie Aussie Aussie', đêm ở Rod Laver Arena."}
+{"day":123,"slug":"tennis-melbourne","vi":"Xem tennis ở Melbourne","en":"Australian Open","scenario":"Ngày ở Australian Open: ground pass, sân ngoài, nắng gắt, hô 'Aussie Aussie Aussie', đêm ở Rod Laver Arena."},
+{"day":124,"slug":"the-chien-1","vi":"Lịch sử: Thế chiến 1","en":"World War I","scenario":"Kể lại Thế chiến 1: vụ ám sát Sarajevo, chiến hào bùn lầy, vũ khí mới, và hoà đàm Versailles gieo mầm chiến tranh sau."},
+{"day":125,"slug":"the-chien-2","vi":"Lịch sử: Thế chiến 2","en":"World War II","scenario":"Kể lại Thế chiến 2: Ba Lan sụp, Trân Châu Cảng, Stalingrad, D-Day, bom nguyên tử, và Liên Hiệp Quốc ra đời."},
+{"day":126,"slug":"cach-mang-phap","vi":"Lịch sử: Cách mạng Pháp","en":"French Revolution","scenario":"Kể lại Cách mạng Pháp: ngục Bastille, tuyên ngôn nhân quyền, máy chém, thời Khủng bố, và Napoleon lên ngôi."},
+{"day":127,"slug":"lien-xo-tan-ra","vi":"Lịch sử: Liên Xô tan rã","en":"USSR collapse","scenario":"Kể lại Liên Xô tan rã: chạy đua vũ trụ vũ khí, glasnost-perestroika, bức tường Berlin, đảo chính 1991, cờ đỏ hạ."},
+{"day":128,"slug":"ky-tich-song-han","vi":"Lịch sử: Kỳ tích sông Hàn","en":"Miracle on the Han River","scenario":"Kể lại Hàn Quốc từ nước nghèo nhất thế giới vươn lên: chaebol, đóng tàu, Olympic 1988, dân chủ hoá, K-pop."},
+{"day":129,"slug":"chien-tranh-trieu-tien","vi":"Lịch sử: Chiến tranh Triều Tiên","en":"Korean War","scenario":"Kể lại chiến tranh Triều Tiên: vĩ tuyến 38, đổ bộ Inchon, Trung Quốc vào cuộc, đình chiến mà không hiệp ước hoà bình."},
+{"day":130,"slug":"trung-co","vi":"Lịch sử: Đêm dài trung cổ","en":"The 'Dark Ages'","scenario":"Kể lại thời trung cổ: Rome sụp, phong kiến lâu đài, cái chết đen — và chuyện 'dark ages' có thật đen tối không."},
+{"day":131,"slug":"ho-so-alphabet","vi":"Hồ sơ công ty: Alphabet/Google","en":"Alphabet / Google","scenario":"Hồ sơ Google: hai anh sinh viên Stanford làm search, ads in tiền, mua YouTube, tách thành Alphabet, chạy đua AI."},
+{"day":132,"slug":"ho-so-meta","vi":"Hồ sơ công ty: Meta/Facebook","en":"Meta / Facebook","scenario":"Hồ sơ Meta: phòng ký túc Harvard, mua Instagram và WhatsApp bằng giá bị cười, bê bối dữ liệu, đổi tên đánh cược metaverse."},
+{"day":133,"slug":"ho-so-microsoft","vi":"Hồ sơ công ty: Microsoft","en":"Microsoft","scenario":"Hồ sơ Microsoft: Bill Gates bán MS-DOS, Windows thống trị, bị kiện độc quyền, lỡ mobile, Nadella cứu bằng cloud và OpenAI."},
+{"day":134,"slug":"ho-so-spacex","vi":"Hồ sơ công ty: SpaceX","en":"SpaceX","scenario":"Hồ sơ SpaceX: Elon Musk dồn tiền cuối vào Falcon 1, tên lửa biết đáp xuống, Starlink, và tham vọng sao Hoả."},
+{"day":135,"slug":"ho-so-oracle","vi":"Hồ sơ công ty: Oracle","en":"Oracle","scenario":"Hồ sơ Oracle: Larry Ellison và database quan hệ, đế chế phần mềm doanh nghiệp, mua Sun lấy Java, vào cloud trễ mà vẫn sống khoẻ."},
+{"day":136,"slug":"ho-so-apple","vi":"Hồ sơ công ty: Apple","en":"Apple","scenario":"Hồ sơ Apple: garage của Jobs, Macintosh, bị đuổi khỏi công ty mình, quay về cứu Apple, iPod tới iPhone, đỉnh 3 nghìn tỷ đô."},
+{"day":137,"slug":"ho-so-seek","vi":"Hồ sơ công ty: Seek.com.au","en":"Seek.com.au","scenario":"Hồ sơ Seek: ba người Úc giết báo chí tuyển dụng bằng website việc làm, thống trị Úc-New Zealand, bành trướng châu Á."}
 ]
