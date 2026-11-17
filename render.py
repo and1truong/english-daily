@@ -93,9 +93,9 @@ def render_index():
     parts = [HEAD.format(day="—", title="Bản đồ chủ đề")]
     parts.append('  <span class="day-badge">English Daily</span>\n')
     parts.append('  <h1>Sổ tay hội thoại tưởng tượng</h1>\n')
-    parts.append('  <div class="subtitle">3 tháng · mỗi ngày một chủ đề · 20–25 câu · suy nghĩ tiếng Việt → câu tiếng Anh tự nhiên → phiên âm IPA</div>\n\n')
+    parts.append(f'  <div class="subtitle">{len(TOPICS)} ngày · mỗi ngày một chủ đề · 20–25 câu · suy nghĩ tiếng Việt → câu tiếng Anh tự nhiên → phiên âm IPA</div>\n\n')
     parts.append('  <div class="goal">\n    <b>Cách dùng:</b> chọn chủ đề của ngày → đọc câu tiếng Việt, tự tưởng tượng mình đang nói →\n    nhìn câu tiếng Anh, đọc to theo phiên âm → nói trước gương không nhìn chữ.\n    Ôn lại câu của hôm trước trước khi học chủ đề mới.\n  </div>\n')
-    parts.append('  <div class="legend">✅ = đã có bài · mỗi chủ đề là một ngày luyện tập</div>\n')
+    parts.append('  <div class="legend">xanh = đã có bài · mỗi chủ đề là một ngày luyện tập</div>\n')
     max_week = max(t["day"] for t in TOPICS) // 7 + 1
     for week in range(1, max_week + 1):
         wdays = [t for t in TOPICS if (t["day"] - 1) // 7 + 1 == week]
@@ -104,10 +104,8 @@ def render_index():
         lo, hi = wdays[0]["day"], wdays[-1]["day"]
         parts.append(f'\n  <div class="group">\n    <h3>Tuần {week} · Ngày {lo}–{hi}</h3>\n    <div class="topics">\n')
         for t in wdays:
-            if t["day"] in done:
-                parts.append(f'      <span class="topic done"><a href="day-{t["day"]:02d}-{t["slug"]}.html">✅ {t["day"]} · {esc(t["vi"])}</a></span>\n')
-            else:
-                parts.append(f'      <span class="topic">{t["day"]} · {esc(t["vi"])}</span>\n')
+            cls = "topic done" if t["day"] in done else "topic"
+            parts.append(f'      <span class="{cls}"><a href="day-{t["day"]:02d}-{t["slug"]}.html">{t["day"]} · {esc(t["vi"])}</a></span>\n')
         parts.append('    </div>\n  </div>\n')
     parts.append('\n  <div class="nav">\n    <a href="day-01-sieu-thi.html">Bắt đầu → Ngày 1: Đi siêu thị</a>\n    <span></span>\n  </div>\n</div>\n</body>\n</html>\n')
     (BASE / "index.html").write_text("".join(parts))
