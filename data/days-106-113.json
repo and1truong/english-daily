@@ -1,0 +1,187 @@
+{"days":[
+
+{"day":106,"slug":"nha-hang-nhat","emoji":"🍣","scenes":[
+{"vi":"Đặt bàn & đồ uống","en":"Booking & drinks","sentences":[
+{"vi":"Tụi mình đặt bàn bảy giờ, quán này đông lắm.","en":"I booked us a table for seven — this place fills up fast.","ipa":"/aɪ ˈbʊkt əs ə ˈteɪbəl fər ˈsɛvən, ðɪs pleɪs fɪlz ʌp fæst/"},
+{"vi":"Ông uống sake nóng hay lạnh?","en":"You going for hot or cold sake?","ipa":"/ju ˈɡoʊɪŋ fər hɑt ɔr koʊld ˈsɑki/","actor":"Tùng"},
+{"vi":"Mình xin trà xanh trước, rượu để sau.","en":"Green tea for me first — sake later.","ipa":"/ɡrin ti fər mi fɜrst, ˈsɑki ˈleɪtər/"},
+{"vi":"Menu dày cộp, nhìn đâu cũng muốn gọi.","en":"The menu is huge — I want to order everything.","ipa":"/ðə ˈmɛnju ɪz hjuʤ, aɪ wɑnt tə ˈɔrdər ˈɛvriˌθɪŋ/"}]},
+{"vi":"Gọi món","en":"Ordering","sentences":[
+{"vi":"Cho tụi con một set sushi tổng hợp hai người.","en":"We'll get the sushi platter for two, please.","ipa":"/wil ɡɛt ðə ˈsuʃi ˈplætər fər tu, pliz/"},
+{"vi":"Hôm nay có món gì tươi anh giới thiệu không?","en":"What's fresh today that you'd recommend?","ipa":"/wʌts frɛʃ təˈdeɪ ðæt jud ˌrɛkəˈmɛnd/"},
+{"vi":"Cá ngừ bụng mới về sáng nay ạ.","en":"The tuna belly just came in this morning.","ipa":"/ðə ˈtunə ˈbɛli ʤʌst keɪm ɪn ðɪs ˈmɔrnɪŋ/","actor":"nhân viên"},
+{"vi":"Thêm một phần sashimi với tempura tôm.","en":"Add a sashimi plate and prawn tempura too.","ipa":"/æd ə sɑˈʃimi pleɪt ænd prɔn tɛmˈpʊrə tu/"}]},
+{"vi":"Ăn & khen","en":"Eating & complimenting","sentences":[
+{"vi":"Cá tươi tan trong miệng, không cần nhai.","en":"The fish is so fresh it melts in your mouth.","ipa":"/ðə fɪʃ ɪz soʊ frɛʃ ɪt mɛlts ɪn jʊr maʊθ/"},
+{"vi":"Wasabi này cay xè lên mũi luôn.","en":"That wasabi shoots straight up your nose.","ipa":"/ðæt wəˈsɑbi ʃuts streɪt ʌp jʊr noʊz/"},
+{"vi":"Gừng ăn kèm là để reset vị giác đó.","en":"The ginger is there to reset your palate.","ipa":"/ðə ˈʤɪnʤər ɪz ðɛr tə ˈrisɛt jʊr ˈpælɪt/"},
+{"vi":"Cách chấm đúng là nhúng phần cá, không phải phần cơm.","en":"Proper way: dip the fish side, not the rice.","ipa":"/ˈprɑpər weɪ, dɪp ðə fɪʃ saɪd, nɑt ðə raɪs/"}]},
+{"vi":"Kết bữa","en":"Wrapping up","sentences":[
+{"vi":"Chốt bữa bằng kem trà xanh nhé.","en":"Let's finish with the matcha ice cream.","ipa":"/lɛts ˈfɪnɪʃ wɪð ðə ˈmɑtʃə aɪs krim/"},
+{"vi":"Bữa nay đáng tiền, lần sau thử omakase.","en":"Worth every cent — next time we try the omakase.","ipa":"/wɜrθ ˈɛvri sɛnt, nɛkst taɪm wi traɪ ði oʊməˈkɑseɪ/","note":"omakase = để đầu bếp tự chọn món"},
+{"vi":"Gochisousama — cảm ơn bữa ăn ngon.","en":"Gochisousama — thanks for the feast.","ipa":"/ɡoʊˌtʃisoʊˈsɑmə, θæŋks fər ðə fist/","note":"lời cảm ơn sau bữa ăn kiểu Nhật"}]}],
+"practice":["Kể 3 món Nhật đã gọi và cách ăn đúng, không nhìn chữ.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: một người gọi món — một nhân viên tư vấn.","Ôn lại 5 câu khó nhất của Ngày 105 trước khi bắt đầu."],
+"checks":["Đọc to 15 câu","Gọi món Nhật","Ôn lại Ngày 105"]},
+
+{"day":107,"slug":"nha-hang-han","emoji":"🥘","scenes":[
+{"vi":"BBQ tại bàn","en":"Table BBQ","sentences":[
+{"vi":"Nhà hàng Hàn nướng thịt ngay tại bàn luôn.","en":"At Korean BBQ you grill the meat right at your table.","ipa":"/æt kəˈriən ˌbɑrbɪˈkju ju ɡrɪl ðə mit raɪt æt jʊr ˈteɪbəl/"},
+{"vi":"Khói thơm nức mũi, đói không chịu nổi.","en":"The smell of grilling meat is making me starving.","ipa":"/ðə smɛl əv ˈɡrɪlɪŋ mit ɪz ˈmeɪkɪŋ mi ˈstɑrvɪŋ/"},
+{"vi":"Gọi set thịt ba chỉ với sườn bò trước đi.","en":"Let's start with the pork belly and beef rib set.","ipa":"/lɛts stɑrt wɪð ðə pɔrk ˈbɛli ænd bif rɪb sɛt/"},
+{"vi":"Banchan tới trước — toàn món ăn kèm miễn phí.","en":"Here come the banchan — free side dishes.","ipa":"/hɪr kʌm ðə ˈbɑnˌtʃɑn, fri saɪd ˈdɪʃɪz/","actor":"Tùng"}]},
+{"vi":"Cuốn thịt đúng điệu","en":"The proper wrap","sentences":[
+{"vi":"Cách ăn chuẩn: cuốn thịt trong lá xà lách.","en":"Proper way: wrap the meat in a lettuce leaf.","ipa":"/ˈprɑpər weɪ, ræp ðə mit ɪn ə ˈlɛtɪs lif/"},
+{"vi":"Thêm tỏi sống, ssamjang, kimchi rồi cuốn lại.","en":"Add raw garlic, ssamjang, kimchi — then roll it up.","ipa":"/æd rɔ ˈɡɑrlɪk, sɑmˈʤɑŋ, ˈkɪmtʃi, ðɛn roʊl ɪt ʌp/"},
+{"vi":"Nhét cả cuốn vô miệng một lần mới ngon.","en":"You're meant to shove the whole wrap in one bite.","ipa":"/jʊr mɛnt tə ʃʌv ðə hoʊl ræp ɪn wʌn baɪt/","actor":"Tùng"},
+{"vi":"Soju rót đầy, cạn theo kiểu Hàn.","en":"Soju poured to the brim — cheers, Korean style.","ipa":"/ˈsoʊʤu pɔrd tə ðə brɪm, tʃɪrz, kəˈriən staɪl/"}]},
+{"vi":"Món kèm","en":"Sides & extras","sentences":[
+{"vi":"Kimchi chua cay cân bằng, ngon vừa độ.","en":"The kimchi hits the right level — sour and spicy in balance.","ipa":"/ðə ˈkɪmtʃi hɪts ðə raɪt ˈlɛvəl, saʊər ænd ˈspaɪsi ɪn ˈbæləns/"},
+{"vi":"Thêm phần canh kimchi với trứng hấp đi anh.","en":"Can we add the kimchi stew and the steamed egg?","ipa":"/kæn wi æd ðə ˈkɪmtʃi stu ænd ðə stimd ɛɡ/"},
+{"vi":"Trứng hấp mềm như flan, ăn hoài không chán.","en":"The steamed egg is silky like flan — can't stop eating it.","ipa":"/ðə stimd ɛɡ ɪz ˈsɪlki laɪk flɑn, kænt stɑp ˈitɪŋ ɪt/"},
+{"vi":"Tteokbokki cay ngọt dai dai, ghiền.","en":"The tteokbokki is chewy and spicy-sweet — addictive.","ipa":"/ðə ˌtɔkˈbɔki ɪz ˈtʃui ænd ˈspaɪsi swit, əˈdɪktɪv/","note":"tteokbokki = bánh gạo cay"}]},
+{"vi":"Kết","en":"Wrapping up","sentences":[
+{"vi":"Cơm trộn stone pot cuối bữa là chuẩn bài.","en":"Finishing with the stone pot bibimbap is the classic move.","ipa":"/ˈfɪnɪʃɪŋ wɪð ðə stoʊn pɑt ˈbibɪmˌbɑp ɪz ðə ˈklæsɪk muv/"},
+{"vi":"Quần áo ám mùi BBQ cả tuần — đáng.","en":"My clothes will smell like BBQ all week — worth it.","ipa":"/maɪ kloʊðz wɪl smɛl laɪk ˌbɑrbɪˈkju ɔl wik, wɜrθ ɪt/"},
+{"vi":"Lần sau đi quán gà rán Hàn.","en":"Next time, the Korean fried chicken joint.","ipa":"/nɛkst taɪm, ðə kəˈriən fraɪd ˈtʃɪkɪn ʤɔɪnt/"}]}],
+"practice":["Mô tả cách cuốn thịt kiểu Hàn bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: một người lần đầu ăn BBQ Hàn — một người hướng dẫn.","Ôn lại 5 câu khó nhất của Ngày 106 trước khi bắt đầu."],
+"checks":["Đọc to 15 câu","Ăn BBQ Hàn","Ôn lại Ngày 106"]},
+
+{"day":108,"slug":"nha-hang-viet","emoji":"🇻🇳","scenes":[
+{"vi":"Giới thiệu quán","en":"Introducing the place","sentences":[
+{"vi":"Quán này mình ăn từ nhỏ, gia truyền ba đời.","en":"This place is a family joint — three generations deep.","ipa":"/ðɪs pleɪs ɪz ə ˈfæməli ʤɔɪnt, θri ˌʤɛnəˈreɪʃənz dip/"},
+{"vi":"Menu toàn món bình dân, không có gì fancy.","en":"The menu's all street food — nothing fancy.","ipa":"/ðə ˈmɛnjuz ɔl strit fud, ˈnʌθɪŋ ˈfænsi/"},
+{"vi":"Nghe nói phở ở đây là nhất vùng.","en":"They say the phở here is the best in the area.","ipa":"/ðeɪ seɪ ðə fɜ hɪr ɪz ðə bɛst ɪn ði ˈɛriə/"},
+{"vi":"Mùi nước dùng thơm phức ngay từ cửa.","en":"You can smell the broth right from the door.","ipa":"/ju kæn smɛl ðə brɔθ raɪt frʌm ðə dɔr/","actor":"Jack"}]},
+{"vi":"Gọi & ăn phở","en":"Ordering & the phở","sentences":[
+{"vi":"Cho hai tô tái chín nhé chị.","en":"Two bowls of rare beef phở, thanks.","ipa":"/tu boʊlz əv rɛr bif fɜ, θæŋks/"},
+{"vi":"Cách ăn: vắt chanh, bỏ rau thơm, húp nước trước.","en":"The ritual: squeeze the lime, add the herbs, sip the broth first.","ipa":"/ðə ˈrɪtʃuəl, skwiz ðə laɪm, æd ði ɜrbz, sɪp ðə brɔθ fɜrst/"},
+{"vi":"Đũa cho mì, muỗng cho nước — hai tay phối hợp.","en":"Chopsticks for the noodles, spoon for the broth — it's a two-hand job.","ipa":"/ˈtʃɑpstɪks fər ðə ˈnudəlz, spun fər ðə brɔθ, ɪts ə tu hænd ʤɑb/"},
+{"vi":"Ngọt của nước dùng là từ xương hầm.","en":"That broth sweetness comes straight from the bones.","ipa":"/ðæt brɔθ ˈswitnəs kʌmz streɪt frʌm ðə boʊnz/"}]},
+{"vi":"Gỏi cuốn & cà phê","en":"Fresh rolls & coffee","sentences":[
+{"vi":"Gỏi cuốn chấm tương đậu phộng, ăn nhẹ mà ngon.","en":"Fresh rolls with peanut sauce — light but tasty.","ipa":"/frɛʃ roʊlz wɪð ˈpinʌt sɔs, laɪt bət ˈteɪsti/"},
+{"vi":"Bánh mì giòn rụm, pate béo, rau giải ngán.","en":"The bánh mì is crackly, the pâté rich, the pickles cut through it.","ipa":"/ðə ˈbæn mi ɪz ˈkrækli, ðə pɑˈteɪ rɪtʃ, ðə ˈpɪkəlz kʌt θru ɪt/","actor":"Jack"},
+{"vi":"Ủa sao cà phê nhỏ giọt lâu thế?","en":"Why does the coffee drip so slowly?","ipa":"/waɪ dʌz ðə ˈkɔfi drɪp soʊ ˈsloʊli/","actor":"Jack"},
+{"vi":"Phin nhỏ giọt vậy mới đậm — đi đâu vội.","en":"The slow drip is what makes it strong — no rush.","ipa":"/ðə sloʊ drɪp ɪz wʌt meɪks ɪt strɔŋ, noʊ rʌʃ/"},
+{"vi":"Cà phê sữa đá Việt Nam ngọt đậm, phê hơn espresso.","en":"Vietnamese iced coffee is sweet and strong — hits harder than espresso.","ipa":"/ˌvjɛtnəˈmiz aɪst ˈkɔfi ɪz swit ænd strɔŋ, hɪts ˈhɑrdər ðæn ɛˈsprɛsoʊ/"}]},
+{"vi":"Kết","en":"Verdict","sentences":[
+{"vi":"Bạn Úc kêu lần sau tự đi ăn một mình.","en":"My Aussie mate says he's coming back solo next week.","ipa":"/maɪ ˈɔsi meɪt sɛz hiz ˈkʌmɪŋ bæk ˈsoʊloʊ nɛkst wik/"},
+{"vi":"Mỗi lần dẫn ai đi ăn Việt là lại tự hào.","en":"Every time I show someone Viet food, I'm proud all over again.","ipa":"/ˈɛvri taɪm aɪ ʃoʊ ˈsʌmwʌn ˈvjɛt fud, aɪm praʊd ˌoʊvər əˈɡɛn/"}]}],
+"practice":["Giải thích cách ăn phở cho người nước ngoài bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: một người Việt — một người Úc lần đầu ăn phở.","Ôn lại 5 câu khó nhất của Ngày 107 trước khi bắt đầu."],
+"checks":["Đọc to 15 câu","Dẫn bạn ăn Việt","Ôn lại Ngày 107"]},
+
+{"day":109,"slug":"nha-hang-thai","emoji":"🌶️","scenes":[
+{"vi":"Gọi món & độ cay","en":"Ordering & spice levels","sentences":[
+{"vi":"Nhà hàng Thái này cay chuẩn vị Bangkok.","en":"This Thai place does proper Bangkok-level spice.","ipa":"/ðɪs taɪ pleɪs dʌz ˈprɑpər ˈbæŋˌkɑk ˈlɛvəl spaɪs/"},
+{"vi":"Ông chịu cay tới cỡ nào?","en":"How much heat can you handle?","ipa":"/haʊ mʌtʃ hit kæn ju ˈhændəl/","actor":"Tùng"},
+{"vi":"Mình xin medium, đừng Thai spicy — cay khóc đấy.","en":"Medium for me — not 'Thai spicy', that stuff makes you cry.","ipa":"/ˈmidiəm fər mi, nɑt taɪ ˈspaɪsi, ðæt stʌf meɪks ju kraɪ/"},
+{"vi":"Cho hai phần pad thai với một tom yum nhỏ.","en":"Two pad thai and a small tom yum, please.","ipa":"/tu pæd taɪ ænd ə smɔl tɑm jʌm, pliz/"},
+{"vi":"Gọi thêm đĩa spring rolls cho vui.","en":"Throw in some spring rolls for good measure.","ipa":"/θroʊ ɪn sʌm sprɪŋ roʊlz fər ɡʊd ˈmɛʒər/"}]},
+{"vi":"Tom yum & món chính","en":"Tom yum & mains","sentences":[
+{"vi":"Tom yum chua cay sả mắm, hít một hơi tỉnh ngủ.","en":"Tom yum is sour, spicy, lemongrassy — one whiff wakes you up.","ipa":"/tɑm jʌm ɪz saʊər, ˈspaɪsi, ˈlɛmənˌɡræsi, wʌn wɪf weɪks ju ʌp/"},
+{"vi":"Pad thai đúng điệu: ngọt nhẹ, chua me, đậu phộng giòn.","en":"Good pad thai: lightly sweet, tamarind tang, crunchy peanuts.","ipa":"/ɡʊd pæd taɪ, ˈlaɪtli swit, ˈtæmərɪnd tæŋ, ˈkrʌntʃi ˈpinʌts/"},
+{"vi":"Cà ri xanh sánh dừa, cay từ từ leo lên.","en":"The green curry is coconutty — the heat builds slowly.","ipa":"/ðə ɡrin ˈkɜri ɪz koʊˈkʌnəti, ðə hit bɪldz ˈsloʊli/"},
+{"vi":"Ăn với cơm jasmin thơm mới đúng bài.","en":"You've got to have it with jasmine rice.","ipa":"/juv ɡɑt tə hæv ɪt wɪð ˈʤæzmɪn raɪs/"}]},
+{"vi":"Đồ uống & tráng miệng","en":"Drinks & dessert","sentences":[
+{"vi":"Trà sữa Thái ngọt cam cam, dập cay ngon lành.","en":"Thai iced tea is orange and sweet — kills the heat perfectly.","ipa":"/taɪ aɪst ti ɪz ˈɔrɪnʤ ænd swit, kɪlz ðə hit ˈpɜrfɪktli/"},
+{"vi":"Xoài nước cốt dừa với sticky rice là chân ái.","en":"Mango sticky rice with coconut cream is the one.","ipa":"/ˈmæŋɡoʊ ˈstɪki raɪs wɪð ˈkoʊkəˌnʌt krim ɪz ðə wʌn/"},
+{"vi":"Đồ Thái hay ở chỗ mọi vị đều đánh mạnh.","en":"Thai food doesn't do subtle — every flavour hits hard.","ipa":"/taɪ fud ˈdʌzənt du ˈsʌtəl, ˈɛvri ˈfleɪvər hɪts hɑrd/"},
+{"vi":"Nước mắm kiểu Thái lợ hơn của mình nhỉ.","en":"Their fish sauce is lighter than ours, right?","ipa":"/ðɛr fɪʃ sɔs ɪz ˈlaɪtər ðæn ˈaʊərz, raɪt/","actor":"Tùng"}]},
+{"vi":"Kết","en":"Verdict","sentences":[
+{"vi":"Cay đổ mồ hôi mà vẫn muốn ăn tiếp — Thái hay vậy.","en":"Sweating through the spice but still reaching for more — that's Thai food.","ipa":"/ˈswɛtɪŋ θru ðə spaɪs bət stɪl ˈritʃɪŋ fər mɔr, ðæts taɪ fud/"},
+{"vi":"Lần sau thử quán som tum cuối phố.","en":"Next time, that som tum spot down the street.","ipa":"/nɛkst taɪm, ðæt sɑm tʌm spɑt daʊn ðə strit/","note":"som tum = gỏi đu đủ xanh"}]}],
+"practice":["Giải thích độ cay và gọi món Thái bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: một người sợ cay — một người mê cay.","Ôn lại 5 câu khó nhất của Ngày 108 trước khi bắt đầu."],
+"checks":["Đọc to 15 câu","Gọi món Thái","Ôn lại Ngày 108"]},
+
+{"day":110,"slug":"nha-hang-y","emoji":"🍝","scenes":[
+{"vi":"Vào bàn & rượu","en":"Seated & wine","sentences":[
+{"vi":"Nhà hàng Ý tối nay nến với nhạc jazz, lãng mạn phết.","en":"Candles, jazz, the works — this Italian place is pretty romantic.","ipa":"/ˈkændəlz, ʤæz, ðə wɜrks, ðɪs ɪˈtæljən pleɪs ɪz ˈprɪti roʊˈmæntɪk/"},
+{"vi":"Mình gọi chai chianti chia cho vui.","en":"Let's split a bottle of chianti.","ipa":"/lɛts splɪt ə ˈbɑtəl əv kiˈɑnti/"},
+{"vi":"Hồi trước mình tưởng nhà hàng Ý chỉ có pizza pasta.","en":"I used to think Italian restaurants were just pizza and pasta.","ipa":"/aɪ juzd tə θɪŋk ɪˈtæljən ˈrɛstəˌrɑnts wɜr ʤʌst ˈpitsə ænd ˈpɑstə/","actor":"Tùng"},
+{"vi":"Vùng nào cũng có món riêng, ăn cả nước Ý không hết.","en":"Every region has its own dishes — the whole country never repeats.","ipa":"/ˈɛvri ˈriʤən hæz ɪts oʊn ˈdɪʃɪz, ðə hoʊl ˈkʌntri ˈnɛvər rɪˈpits/"}]},
+{"vi":"Antipasti & món chính","en":"Starters & mains","sentences":[
+{"vi":"Antipasto mở bữa: prosciutto, phô mai, ô liu.","en":"Antipasto to start: prosciutto, cheese, olives.","ipa":"/ˌæntiˈpɑstoʊ tə stɑrt, proʊˈʃutoʊ, tʃiz, ˈɑlɪvz/"},
+{"vi":"Carbonara đúng kiểu Roman không có kem.","en":"Real Roman carbonara has no cream.","ipa":"/ril ˈroʊmən ˌkɑrbəˈnɑrə hæz noʊ krim/","note":"chỉ trứng + pecorino + guanciale"},
+{"vi":"Mì al dente dai vừa, sốt bám từng sợi.","en":"The pasta is al dente and the sauce clings to every strand.","ipa":"/ðə ˈpɑstə ɪz ɑl ˈdɛnteɪ ænd ðə sɔs klɪŋz tu ˈɛvri strænd/"},
+{"vi":"Osso buco nấu tới tụt xương, cắt được bằng thìa.","en":"The osso buco is so tender you can cut it with a spoon.","ipa":"/ði ˈɑsoʊ ˈbukoʊ ɪz soʊ ˈtɛndər ju kæn kʌt ɪt wɪð ə spun/"}]},
+{"vi":"Bàn chuyện ăn Ý","en":"Talking Italian","sentences":[
+{"vi":"Người Ý ăn khuya, quán vắng tới bảy giờ mới đông.","en":"Italians eat late — this place doesn't fill up until seven.","ipa":"/ɪˈtæljənz it leɪt, ðɪs pleɪs ˈdʌzənt fɪl ʌp ənˈtɪl ˈsɛvən/"},
+{"vi":"Pizza ở đây đế mỏng nướng củi, vành phồng xẹp.","en":"The pizza is wood-fired thin crust with puffy edges.","ipa":"/ðə ˈpitsə ɪz wʊd faɪərd θɪn krʌst wɪð ˈpʌfi ˈɛʤɪz/"},
+{"vi":"Quy tắc: cappuccino chỉ uống sáng, tối gọi là bị chê.","en":"Rule of thumb: cappuccino is a morning drink — order it at night and they judge you.","ipa":"/rul əv θʌm, ˌkæpəˈtʃinoʊ ɪz ə ˈmɔrnɪŋ drɪŋk, ˈɔrdər ɪt æt naɪt ænd ðeɪ ʤʌʤ ju/"},
+{"vi":"Parmesan bào tại bàn, mùi thơm phức.","en":"They grate the parmesan at your table — smells incredible.","ipa":"/ðeɪ ɡreɪt ðə ˈpɑrməˌzɑn æt jʊr ˈteɪbəl, smɛlz ɪnˈkrɛdəbəl/"}]},
+{"vi":"Tráng miệng","en":"Dessert","sentences":[
+{"vi":"Tiramisu phải có mascarpone thật mới đúng.","en":"Proper tiramisu needs real mascarpone.","ipa":"/ˈprɑpər ˌtɪrəmiˈsu nidz ril ˌmɑskɑrˈpoʊni/"},
+{"vi":"Espresso cuối bữa, đắng nhẹ tỉnh táo.","en":"An espresso to finish — sharp and clean.","ipa":"/ən ɛˈsprɛsoʊ tə ˈfɪnɪʃ, ʃɑrp ænd klin/"},
+{"vi":"Bữa nay như tour miền nam nước Ý.","en":"Tonight was a little tour of southern Italy.","ipa":"/təˈnaɪt wʌz ə ˈlɪtəl tʊr əv ˈsʌðərn ˈɪtəli/"}]}],
+"practice":["Giải thích 3 quy tắc ăn kiểu Ý mà không nhìn chữ.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: một người gọi món — một người am hiểu ẩm thực Ý.","Ôn lại 5 câu khó nhất của Ngày 109 trước khi bắt đầu."],
+"checks":["Đọc to 15 câu","Ăn kiểu Ý","Ôn lại Ngày 109"]},
+
+{"day":111,"slug":"buffet-hai-san","emoji":"🦞","scenes":[
+{"vi":"Chiến thuật buffet","en":"Buffet strategy","sentences":[
+{"vi":"Buffet hải sản tám mươi đô một người, ăn phải có chiến thuật.","en":"Eighty bucks a head for the seafood buffet — you need a game plan.","ipa":"/ˈeɪti bʌks ə hɛd fər ðə ˈsifud bəˈfeɪ, ju nid ə ɡeɪm plæn/"},
+{"vi":"Quy tắc một: không đụng cơm mì trước.","en":"Rule one: no rice or noodles first.","ipa":"/rul wʌn, noʊ raɪs ɔr ˈnudəlz fɜrst/"},
+{"vi":"Vòng một hàu sống, vòng hai tôm hùm, vòng ba cua.","en":"Round one is oysters, round two lobster, round three crab.","ipa":"/raʊnd wʌn ɪz ˈɔɪstərz, raʊnd tu ˈlɑbstər, raʊnd θri kræb/"},
+{"vi":"Thằng Tùng lỡ đớp ba cái bánh bao rồi.","en":"Tùng already blew it on three baos.","ipa":"/tʌŋz ɔlˈrɛdi blu ɪt ɑn θri baʊz/"}]},
+{"vi":"Đứng hàng lấy đồ","en":"At the counters","sentences":[
+{"vi":"Quầy hàu đông nhất, phải canh lúc họ refill.","en":"The oyster counter is the busiest — you have to time the refills.","ipa":"/ði ˈɔɪstər ˈkaʊntər ɪz ðə ˈbɪzɪst, ju hæv tə taɪm ðə ˈrifɪlz/"},
+{"vi":"Cua tuyết chân ngọt, đáng xếp hàng.","en":"The snow crab is sweet — worth the queue.","ipa":"/ðə snoʊ kræb ɪz swit, wɜrθ ðə kju/"},
+{"vi":"Sashimi cá hồi thái dày, không tiếc tay.","en":"The salmon sashimi is cut thick — they don't skimp.","ipa":"/ðə ˈsæmən sɑˈʃimi ɪz kʌt θɪk, ðeɪ doʊnt skɪmp/"},
+{"vi":"Lấy ít thôi quay lại sau — chỉ có 90 phút.","en":"Small plates, come back for more — we've only got ninety minutes.","ipa":"/smɔl pleɪts, kʌm bæk fər mɔr, wiv ˈoʊnli ɡɑt ˈnaɪnti ˈmɪnɪts/"}]},
+{"vi":"Nghỉ giữa bữa","en":"Mid-game break","sentences":[
+{"vi":"Nghỉ giữa bữa, uống trà cho bụng xả.","en":"Take a break, sip some tea — let the stomach reset.","ipa":"/teɪk ə breɪk, sɪp sʌm ti, lɛt ðə ˈstʌmək ˈrisɛt/"},
+{"vi":"Đồ chiên hấp dẫn nhưng là bẫy no nhanh.","en":"The fried stuff is a trap — fills you up fast.","ipa":"/ðə fraɪd stʌf ɪz ə træp, fɪlz ju ʌp fæst/"},
+{"vi":"Nước chanh ấm giúp tiêu cho vòng tiếp.","en":"Warm lemon water helps you go another round.","ipa":"/wɔrm ˈlɛmən ˈwɔtər hɛlps ju ɡoʊ əˈnʌðər raʊnd/"},
+{"vi":"Trông Tùng đã lê bước rồi.","en":"Tùng's already waddling.","ipa":"/tʌŋz ɔlˈrɛdi ˈwɑdəlɪŋ/"}]},
+{"vi":"Tráng miệng & chốt","en":"Dessert & verdict","sentences":[
+{"vi":"Kem với trái cây là kết nhẹ nhàng nhất.","en":"Ice cream and fruit is the safest ending.","ipa":"/aɪs krim ænd frut ɪz ðə ˈseɪfɪst ˈɛndɪŋ/"},
+{"vi":"Tính ra ăn được gần giá vé, không lỗ.","en":"Did the math — we ate about what we paid. No loss.","ipa":"/dɪd ðə mæθ, wi eɪt əˈbaʊt wʌt wi peɪd, noʊ lɔs/"},
+{"vi":"Lần sau nhịn cả trưa mới đáng.","en":"Next time I'm skipping lunch entirely — that's the play.","ipa":"/nɛkst taɪm aɪm ˈskɪpɪŋ lʌntʃ ɪnˈtaɪrli, ðæts ðə pleɪ/"}]}],
+"practice":["Trình bày chiến thuật buffet 3 vòng mà không nhìn chữ.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: một người có chiến thuật — một người ăn bừa.","Ôn lại 5 câu khó nhất của Ngày 110 trước khi bắt đầu."],
+"checks":["Đọc to 15 câu","Chiến thuật buffet","Ôn lại Ngày 110"]},
+
+{"day":112,"slug":"lau-viet-nam","emoji":"🍲","scenes":[
+{"vi":"Gọi nồi","en":"Choosing the pot","sentences":[
+{"vi":"Lẩu Việt đông nghi ngút, mùi mắm thơm khắp quán.","en":"The hotpot steam is everywhere — you can smell the fish sauce across the room.","ipa":"/ðə ˈhɑtˌpɑt stim ɪz ˈɛvriˌwɛr, ju kæn smɛl ðə fɪʃ sɔs əˈkrɔs ðə rum/"},
+{"vi":"Hai nồi nhỏ hay một nồi lớn ông?","en":"Two small pots or one big one for us?","ipa":"/tu smɔl pɑts ɔr wʌn bɪɡ wʌn fər əs/","actor":"Tùng"},
+{"vi":"Một nồi lẩu mắm một nồi lẩu thái — chơi lớn luôn.","en":"One lẩu mắm and one lẩu thái — let's go big.","ipa":"/wʌn ˈləw mɑm ænd wʌn ˈləw taɪ, lɛts ɡoʊ bɪɡ/"},
+{"vi":"Phần nhúng: bò, tôm, mực, nấm, rau muống.","en":"For dipping: beef, prawns, squid, mushrooms, water spinach.","ipa":"/fər ˈdɪpɪŋ, bif, prɔnz, skwɪd, ˈmʌʃrumz, ˈwɔtər ˈspɪnɪtʃ/"}]},
+{"vi":"Nhúng đúng điệu","en":"Dipping right","sentences":[
+{"vi":"Nước sôi rồi mới nhúng, đừng vội.","en":"Wait for the boil before you dip — patience.","ipa":"/weɪt fər ðə bɔɪl bɪˈfɔr ju dɪp, ˈpeɪʃəns/"},
+{"vi":"Bò nhúng vài giây, tái vừa là ngon nhất.","en":"Beef only needs a few seconds — rare is perfect.","ipa":"/bif ˈoʊnli nidz ə fju ˈsɛkəndz, rɛr ɪz ˈpɜrfɪkt/"},
+{"vi":"Mực đừng nấu lâu, dai như đuôi giày.","en":"Don't overcook the squid — it turns to rubber.","ipa":"/doʊnt ˌoʊvərˈkʊk ðə skwɪd, ɪt tɜrnz tə ˈrʌbər/","actor":"Tùng"},
+{"vi":"Rau nhúng chớp nhoáng, chín vừa giòn ngọt.","en":"The greens take a quick blanch — crisp and sweet.","ipa":"/ðə ɡrinz teɪk ə kwɪk blæntʃ, krɪsp ænd swit/"}]},
+{"vi":"Nước chấm & mì cuối","en":"Dips & the finale","sentences":[
+{"vi":"Nước mắm gừng cho hải sản, sa tế cho thịt.","en":"Ginger fish sauce for the seafood, satay for the meat.","ipa":"/ˈʤɪnʤər fɪʃ sɔs fər ðə ˈsifud, ˈsɑteɪ fər ðə mit/"},
+{"vi":"Phần quan trọng nhất: vắt mì gói vào cuối bữa.","en":"The best part: drop the instant noodles in at the end.","ipa":"/ðə bɛst pɑrt, drɑp ði ˈɪnstənt ˈnudəlz ɪn æt ði ɛnd/"},
+{"vi":"Nước lẩu cuối bữa ngọt tổng hợp mọi thứ.","en":"The broth at the end is everything combined — liquid gold.","ipa":"/ðə brɔθ æt ði ɛnd ɪz ˈɛvriˌθɪŋ kəmˈbaɪnd, ˈlɪkwɪd ɡoʊld/"},
+{"vi":"Ai cũng đợi mì, hết mì mới về.","en":"Everyone waits for the noodles — that's the real finale.","ipa":"/ˈɛvriˌwʌn weɪts fər ðə ˈnudəlz, ðæts ðə ril fɪˈnɑli/"}]},
+{"vi":"Kết","en":"Verdict","sentences":[
+{"vi":"Lẩu là bữa ăn xã giao nhất — phải ngồi lâu.","en":"Hotpot is the most social meal there is — you're stuck together for hours.","ipa":"/ˈhɑtˌpɑt ɪz ðə moʊst ˈsoʊʃəl mil ðɛr ɪz, jʊr stʌk təˈɡɛðər fər ˈaʊərz/"},
+{"vi":"Quần áo ám mùi mà vui vẻ ra về.","en":"We left smelling like the pot but grinning.","ipa":"/wi lɛft ˈsmɛlɪŋ laɪk ðə pɑt bət ˈɡrɪnɪŋ/"},
+{"vi":"Cuối tuần sau rủ cả team đi.","en":"Next weekend let's drag the whole team along.","ipa":"/nɛkst ˈwikˌɛnd lɛts dræɡ ðə hoʊl tim əˈlɔŋ/"}]}],
+"practice":["Giải thích cách nhúng lẩu đúng điệu bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: một người lần đầu ăn lẩu — một người hướng dẫn.","Ôn lại 5 câu khó nhất của Ngày 111 trước khi bắt đầu."],
+"checks":["Đọc to 15 câu","Ăn lẩu","Ôn lại Ngày 111"]},
+
+{"day":113,"slug":"mi-trung-quoc","emoji":"🍜","scenes":[
+{"vi":"Tiệm mì nhỏ","en":"The noodle shop","sentences":[
+{"vi":"Tiệm mì này nhỏ xíu mà lúc nào cũng kín bàn.","en":"This noodle shop is tiny but always packed.","ipa":"/ðɪs ˈnudəl ʃɑp ɪz ˈtaɪni bət ˈɔlweɪz pækt/"},
+{"vi":"Ghế ngồi quay mặt vào tường — chuẩn quán ngon.","en":"The seats face the wall — that's how you know it's legit.","ipa":"/ðə sits feɪs ðə wɔl, ðæts haʊ ju noʊ ɪts lɪˈʤɪt/"},
+{"vi":"Nghe tiếng thớt chặt vịt quay từ ngoài vỉa hè.","en":"You can hear the cleaver chopping roast duck from the street.","ipa":"/ju kæn hɪr ðə ˈklivər ˈtʃɑpɪŋ roʊst dʌk frʌm ðə strit/"},
+{"vi":"Bếp mở, thấy anh thợ kéo mì bằng tay luôn.","en":"Open kitchen — you can watch the guy hand-pull the noodles.","ipa":"/ˈoʊpən ˈkɪtʃɪn, ju kæn wɑtʃ ðə ɡaɪ hænd pʊl ðə ˈnudəlz/"}]},
+{"vi":"Mì kéo tay","en":"Hand-pulled noodles","sentences":[
+{"vi":"Cho một tô mì bò Lan Châu, sợi nhỏ nhé.","en":"One bowl of Lanzhou beef noodles, thin pull please.","ipa":"/wʌn boʊl əv ˈlænʤoʊ bif ˈnudəlz, θɪn pʊl pliz/"},
+{"vi":"Nước dùng trong mà vị sâu, hành lá trên mặt.","en":"Clear broth but deep flavour, scallions on top.","ipa":"/klɪr brɔθ bət dip ˈfleɪvər, ˈskæljənz ɑn tɑp/"},
+{"vi":"Dầu ớt một thìa, cay nồng đúng điệu.","en":"One spoon of chili oil — the heat is just right.","ipa":"/wʌn spun əv ˈtʃɪli ɔɪl, ðə hit ɪz ʤʌst raɪt/"},
+{"vi":"Sợi mì kéo tay dai hơn mì máy thấy rõ.","en":"Hand-pulled noodles are way chewier than machine-cut.","ipa":"/hænd pʊld ˈnudəlz ɑr weɪ ˈtʃuiər ðæn məˈʃin kʌt/"},
+{"vi":"Muốn sợi lớn cũng được, họ kéo tại chỗ.","en":"You can ask for wide noodles too — they pull them on the spot.","ipa":"/ju kæn æsk fər waɪd ˈnudəlz tu, ðeɪ pʊl ðɛm ɑn ðə spɑt/"}]},
+{"vi":"Vịt quay & wonton","en":"Roast duck & wontons","sentences":[
+{"vi":"Thêm đĩa vịt quay da giòn, chấm tương đen.","en":"Add a plate of crispy roast duck with the dark sauce.","ipa":"/æd ə pleɪt əv ˈkrɪspi roʊst dʌk wɪð ðə dɑrk sɔs/"},
+{"vi":"Da vịt bóng, giòn vỡ ngay trong miệng.","en":"The skin is glossy and shatters in your mouth.","ipa":"/ðə skɪn ɪz ˈɡlɔsi ænd ˈʃætərz ɪn jʊr maʊθ/"},
+{"vi":"Wonton trôi trong nước dùng mềm như mây.","en":"The wontons are silky — they float in the broth like clouds.","ipa":"/ðə ˈwɑntɑnz ɑr ˈsɪlki, ðeɪ floʊt ɪn ðə brɔθ laɪk klaʊdz/"},
+{"vi":"Rẻ mà ăn no — chuẩn quán ăn thực dân.","en":"Cheap and filling — proper workers' food.","ipa":"/tʃip ænd ˈfɪlɪŋ, ˈprɑpər ˈwɜrkərz fud/"}]},
+{"vi":"Kết","en":"Verdict","sentences":[
+{"vi":"Mì Trung Quốc đơn giản mà sâu — chìa khoá là nước dùng.","en":"Chinese noodles are simple but deep — it's all about the broth.","ipa":"/tʃaɪˈniz ˈnudəlz ɑr ˈsɪmpəl bət dip, ɪts ɔl əˈbaʊt ðə brɔθ/"},
+{"vi":"Tuần nào mình cũng quay lại ít nhất một lần.","en":"I come back at least once a week now.","ipa":"/aɪ kʌm bæk æt list wʌns ə wik naʊ/"}]}],
+"practice":["Mô tả tiệm mì và cách gọi món bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: một người lần đầu — một người quen quán.","Ôn lại 5 câu khó nhất của Ngày 112 trước khi bắt đầu."],
+"checks":["Đọc to 15 câu","Gọi mì","Ôn lại Ngày 112"]}
+
+]}
