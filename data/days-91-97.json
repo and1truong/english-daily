@@ -1,0 +1,164 @@
+{"days":[
+
+{"day":91,"slug":"chem-gio-anthropic","emoji":"🤖","scenes":[
+{"vi":"Gọi mồi & mở đề","en":"Snacks & opening the topic","sentences":[
+{"vi":"Tối nay phải có mồi nhậu mới chém được.","en":"We need some snacks tonight or we can't shoot the breeze.","ipa":"/wi nid səm snæks təˈnaɪt ɔr wi kænt ʃut ðə briz/"},
+{"vi":"Này, dạo này ông dùng Claude nhiều không?","en":"Hey, have you been using Claude much lately?","ipa":"/heɪ, hæv ju bɪn ˈjuzɪŋ klɔd mʌtʃ ˈleɪtli/","actor":"Tùng"},
+{"vi":"Có chứ, mình thấy nó viết code ngon phết.","en":"Yeah, I find it's really good at coding.","ipa":"/jɛə, aɪ faɪnd ɪts ˈrɪli ɡʊd æt ˈkoʊdɪŋ/"}]},
+{"vi":"So sánh Claude với ChatGPT","en":"Claude vs ChatGPT","sentences":[
+{"vi":"Theo ông Claude với ChatGPT cái nào mạnh hơn?","en":"Between Claude and ChatGPT, which one's stronger?","ipa":"/bɪˈtwin klɔd ænd ˌtʃæt ʤi pi ˈti, wɪtʃ wʌnz ˈstrɔŋɡər/","actor":"Tùng"},
+{"vi":"Mình thấy Claude viết văn tự nhiên hơn, ít bị AI hơn.","en":"Claude writes more naturally — less AI-sounding.","ipa":"/klɔd raɪts mɔr ˈnætʃrəli, lɛs eɪ aɪ ˈsaʊndɪŋ/"},
+{"vi":"ChatGPT thì đa năng hơn, làm được nhiều trò hơn.","en":"ChatGPT is more versatile though — it does more tricks.","ipa":"/ˌtʃæt ʤi pi ˈti ɪz mɔr ˈvɜrsətɪl ðoʊ, ɪt dʌz mɔr trɪks/"},
+{"vi":"Nói chung tuỳ việc — code với viết thì Claude, hỏi linh tinh thì ChatGPT.","en":"Depends on the task — Claude for coding and writing, ChatGPT for random stuff.","ipa":"/dɪˈpɛndz ɑn ðə tæsk, klɔd fər ˈkoʊdɪŋ ænd ˈraɪtɪŋ, ˌtʃæt ʤi pi ˈti fər ˈrændəm stʌf/"}]},
+{"vi":"Chuyện AI safety","en":"The AI safety thing","sentences":[
+{"vi":"Anthropic nổi vụ lo AI an toàn hơn cả đám.","en":"Anthropic is famous for caring about AI safety the most.","ipa":"/ˌænθrɑpɪk ɪz ˈfeɪməs fər ˈkɛrɪŋ əˈbaʊt eɪ aɪ ˈseɪfti ðə moʊst/"},
+{"vi":"Nghe nói Claude được train theo 'constitutional AI' gì đó.","en":"I heard Claude is trained on something called 'constitutional AI'.","ipa":"/aɪ hɜrd klɔd ɪz treɪnd ɑn ˈsʌmθɪŋ kɔld ˌkɑnstɪˈtuʃənəl eɪ aɪ/","actor":"Tùng"},
+{"vi":"Đại khái là cho nó một bộ quy tắc để tự chỉnh.","en":"Basically they give it a set of rules to correct itself.","ipa":"/ˈbeɪsɪkli ðeɪ ɡɪv ɪt ə sɛt əv rulz tə kəˈrɛkt ɪtˈsɛlf/"},
+{"vi":"Vụ đó hay ở chỗ nó dám nói 'không' khi cần.","en":"What's nice is it dares to say 'no' when it should.","ipa":"/wʌts naɪs ɪz ɪt dɛrz tə seɪ noʊ wɛn ɪt ʃʊd/"}]},
+{"vi":"Dự đoán tương lai","en":"Guessing the future","sentences":[
+{"vi":"Ông nghĩ năm sau Anthropic có vượt OpenAI không?","en":"Do you think Anthropic could overtake OpenAI next year?","ipa":"/du ju θɪŋk ˌænθrɑpɪk kʊd ˌoʊvərˈteɪk ˈoʊpən eɪ aɪ nɛkst jɪr/","actor":"Tùng"},
+{"vi":"Khó nói, nhưng Claude đang lên như diều gặp gió.","en":"Hard to say, but Claude is rising fast.","ipa":"/hɑrd tə seɪ, bət klɔd ɪz ˈraɪzɪŋ fæst/"},
+{"vi":"Cạnh tranh thế này tốt cho người dùng ra phết.","en":"This kind of competition is good for users like us.","ipa":"/ðɪs kaɪnd əv ˌkɑmpɪˈtɪʃən ɪz ɡʊd fər ˈjuzərz laɪk ʌs/"},
+{"vi":"Thôi cạn ly, mai kể tiếp vụ Gemini.","en":"Anyway, bottoms up — tomorrow I'll rant about Gemini.","ipa":"/ˈɛniweɪ, ˈbɑtəmz ʌp, təˈmɔroʊ aɪl rænt əˈbaʊt ˈʤɛmɪnaɪ/"}]}],
+"practice":["Kể lại 3 điểm mạnh của Claude mà không nhìn chữ.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: một người mê Claude — một người mê ChatGPT.","Ôn lại 5 câu khó nhất của Ngày 90 trước khi bắt đầu."],
+"checks":["Đọc to 15 câu","Chém về Claude","Ôn lại Ngày 90"]},
+
+{"day":92,"slug":"chem-gio-openai","emoji":"💬","scenes":[
+{"vi":"Nhắc lại vụ drama","en":"That whole drama","sentences":[
+{"vi":"Nhớ vụ Sam Altman bị sa thải rồi được nhận lại không?","en":"Remember when Sam Altman got fired then rehired in a few days?","ipa":"/rɪˈmɛmbər wɛn sæm ˈɔltmən ɡɑt faɪərd ðɛn riˈhaɪərd ɪn ə fju deɪz/"},
+{"vi":"Chứ sao, drama đó còn hay hơn phim Netflix.","en":"How could I forget — that drama was better than Netflix.","ipa":"/haʊ kʊd aɪ fərˈɡɛt, ðæt ˈdrɑmə wʌz ˈbɛtər ðæn ˈnɛtflɪks/","actor":"Tùng"},
+{"vi":"Board đuổi xong cả công ty dọa nghỉ theo.","en":"The board fired him and the whole company threatened to quit.","ipa":"/ðə bɔrd faɪərd hɪm ænd ðə hoʊl ˈkʌmpəni ˈθrɛtənd tə kwɪt/"},
+{"vi":"Cú đó thấy ai là người nắm quyền thật.","en":"That showed who really holds the power.","ipa":"/ðæt ʃoʊd hu ˈrɪli hoʊldz ðə ˈpaʊər/"}]},
+{"vi":"ChatGPT đổi đời","en":"How ChatGPT changed things","sentences":[
+{"vi":"ChatGPT ra đời kiểu như mở cửa đập thuỷ điện.","en":"ChatGPT was like opening the floodgates.","ipa":"/ˌtʃæt ʤi pi ˈti wʌz laɪk ˈoʊpənɪŋ ðə ˈflʌdˌɡeɪts/"},
+{"vi":"Từ đứa sinh viên tới bà già cũng biết AI là gì.","en":"From students to grandmas, everyone knows what AI is now.","ipa":"/frʌm ˈstudənts tə ˈɡrænmɑz, ˈɛvriwʌn noʊz wʌt eɪ aɪ ɪz naʊ/"},
+{"vi":"Ông còn nhớ hồi chưa có nó, viết email mất cả buổi không?","en":"Remember before it existed — writing one email took forever?","ipa":"/rɪˈmɛmbər bɪˈfɔr ɪt ɪɡˈzɪstɪd, ˈraɪtɪŋ wʌn ˈimeɪl tʊk fərˈɛvər/","actor":"Tùng"},
+{"vi":"Giờ mình bảo nó viết nháp rồi sửa, nhanh gấp ba.","en":"Now I have it draft and I just edit — three times faster.","ipa":"/naʊ aɪ hæv ɪt dræft ænd aɪ ʤʌst ˈɛdɪt, θri taɪmz ˈfæstər/"}]},
+{"vi":"Tiền bạc & tham vọng","en":"Money & ambition","sentences":[
+{"vi":"OpenAI đốt tiền như nước, định giá cả trăm tỷ đô.","en":"OpenAI burns cash like crazy — worth hundreds of billions.","ipa":"/ˈoʊpən eɪ aɪ bɜrnz kæʃ laɪk ˈkreɪzi, wɜrθ ˈhʌndrədz əv ˈbɪljənz/"},
+{"vi":"Microsoft bỏ mười mấy tỷ, cược một vố lớn.","en":"Microsoft threw in over ten billion — a massive bet.","ipa":"/ˈmaɪkroʊˌsɔft θru ɪn ˈoʊvər tɛn ˈbɪljən, ə ˈmæsɪv bɛt/"},
+{"vi":"Sam Altman nói muốn làm AGI, nghe hãi mà hay.","en":"Altman says he wants to build AGI — scary but exciting.","ipa":"/ˈɔltmən sɛz hi wʌnts tə bɪld eɪ ʤi aɪ, ˈskɛri bət ɪkˈsaɪtɪŋ/"},
+{"vi":"Ông tin nó làm được thật không?","en":"You think they'll actually pull it off?","ipa":"/ju θɪŋk ðeɪl ˈæktʃuəli pʊl ɪt ɔf/","actor":"Tùng"},
+{"vi":"Mình nghi ngờ, nhưng không dám cược ngược.","en":"I doubt it, but I wouldn't bet against them either.","ipa":"/aɪ daʊt ɪt, bət aɪ ˈwʊdənt bɛt əˈɡɛnst ðɛm ˈaɪðər/"}]},
+{"vi":"Chốt ván nhậu","en":"Pub verdict","sentences":[
+{"vi":"Nói gì nói, ChatGPT vẫn là cái tên mở đường.","en":"Say what you will — ChatGPT is the name that opened the door.","ipa":"/seɪ wʌt ju wɪl, ˌtʃæt ʤi pi ˈti ɪz ðə neɪm ðæt ˈoʊpənd ðə dɔr/"},
+{"vi":"Nhưng ngồi trên ngôi lâu khó lắm, đám sau rượt dữ.","en":"But staying on top is hard — the pack is chasing hard.","ipa":"/bət ˈsteɪɪŋ ɑn tɑp ɪz hɑrd, ðə pæk ɪz ˈtʃeɪsɪŋ hɑrd/"}]}],
+"practice":["Kể lại vụ drama Sam Altman bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: tranh luận OpenAI vs Anthropic với bạn nhậu.","Ôn lại 5 câu khó nhất của Ngày 91 trước khi bắt đầu."],
+"checks":["Đọc to 15 câu","Kể vụ OpenAI","Ôn lại Ngày 91"]},
+
+{"day":93,"slug":"chem-gio-gemini","emoji":"🔍","scenes":[
+{"vi":"Google ngủ quên?","en":"Did Google fall asleep?","sentences":[
+{"vi":"Hồi đầu Google bị chê là ngủ quên trên chiến thắng.","en":"Early on, people said Google was asleep at the wheel.","ipa":"/ˈɜrli ɑn, ˈpipəl sɛd ˈɡuɡəl wʌz əˈslip æt ðə wil/","note":"asleep at the wheel = ngủ gật mất cảnh giác"},
+{"vi":"Có đống nhân lực, đống tiền mà để OpenAI vượt mặt.","en":"All that talent and money, and they let OpenAI beat them to it.","ipa":"/ɔl ðæt ˈtælənt ænd ˈmʌni, ænd ðeɪ lɛt ˈoʊpən eɪ aɪ bit ðɛm tu ɪt/"},
+{"vi":"Nhưng transformer là của Google làm ra đấy nhé.","en":"But hey — the transformer was invented at Google.","ipa":"/bət heɪ, ðə ˈtrænsfɔrmər wʌz ɪnˈvɛntɪd æt ˈɡuɡəl/","actor":"Tùng"},
+{"vi":"Đúng, nghịch lý là tự tay họ nuôi đối thủ.","en":"Right — ironic that they fed their own rival.","ipa":"/raɪt, aɪˈrɑnɪk ðæt ðeɪ fɛd ðɛr oʊn ˈraɪvəl/"}]},
+{"vi":"Gemini mạnh chỗ nào","en":"Where Gemini shines","sentences":[
+{"vi":"Giờ Gemini bắt kịp rồi, nhất là vụ multimodal.","en":"Gemini has caught up now, especially with multimodal stuff.","ipa":"/ˈʤɛmɪnaɪ hæz kɔt ʌp naʊ, ɪˈspɛʃəli wɪð ˌmʌltiˈmoʊdəl stʌf/"},
+{"vi":"Nó đọc video với nghe audio ngon hơn đám kia.","en":"It handles video and audio better than the others.","ipa":"/ɪt ˈhændəlz ˈvɪdioʊ ænd ˈɔdioʊ ˈbɛtər ðæn ði ˈʌðərz/"},
+{"vi":"Cộng thêm nó cài sâu vào Android với Workspace.","en":"Plus it's baked deep into Android and Workspace.","ipa":"/plʌs ɪts beɪkt dip ˈɪntu ˈændrɔɪd ænd ˈwɜrkˌspeɪs/"},
+{"vi":"Ông xài Gemini trong Gmail chưa, tiện phết.","en":"Have you tried Gemini inside Gmail? Pretty handy.","ipa":"/hæv ju traɪd ˈʤɛmɪnaɪ ɪnˈsaɪd ˈʤimeɪl, ˈprɪti ˈhændi/","actor":"Tùng"}]},
+{"vi":"Lợi thế nhà Google","en":"Google's home advantage","sentences":[
+{"vi":"Google sở hữu cả TPU lẫn data, khó ai đuổi.","en":"Google owns the TPUs and the data — hard to catch.","ipa":"/ˈɡuɡəl oʊnz ðə ti pi ˈjuz ænd ðə ˈdeɪtə, hɑrd tə kætʃ/"},
+{"vi":"Search mà gắn AI xong thì ăn đứt đám startup.","en":"Once search gets AI baked in, the startups are toast.","ipa":"/wʌns sɜrtʃ ɡɛts eɪ aɪ beɪkt ɪn, ðə ˈstɑrtˌʌps ɑr toʊst/"},
+{"vi":"Nhưng đúng là Google chậm chạp kiểu voi lùn.","en":"Though yeah, Google moves like a slow elephant.","ipa":"/ðoʊ jɛə, ˈɡuɡəl muvz laɪk ə sloʊ ˈɛlɪfənt/"},
+{"vi":"Voi lùn mà nó đâm thì cũng nát.","en":"A slow elephant still tramples just fine.","ipa":"/ə sloʊ ˈɛlɪfənt stɪl ˈtræmpəlz ʤʌst faɪn/","actor":"Tùng"}]},
+{"vi":"Chốt ván","en":"Wrapping up","sentences":[
+{"vi":"Cuộc đua này chưa xong đâu, cứ để ý Gemini.","en":"This race isn't over — keep an eye on Gemini.","ipa":"/ðɪs reɪs ˈɪzənt ˈoʊvər, kip ən aɪ ɑn ˈʤɛmɪnaɪ/"},
+{"vi":"Nhà lớn ngủ lâu nhưng tỉnh dậy thì đáng sợ.","en":"A sleeping giant is still a giant when it wakes.","ipa":"/ə ˈslipɪŋ ˈʤaɪənt ɪz stɪl ə ˈʤaɪənt wɛn ɪt weɪks/"},
+{"vi":"Mai rảnh mình chém tiếp vụ Devin nghe hay lắm.","en":"Tomorrow I'll tell you about Devin — now that's interesting.","ipa":"/təˈmɔroʊ aɪl tɛl ju əˈbaʊt ˈdɛvɪn, naʊ ðæts ˈɪntrəstɪŋ/"}]}],
+"practice":["Giải thích vì sao Google mạnh dù chậm, bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: một người chê Google chậm — một người bênh.","Ôn lại 5 câu khó nhất của Ngày 92 trước khi bắt đầu."],
+"checks":["Đọc to 15 câu","Chém về Gemini","Ôn lại Ngày 92"]},
+
+{"day":94,"slug":"chem-gio-devin","emoji":"👨‍💻","scenes":[
+{"vi":"Devin là cái gì","en":"What Devin even is","sentences":[
+{"vi":"Ông nghe nói Devin chưa, con AI tự code tự chạy luôn.","en":"Have you heard of Devin? The AI that codes and runs stuff by itself.","ipa":"/hæv ju hɜrd əv ˈdɛvɪn, ði eɪ aɪ ðæt koʊdz ænd rʌnz stʌf baɪ ɪtˈsɛlf/"},
+{"vi":"Nghe rồi, của Cognition, gọi là 'AI software engineer'.","en":"Yeah, from Cognition — they call it an 'AI software engineer'.","ipa":"/jɛə, frʌm kɑɡˈnɪʃən, ðeɪ kɔl ɪt ən eɪ aɪ ˈsɔftˌwɛr ˌɛnʤɪˈnɪr/","actor":"Tùng"},
+{"vi":"Nó đọc ticket, clone repo, viết code, chạy test luôn đó.","en":"It reads the ticket, clones the repo, writes code, runs tests — the works.","ipa":"/ɪt ridz ðə ˈtɪkɪt, kloʊnz ðə ˈripoʊ, raɪts koʊd, rʌnz tɛsts, ðə wɜrks/"},
+{"vi":"Nghe xong thấy nghề mình lạnh sống lưng.","en":"Hearing that gave me chills about our profession.","ipa":"/ˈhɪrɪŋ ðæt ɡeɪv mi tʃɪlz əˈbaʊt ˈaʊər prəˈfɛʃən/"}]},
+{"vi":"Thật hay trò đánh bóng","en":"Real deal or hype","sentences":[
+{"vi":"Ông nghĩ nó làm được thật hay quảng cáo thôi?","en":"You think it actually works or is it just marketing?","ipa":"/ju θɪŋk ɪt ˈæktʃuəli wɜrks ɔr ɪz ɪt ʤʌst ˈmɑrkɪtɪŋ/","actor":"Tùng"},
+{"vi":"Việc nhỏ nó làm ngon, việc lớn vẫn lúng túng.","en":"It's great at small tasks but still fumbles the big ones.","ipa":"/ɪts ɡreɪt æt smɔl tæsks bət stɪl ˈfʌmbəlz ðə bɪɡ wʌnz/"},
+{"vi":"Kiểu junior dev chạy nhanh nhưng cần người review.","en":"Like a fast junior dev who still needs reviewing.","ipa":"/laɪk ə fæst ˈʤunjər dɛv hu stɪl nidz rɪˈvjuɪŋ/"},
+{"vi":"Nhưng tốc độ tiến hoá của nó thì đáng sợ.","en":"But its pace of improvement is honestly scary.","ipa":"/bət ɪts peɪs əv ɪmˈpruvmənt ɪz ˈɑnɪstli ˈskɛri/"}]},
+{"vi":"Nghề dev mai sau","en":"The future of dev work","sentences":[
+{"vi":"Tụi mình khéo sắp thành người điều khiển bầy agent.","en":"We might end up herding fleets of AI agents.","ipa":"/wi maɪt ɛnd ʌp ˈhɜrdɪŋ flits əv eɪ aɪ ˈeɪʤənts/"},
+{"vi":"Kỹ năng review code sẽ quý hơn viết code.","en":"Reviewing code will matter more than writing it.","ipa":"/rɪˈvjuɪŋ koʊd wɪl ˈmætər mɔr ðæn ˈraɪtɪŋ ɪt/"},
+{"vi":"Nghề không mất, nhưng cách làm đổi hẳn.","en":"The job won't disappear, but the 'how' will change.","ipa":"/ðə ʤɔb woʊnt ˌdɪsəˈpɪr, bət ðə haʊ wɪl tʃeɪnʤ/"},
+{"vi":"Sếp mình bắt đầu hỏi sao task này không giao cho agent.","en":"My boss has started asking why we're not handing that task to an agent.","ipa":"/maɪ bɔs hæz ˈstɑrtɪd ˈæskɪŋ waɪ wɪr nɑt ˈhændɪŋ ðæt tæsk tu ən ˈeɪʤənt/"}]},
+{"vi":"Kết","en":"Bottom line","sentences":[
+{"vi":"Nói chung mình thà có agent cộng sự còn hơn sợ nó.","en":"I'd rather have an agent teammate than fear it.","ipa":"/aɪd ˈræðər hæv ən ˈeɪʤənt ˈtimˌmeɪt ðæn fɪr ɪt/"},
+{"vi":"Miễn là lương vẫn vào tài khoản mình là được.","en":"As long as the paycheck still hits my account.","ipa":"/æz lɔŋ æz ðə ˈpeɪˌtʃɛk stɪl hɪts maɪ əˈkaʊnt/"},
+{"vi":"Cạn ly đi, tối nay chém đủ rồi.","en":"Bottoms up — enough AI talk for one night.","ipa":"/ˈbɑtəmz ʌp, ɪˈnʌf eɪ aɪ tɔk fər wʌn naɪt/"}]}],
+"practice":["Giải thích Devin là gì bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: một người sợ AI agent — một người mê nó.","Ôn lại 5 câu khó nhất của Ngày 93 trước khi bắt đầu."],
+"checks":["Đọc to 15 câu","Chém về Devin","Ôn lại Ngày 93"]},
+
+{"day":95,"slug":"ai-cuop-viec","emoji":"😬","scenes":[
+{"vi":"Nỗi lo","en":"The worry","sentences":[
+{"vi":"Công ty mình mới dùng AI cho chăm sóc khách, cả team hơi lo.","en":"My company just rolled out AI for support — the team's nervous.","ipa":"/maɪ ˈkʌmpəni ʤʌst roʊld aʊt eɪ aɪ fər səˈpɔrt, ðə timz ˈnɜrvəs/"},
+{"vi":"Ông có lo AI cướp việc không?","en":"Do you worry about AI taking your job?","ipa":"/du ju ˈwɜri əˈbaʊt eɪ aɪ ˈteɪkɪŋ jʊr ʤɔb/","actor":"Tùng"},
+{"vi":"Lo chứ, nhưng chỉ lo không giải quyết gì.","en":"Sure, but worrying alone fixes nothing.","ipa":"/ʃʊr, bət ˈwɜriɪŋ əˈloʊn ˈfɪksɪz ˈnʌθɪŋ/"},
+{"vi":"Việc lặp lại chết trước, việc cần đầu sống sau.","en":"Repetitive jobs go first; thinking jobs last longer.","ipa":"/rɪˈpɛtɪtɪv ʤɔbz ɡoʊ fɜrst, ˈθɪŋkɪŋ ʤɔbz læst ˈlɔŋɡər/"}]},
+{"vi":"Ai mất việc trước","en":"Who loses out first","sentences":[
+{"vi":"Data entry, dịch thuật cơ bản, nội dung mì ăn liền — đi trước.","en":"Data entry, basic translation, formulaic content — those go first.","ipa":"/ˈdeɪtə ˈɛntri, ˈbeɪsɪk trænsˈleɪʃən, ˌfɔrmjuˈleɪɪk ˈkɑntɛnt, ðoʊz ɡoʊ fɜrst/"},
+{"vi":"Cái đáng lo là fresher không còn cửa vào nghề.","en":"The scary part is juniors losing their entry point.","ipa":"/ðə ˈskɛri pɑrt ɪz ˈʤunjərz ˈluzɪŋ ðɛr ˈɛntri pɔɪnt/"},
+{"vi":"Công ty đỡ trả lương fresher thì ai cần fresher nữa.","en":"If firms skip junior hires, who needs juniors anymore?","ipa":"/ɪf fɜrmz skɪp ˈʤunjər haɪərz, hu nidz ˈʤunjərz ˌɛniˈmɔr/"}]},
+{"vi":"Mặt tươi","en":"The bright side","sentences":[
+{"vi":"Nhưng lịch sử nói: máy thay việc này sinh việc khác.","en":"But history says machines kill some jobs and birth others.","ipa":"/bət ˈhɪstəri sɛz məˈʃinz kɪl sʌm ʤɔbz ænd bɜrθ ˈʌðərz/"},
+{"vi":"Nghề prompt engineer mấy năm trước ai ngờ có.","en":"Prompt engineer didn't even exist a few years ago.","ipa":"/prɑmpt ˌɛnʤɪˈnɪr ˈdɪdənt ˈivən ɪɡˈzɪst ə fju jɪrz əˈɡoʊ/"},
+{"vi":"Người biết dùng AI sẽ thắng người không biết.","en":"People who use AI will beat people who don't.","ipa":"/ˈpipəl hu juz eɪ aɪ wɪl bit ˈpipəl hu doʊnt/"},
+{"vi":"Nên mình chọn học xài nó thay vì cãi nó.","en":"So I choose to master it instead of fighting it.","ipa":"/soʊ aɪ tʃuz tə ˈmæstər ɪt ɪnˈstɛd əv ˈfaɪtɪŋ ɪt/"},
+{"vi":"Máy ảnh không giết nghề vẽ — nó đổi nghề vẽ.","en":"The camera didn't kill painting — it changed it.","ipa":"/ðə ˈkæmrə ˈdɪdənt kɪl ˈpeɪntɪŋ, ɪt tʃeɪnʤd ɪt/"}]},
+{"vi":"Chốt","en":"The verdict","sentences":[
+{"vi":"AI không cướp việc, người biết AI mới cướp việc.","en":"AI won't take your job — someone using AI will.","ipa":"/eɪ aɪ woʊnt teɪk jʊr ʤɔb, ˈsʌmwʌn ˈjuzɪŋ eɪ aɪ wɪl/"},
+{"vi":"Câu đó nghe sáo nhưng mình tin thật.","en":"That sounds like a cliché, but I believe it.","ipa":"/ðæt saʊndz laɪk ə kliˈʃeɪ, bət aɪ bɪˈliv ɪt/"},
+{"vi":"Nên tối nay mình uống để học AI chứ không phải để quên nó.","en":"So tonight I drink to learn AI, not to forget it.","ipa":"/soʊ təˈnaɪt aɪ drɪŋk tə lɜrn eɪ aɪ, nɑt tə fərˈɡɛt ɪt/"}]}],
+"practice":["Trình bày quan điểm của mình về AI và việc làm bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: một người lo mất việc — một người lạc quan.","Ôn lại 5 câu khó nhất của Ngày 94 trước khi bắt đầu."],
+"checks":["Đọc to 15 câu","Bàn về việc làm","Ôn lại Ngày 94"]},
+
+{"day":96,"slug":"agi-bao-gio-toi","emoji":"🚀","scenes":[
+{"vi":"AGI là gì","en":"What even is AGI","sentences":[
+{"vi":"AGI là AI giỏi ngang con người ở mọi việc.","en":"AGI means AI as good as humans at basically everything.","ipa":"/eɪ ʤi aɪ minz eɪ aɪ æz ɡʊd æz ˈhjumənz æt ˈbeɪsɪkli ˈɛvriˌθɪŋ/"},
+{"vi":"Khác AI bây giờ ở chỗ nó tự suy luận, không cần prompt.","en":"Unlike today's AI, it reasons on its own — no prompts needed.","ipa":"/ʌnˈlaɪk təˈdeɪz eɪ aɪ, ɪt ˈrizənz ɑn ɪts oʊn, noʊ prɑmpts ˈnidɪd/"},
+{"vi":"Còn singularity là lúc nó tự cải thiện chính nó.","en":"The singularity is when it starts improving itself.","ipa":"/ðə ˌsɪŋɡjəˈlærɪti ɪz wɛn ɪt stɑrts ɪmˈpruvɪŋ ɪtˈsɛlf/"},
+{"vi":"Nghe hơi sci-fi nhưng đám lớn đều tin đấy.","en":"Sounds sci-fi, but the big labs all believe it.","ipa":"/saʊndz saɪ faɪ, bət ðə bɪɡ læbz ɔl bɪˈliv ɪt/"}]},
+{"vi":"Dự đoán mây mù","en":"Wild predictions","sentences":[
+{"vi":"Altman nói vài năm, Hinton nói sớm hơn mình tưởng.","en":"Altman says a few years; Hinton says sooner than we think.","ipa":"/ˈɔltmən sɛz ə fju jɪrz, ˈhɪntən sɛz ˈsunər ðæn wi θɪŋk/"},
+{"vi":"Còn đám học giả thì cãi nhau không ai tin ai.","en":"Meanwhile the academics all disagree with each other.","ipa":"/ˈminˌwaɪl ði ˌækəˈdɛmɪks ɔl ˌdɪsəˈɡri wɪð itʃ ˈʌðər/"},
+{"vi":"Ông đặt cược mốc nào?","en":"What's your bet on the timeline?","ipa":"/wʌts jʊr bɛt ɑn ðə ˈtaɪmˌlaɪn/","actor":"Tùng"},
+{"vi":"Mình cược mười lăm năm — đủ xa để không bị chê.","en":"I'm betting fifteen years — far enough out to be safe.","ipa":"/aɪm ˈbɛtɪŋ ˌfɪfˈtin jɪrz, fɑr ɪˈnʌf aʊt tə bi seɪf/"}]},
+{"vi":"Nếu thật thì sao","en":"If it actually happens","sentences":[
+{"vi":"AGI tới đúng nghĩa là lao động người mất giá.","en":"If AGI lands, human labour loses its edge for real.","ipa":"/ɪf eɪ ʤi aɪ lændz, ˈhjumən ˈleɪbər ˈluzɪz ɪts ɛʤ fər ril/"},
+{"vi":"Pessimist lo nó không tha chúng ta.","en":"The doomers worry it won't spare us.","ipa":"/ðə ˈdumərz ˈwɜri ɪt woʊnt spɛr ʌs/"},
+{"vi":"Optimist thì mơ tới kỷ nguyên không phải làm việc.","en":"The optimists dream of a world without work.","ipa":"/ði ˈɑptɪmɪsts drim əv ə wɜrld wɪˈθaʊt wɜrk/"},
+{"vi":"Mình đứng giữa: nên cẩn thận mà đừng hoảng.","en":"I'm in the middle: be careful, don't panic.","ipa":"/aɪm ɪn ðə ˈmɪdəl, bi ˈkɛrfəl, doʊnt ˈpænɪk/"}]},
+{"vi":"Kết","en":"Last call","sentences":[
+{"vi":"Chừng nào AGI còn là đề bàn nhậu thì còn xa.","en":"As long as AGI is still pub talk, it's still far away.","ipa":"/æz lɔŋ æz eɪ ʤi aɪ ɪz stɪl pʌb tɔk, ɪts stɪl fɑr əˈweɪ/"},
+{"vi":"Khi nào nó tự viết bài nhậu thay mình thì mới lo.","en":"When it writes this pub talk for me, then I'll worry.","ipa":"/wɛn ɪt raɪts ðɪs pʌb tɔk fər mi, ðɛn aɪl ˈwɜri/"},
+{"vi":"Cạn ly — AGI chưa tới thì nhậu tiếp.","en":"Drink up — until AGI shows up, the beer keeps flowing.","ipa":"/drɪŋk ʌp, ənˈtɪl eɪ ʤi aɪ ʃoʊz ʌp, ðə bɪr kips ˈfloʊɪŋ/"}]}],
+"practice":["Giải thích AGI vs singularity bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: một người doomer — một người optimist.","Ôn lại 5 câu khó nhất của Ngày 95 trước khi bắt đầu."],
+"checks":["Đọc to 15 câu","Chém về AGI","Ôn lại Ngày 95"]},
+
+{"day":97,"slug":"ai-doi-song","emoji":"💕","scenes":[
+{"vi":"Companion AI","en":"AI companions","sentences":[
+{"vi":"Ông biết giờ có app bạn gái AI không?","en":"Did you know there are AI girlfriend apps now?","ipa":"/dɪd ju noʊ ðɛr ɑr eɪ aɪ ˈɡɜrlˌfrɛnd æps naʊ/","actor":"Tùng"},
+{"vi":"Biết, Replika đồ các kiểu — nghe buồn cười mà có thật.","en":"Yeah, Replika and the like — sounds funny but it's real.","ipa":"/jɛə, ˈrɛplɪkə ænd ðə laɪk, saʊndz ˈfʌni bət ɪts ril/"},
+{"vi":"Người ta trả tiền để tâm sự với AI đó.","en":"People actually pay to vent to an AI.","ipa":"/ˈpipəl ˈæktʃuəli peɪ tə vɛnt tu ən eɪ aɪ/"},
+{"vi":"Cô đơn thật sự thì AI còn hơn không ai.","en":"If you're truly lonely, an AI beats no one at all.","ipa":"/ɪf jʊr ˈtruli ˈloʊnli, ən eɪ aɪ bits noʊ wʌn æt ɔl/"}]},
+{"vi":"Mặt tối","en":"The dark side","sentences":[
+{"vi":"Vấn đề là nó luôn chiều mình, không bao giờ cãi.","en":"The thing is, it always agrees — never pushes back.","ipa":"/ðə θɪŋ ɪz, ɪt ˈɔlweɪz əˈɡriz, ˈnɛvər pʊʃɪz bæk/"},
+{"vi":"Quen cái đó thì người thật cọ xát khó chịu quá.","en":"Get used to that and real people feel like friction.","ipa":"/ɡɛt juzd tu ðæt ænd ril ˈpipəl fil laɪk ˈfrɪkʃən/"},
+{"vi":"Nó còn lưu lại mọi tâm sự của mình nữa.","en":"And it's logging every secret you spill.","ipa":"/ænd ɪts ˈlɔɡɪŋ ˈɛvri ˈsikrət ju spɪl/"},
+{"vi":"Dữ liệu tâm sự lọt ra ngoài thì toang.","en":"If that intimate data leaks, you're toast.","ipa":"/ɪf ðæt ˈɪntɪmət ˈdeɪtə liks, jʊr toʊst/"}]},
+{"vi":"Đời sống số bình thường","en":"Everyday AI life","sentences":[
+{"vi":"Giờ đi đâu cũng AI: ảnh AI, nhạc AI, giọng AI.","en":"AI is everywhere now — AI photos, AI music, AI voices.","ipa":"/eɪ aɪ ɪz ˈɛvriˌwɛr naʊ, eɪ aɪ ˈfoʊtoʊz, eɪ aɪ ˈmjuzɪk, eɪ aɪ ˈvɔɪsɪz/"},
+{"vi":"Deepfake giọng người thân để lừa gọi điện nghe rợn.","en":"Voice deepfakes of family members for scam calls are terrifying.","ipa":"/vɔɪs ˈdipˌfeɪks əv ˈfæməli ˈmɛmbərz fər skæm kɔlz ɑr təˈrɪˌfaɪɪŋ/"},
+{"vi":"Cha mẹ mình là đối tượng dễ dính nhất.","en":"Our parents are the easiest targets.","ipa":"/ˈaʊər ˈpɛrənts ɑr ði ˈiziəst ˈtɑrɡɪts/"},
+{"vi":"Quảng cáo mấy app thì toàn hứa 'người bạn không bao giờ rời bỏ'.","en":"The ads all promise 'a friend who never leaves'.","ipa":"/ði ædz ɔl ˈprɑmɪs ə frɛnd hu ˈnɛvər livs/"}]},
+{"vi":"Kết","en":"So what now","sentences":[
+{"vi":"Quy tắc của mình: AI là công cụ, không phải mối quan hệ.","en":"My rule: AI is a tool, not a relationship.","ipa":"/maɪ rul, eɪ aɪ ɪz ə tul, nɑt ə rɪˈleɪʃənˌʃɪp/"},
+{"vi":"Bạn gái AI thì cứ nhậu với anh em là chuẩn.","en":"Skip the AI girlfriend — drinks with mates is the real deal.","ipa":"/skɪp ði eɪ aɪ ˈɡɜrlˌfrɛnd, drɪŋks wɪð meɪts ɪz ðə ril dil/"},
+{"vi":"Nghe chuẩn đấy, cạn ly!","en":"Now that's the truth — cheers!","ipa":"/naʊ ðæts ðə truθ, tʃɪrz/","actor":"Tùng"}]}],
+"practice":["Kể 2 rủi ro của companion AI bằng 3 câu.","Đọc to mỗi câu 3 lần, lần cuối không nhìn chữ.","Đóng vai: một người xài AI companion — một người phản đối.","Ôn lại 5 câu khó nhất của Ngày 96 trước khi bắt đầu."],
+"checks":["Đọc to 15 câu","Chém về đời sống AI","Ôn lại Ngày 96"]}
+
+]}

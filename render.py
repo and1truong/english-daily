@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Render English Daily pages: data/day-NN.json -> day-NN-slug.html + index.html."""
-import json, html, sys, re
+import json, html, sys
 from pathlib import Path
 
 BASE = Path(__file__).parent
@@ -89,14 +89,15 @@ def render_day(topic, d):
 
 def render_index():
     done = {t["day"] for t in TOPICS if t.get("done")}
-    done |= {int(m.group(1)) for f in DATA.glob("day-*.json") if (m := re.match(r"day-(\d+)", f.name))}
+    done |= set(load_days())
     parts = [HEAD.format(day="—", title="Bản đồ chủ đề")]
     parts.append('  <span class="day-badge">English Daily</span>\n')
     parts.append('  <h1>Sổ tay hội thoại tưởng tượng</h1>\n')
     parts.append('  <div class="subtitle">3 tháng · mỗi ngày một chủ đề · 20–25 câu · suy nghĩ tiếng Việt → câu tiếng Anh tự nhiên → phiên âm IPA</div>\n\n')
     parts.append('  <div class="goal">\n    <b>Cách dùng:</b> chọn chủ đề của ngày → đọc câu tiếng Việt, tự tưởng tượng mình đang nói →\n    nhìn câu tiếng Anh, đọc to theo phiên âm → nói trước gương không nhìn chữ.\n    Ôn lại câu của hôm trước trước khi học chủ đề mới.\n  </div>\n')
     parts.append('  <div class="legend">✅ = đã có bài · mỗi chủ đề là một ngày luyện tập</div>\n')
-    for week in range(1, 14):
+    max_week = max(t["day"] for t in TOPICS) // 7 + 1
+    for week in range(1, max_week + 1):
         wdays = [t for t in TOPICS if (t["day"] - 1) // 7 + 1 == week]
         if not wdays:
             continue
