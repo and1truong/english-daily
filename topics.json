@@ -111,5 +111,8 @@
 {"day":110,"slug":"nha-hang-y","vi":"Đi nhà hàng Ý","en":"Italian restaurant","scenario":"Bữa tối Ý: antipasto, carbonara đúng Roman, pizza củi, espresso cuối bữa — và quy tắc không uống cappuccino buổi tối."},
 {"day":111,"slug":"buffet-hai-san","vi":"Đi buffet hải sản","en":"Seafood buffet","scenario":"Buffet hải sản 80 đô: chiến thuật ăn — hàu, tôm hùm, cua trước, tránh bẫy đồ chiên, chốt bằng kem."},
 {"day":112,"slug":"lau-viet-nam","vi":"Đi ăn lẩu Việt Nam","en":"Vietnamese hotpot","scenario":"Ăn lẩu với bạn: chọn nồi lẩu mắm hay lẩu thái, nhúng thịt hải sản rau, pha nước chấm, và mì gói cuối bữa."},
-{"day":113,"slug":"mi-trung-quoc","vi":"Đi tiệm mì Trung Quốc","en":"Chinese noodle shop","scenario":"Ghé tiệm mì nhỏ: mì kéo tay Lan Châu, vịt quay, wonton — quán ăn bình dân ngon rẻ."}
+{"day":113,"slug":"mi-trung-quoc","vi":"Đi tiệm mì Trung Quốc","en":"Chinese noodle shop","scenario":"Ghé tiệm mì nhỏ: mì kéo tay Lan Châu, vịt quay, wonton — quán ăn bình dân ngon rẻ."},
+{"day":114,"slug":"di-san-bay","vi":"Đường ra sân bay","en":"Getting to the airport","scenario":"Sáng sớm đi sân bay: gọi Uber, chống hành lý, kẹt xe, đến cửa departures đúng giờ."},
+{"day":115,"slug":"thue-khach-san","vi":"Đặt & thuê khách sạn","en":"Booking a hotel","scenario":"Bạn lên kế hoạch chuyến đi: so giá trên app, hỏi loại phòng, chính sách hủy, ăn sáng gồm chưa, gọi điện đặt phòng."},
+{"day":116,"slug":"checkout-khach-san","vi":"Checkout khách sạn","en":"Hotel checkout","scenario":"Sáng cuối ở khách sạn: kiểm hoá đơn, phí minibar, trả phòng, gửi hành lý ở concierge, gọi xe ra sân bay."}
 ]
